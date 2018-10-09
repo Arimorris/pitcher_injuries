@@ -1,0 +1,3256 @@
+,player,team,year,injured,previous
+0,Christian Parker,New York Yankees,2002,yes,no
+1,Jeff Zimmerman,Texas Rangers,2002,yes,no
+2,Kris Wilson,Kansas City Royals,2002,yes,no
+3,Troy Mattes,Montreal Expos,2002,yes,no
+4,Delvin James,Tampa Bay Devil Rays,2002,yes,no
+5,Oswaldo Mairena,Florida Marlins,2002,yes,no
+6,Eric Cyr,San Diego Padres,2002,yes,no
+7,T.J. Tucker,Montreal Expos,2002,yes,no
+8,Nate Cornejo,Detroit Tigers,2002,yes,no
+9,Darren Dreifort,Los Angeles Dodgers,2002,yes,no
+10,David Coggin,Philadelphia Phillies,2003,yes,no
+11,Chad Zerbe,San Francisco Giants,2003,yes,no
+12,Darren Dreifort,Los Angeles Dodgers,2003,yes,yes
+13,Kevin Olsen,Florida Marlins,2003,yes,no
+14,Rodrigo Rosario,Houston Astros,2003,yes,no
+18,Kris Wilson,Kansas City Royals,2003,yes,yes
+19,Jorge De Paula,New York Yankees,2003,yes,no
+21,Sean Burnett,Pittsburgh Pirates,2003,yes,no
+22,Jorge De Paula,New York Yankees,2004,yes,yes
+23,T.J. Tucker,Montreal Expos,2004,yes,yes
+24,Nate Cornejo,Detroit Tigers,2004,yes,yes
+25,Aquilino Lopez,Toronto Blue Jays,2004,yes,no
+26,Sean Burnett,Pittsburgh Pirates,2004,yes,yes
+27,Mike Johnston,Pittsburgh Pirates,2004,yes,no
+28,Darren Dreifort,Los Angeles Dodgers,2004,yes,yes
+30,Joe Saunders,Anaheim Angels,2004,yes,no
+31,Colter Bean,New York Yankees,2004,yes,no
+32,T.J. Tucker,Washington Nationals,2005,yes,yes
+33,Colter Bean,New York Yankees,2005,yes,yes
+35,Nate Bump,Florida Marlins,2005,yes,no
+37,Scott Baker,Minnesota Twins,2005,yes,no
+40,Aaron Rakers,Baltimore Orioles,2005,yes,no
+42,Joe Saunders,Los Angeles Angels,2005,yes,yes
+44,Sean Burnett,Pittsburgh Pirates,2005,yes,yes
+45,Josh Sharpless,Pittsburgh Pirates,2005,yes,no
+46,David Pauley,Boston Red Sox,2005,yes,no
+47,Jim Johnson,Baltimore Orioles,2005,yes,no
+48,Carlos Marmol,Chicago Cubs,2005,yes,no
+49,Wes Littleton,Texas Rangers,2005,yes,no
+50,Edward Mujica,Cleveland Indians,2006,yes,no
+51,Aaron Rakers,Baltimore Orioles,2006,yes,yes
+52,Rafael Perez,Cleveland Indians,2006,yes,no
+53,Esteban Loaiza,Oakland Athletics,2006,yes,no
+54,Sean Green,Seattle Mariners,2006,yes,no
+55,Peter Moylan,Atlanta Braves,2006,yes,no
+56,Chuck James,Atlanta Braves,2006,yes,no
+57,Colter Bean,New York Yankees,2006,yes,yes
+58,Wes Littleton,Texas Rangers,2006,yes,yes
+59,David Pauley,Boston Red Sox,2006,yes,yes
+60,Carlos Marmol,Chicago Cubs,2006,yes,yes
+61,Craig Hansen,Boston Red Sox,2006,yes,no
+65,Blaine Boyer,Atlanta Braves,2006,yes,no
+68,Jered Weaver,Los Angeles Angels,2006,yes,no
+71,Scott Baker,Minnesota Twins,2006,yes,yes
+73,Sean Tracey,Chicago White Sox,2006,yes,no
+74,Joe Saunders,Los Angeles Angels,2006,yes,yes
+76,Brandon Duckworth,Kansas City Royals,2006,yes,no
+78,Josh Sharpless,Pittsburgh Pirates,2006,yes,yes
+79,Francisco Liriano,Minnesota Twins,2006,yes,no
+81,Angel Guzman,Chicago Cubs,2006,yes,no
+83,Jeff Karstens,New York Yankees,2006,yes,no
+84,Mark Lowe,Seattle Mariners,2006,yes,no
+89,Gary Majewski,Cincinnati Reds,2006,yes,no
+99,Taylor Tankersley,Florida Marlins,2007,yes,no
+100,Esteban Loaiza,Oakland Athletics,2007,yes,yes
+101,Peter Moylan,Atlanta Braves,2007,yes,yes
+102,Mark Redman,Atlanta Braves,2007,yes,no
+103,Guillermo Mota,New York Mets,2007,yes,no
+104,Neal Musser,Kansas City Royals,2007,yes,no
+105,Vinnie Chulk,San Francisco Giants,2007,yes,no
+106,Randy Keisler,St. Louis Cardinals,2007,yes,no
+107,Chuck James,Atlanta Braves,2007,yes,yes
+110,Sean Burnett,Pittsburgh Pirates,2007,yes,yes
+111,Chuck James,Atlanta Braves,2008,yes,yes
+113,Sergio Romo,San Francisco Giants,2009,yes,no
+114,Jeff Francis,Colorado Rockies,2009,yes,no
+115,Justin Duchscherer,Oakland Athletics,2009,yes,no
+116,Noah Lowry,San Francisco Giants,2009,yes,no
+117,Jeremy Bonderman,Detroit Tigers,2009,yes,no
+118,Jason Isringhausen,Tampa Bay Rays,2009,yes,no
+119,John Bale,Kansas City Royals,2009,yes,no
+120,Cesar Jimenez,Seattle Mariners,2009,yes,no
+121,Mark Worrell,San Diego Padres,2009,yes,no
+122,Mike Adams,San Diego Padres,2009,yes,no
+123,Scott Baker,Minnesota Twins,2009,yes,yes
+124,Boof Bonser,Minnesota Twins,2009,yes,no
+125,Tom Glavine,Atlanta Braves,2009,yes,no
+126,Phil Dumatrait,Pittsburgh Pirates,2009,yes,no
+127,Terrell Young,Washington Nationals,2009,yes,no
+128,Joey Devine,Oakland Athletics,2009,yes,no
+129,Miguel Gonzalez,Boston Red Sox,2009,yes,no
+130,Rick Van Den Hurk,Florida Marlins,2009,yes,no
+131,Scott Proctor,Florida Marlins,2009,yes,no
+132,John Smoltz,Boston Red Sox,2009,yes,no
+133,John Lackey,Los Angeles Angels,2009,yes,no
+135,Billy Wagner,New York Mets,2009,yes,no
+137,Cha Seung Baek,San Diego Padres,2009,yes,no
+138,Joaquin Benoit,Texas Rangers,2009,yes,no
+139,Chad Bradford,Tampa Bay Rays,2009,yes,no
+140,Taylor Buchholz,Colorado Rockies,2009,yes,no
+141,Kelvim Escobar,Los Angeles Angels,2009,yes,no
+142,Willie Eyre,Texas Rangers,2009,yes,no
+143,Tom Gordon,Arizona Diamondbacks,2009,yes,no
+144,Eric Hurley,Texas Rangers,2009,yes,no
+145,Dustin Nippert,Texas Rangers,2009,yes,no
+146,Tim Redding,New York Mets,2009,yes,no
+147,Ervin Santana,Los Angeles Angels,2009,yes,no
+148,Max Scherzer,Arizona Diamondbacks,2009,yes,no
+149,Jason Schmidt,Los Angeles Dodgers,2009,yes,no
+150,Casey Janssen,Toronto Blue Jays,2009,yes,no
+151,Claudio Vargas,Los Angeles Dodgers,2009,yes,no
+152,Shaun Marcum,Toronto Blue Jays,2009,yes,no
+153,Dustin McGowan,Toronto Blue Jays,2009,yes,no
+154,Hiroki Kuroda,Los Angeles Dodgers,2009,yes,no
+155,Joe Martinez,San Francisco Giants,2009,yes,no
+156,Eric Stults,Los Angeles Dodgers,2009,yes,no
+157,Ryan Rowland-Smith,Seattle Mariners,2009,yes,no
+158,Scott Lewis,Cleveland Indians,2009,yes,no
+159,Brandon Webb,Arizona Diamondbacks,2009,yes,no
+160,Doug Brocail,Houston Astros,2009,yes,no
+161,Jesse Litsch,Toronto Blue Jays,2009,yes,no
+162,Brian Moehler,Houston Astros,2009,yes,no
+163,Mitchell Boggs,St. Louis Cardinals,2009,yes,no
+164,Chris Carpenter,St. Louis Cardinals,2009,yes,no
+165,Alberto Arias,Houston Astros,2009,yes,no
+167,Alfredo Simon,Baltimore Orioles,2009,yes,no
+169,Daisuke Matsuzaka,Boston Red Sox,2009,yes,no
+170,David Riske,Milwaukee Brewers,2009,yes,no
+171,Jorge Campillo,Atlanta Braves,2009,yes,no
+172,Dustin Moseley,Los Angeles Angels,2009,yes,no
+173,Anthony Claggett,New York Yankees,2009,yes,no
+174,Cory Wade,Los Angeles Dodgers,2009,yes,no
+175,Walter Silva,San Diego Padres,2009,yes,no
+176,Jesse Crain,Minnesota Twins,2009,yes,no
+177,Garrett Mock,Washington Nationals,2009,yes,no
+178,Jason Bergmann,Washington Nationals,2009,yes,no
+179,Andrew Miller,Florida Marlins,2009,yes,no
+180,Doug Waechter,Kansas City Royals,2009,yes,no
+181,Joe Beimel,Washington Nationals,2009,yes,no
+182,Kris Benson,Texas Rangers,2009,yes,no
+183,Darren Oliver,Los Angeles Angels,2009,yes,no
+184,B.J. Ryan,Toronto Blue Jays,2009,yes,no
+186,Chien-Ming Wang,New York Yankees,2009,yes,no
+187,Joel Zumaya,Detroit Tigers,2009,yes,no
+188,Brian Bruney,New York Yankees,2009,yes,no
+189,Craig Hansen,Pittsburgh Pirates,2009,yes,yes
+191,Trevor Hoffman,Milwaukee Brewers,2009,yes,no
+192,Shawn Hill,San Diego Padres,2009,yes,no
+194,Jose Valverde,Houston Astros,2009,yes,no
+195,Roy Corcoran,Seattle Mariners,2009,yes,no
+196,Hung-Chih Kuo,Los Angeles Dodgers,2009,yes,no
+197,Joe Smith,Cleveland Indians,2009,yes,no
+198,Dennis Sarfate,Baltimore Orioles,2009,yes,no
+199,Brandon Morrow,Seattle Mariners,2009,yes,no
+200,Santiago Casilla,Oakland Athletics,2009,yes,no
+201,Bob McCrory,Baltimore Orioles,2009,yes,no
+202,Damaso Marte,New York Yankees,2009,yes,no
+206,Carlos Zambrano,Chicago Cubs,2009,yes,no
+208,Shawn Kelley,Seattle Mariners,2009,yes,no
+209,Oliver Perez,New York Mets,2009,yes,no
+210,Anibal Sanchez,Florida Marlins,2009,yes,no
+212,Yusmeiro Petit,Arizona Diamondbacks,2009,yes,no
+213,Carlos Silva,Seattle Mariners,2009,yes,no
+214,Chad Fox,Chicago Cubs,2009,yes,no
+215,Joakim Soria,Kansas City Royals,2009,yes,no
+216,Clay Zavada,Arizona Diamondbacks,2009,yes,no
+217,Dontrelle Willis,Detroit Tigers,2009,yes,no
+218,Nate Robertson,Detroit Tigers,2009,yes,no
+219,Geoff Geary,Houston Astros,2009,yes,no
+223,Frank Francisco,Texas Rangers,2009,yes,no
+224,Rich Hill,Baltimore Orioles,2009,yes,no
+226,Scott Olsen,Washington Nationals,2009,yes,no
+227,Tyler Yates,Pittsburgh Pirates,2009,yes,no
+228,Dan Giese,Oakland Athletics,2009,yes,no
+229,Matt Daley,Colorado Rockies,2009,yes,no
+233,Glen Perkins,Minnesota Twins,2009,yes,no
+234,Nick Masset,Cincinnati Reds,2009,yes,no
+236,Scott Schoeneweis,Arizona Diamondbacks,2009,yes,no
+238,Edinson Volquez,Cincinnati Reds,2009,yes,no
+240,Rich Harden,Chicago Cubs,2009,yes,no
+243,Vicente Padilla,Texas Rangers,2009,yes,no
+245,Scott Kazmir,Tampa Bay Rays,2009,yes,no
+246,Troy Percival,Tampa Bay Rays,2009,yes,no
+247,Anthony Reyes,Cleveland Indians,2009,yes,no
+248,Renyel Pinto,Florida Marlins,2009,yes,no
+249,Aaron Laffey,Cleveland Indians,2009,yes,no
+250,Shane Loux,Los Angeles Angels,2009,yes,no
+251,Robinson Tejeda,Kansas City Royals,2009,yes,no
+253,Brian Shouse,Tampa Bay Rays,2009,yes,no
+257,Koji Uehara,Baltimore Orioles,2009,yes,no
+258,Scot Shields,Los Angeles Angels,2009,yes,no
+260,Brandon Backe,Houston Astros,2009,yes,no
+261,Matt Harrison,Texas Rangers,2009,yes,no
+262,Will Ohman,Los Angeles Dodgers,2009,yes,no
+264,Brett Myers,Philadelphia Phillies,2009,yes,no
+266,Donnie Veal,Pittsburgh Pirates,2009,yes,no
+269,Rafael Betancourt,Cleveland Indians,2009,yes,no
+272,Sidney Ponson,Kansas City Royals,2009,yes,no
+274,Kip Wells,Washington Nationals,2009,yes,no
+277,J.C. Romero,Philadelphia Phillies,2009,yes,no
+279,Mark DiFelice,Milwaukee Brewers,2009,yes,no
+281,Kyle Lohse,St. Louis Cardinals,2009,yes,no
+282,J.J. Putz,New York Mets,2009,yes,no
+284,Eric Milton,Los Angeles Dodgers,2009,yes,no
+287,Luis Perdomo,San Diego Padres,2009,yes,no
+289,Blaine Boyer,Arizona Diamondbacks,2009,yes,yes
+290,Brandon McCarthy,Texas Rangers,2009,yes,no
+291,Bartolo Colon,Chicago White Sox,2009,yes,no
+293,Brad Lidge,Philadelphia Phillies,2009,yes,no
+296,Felipe Paulino,Houston Astros,2009,yes,no
+298,Scott Eyre,Philadelphia Phillies,2009,yes,no
+299,John Maine,New York Mets,2009,yes,no
+307,Luke Gregerson,San Diego Padres,2009,yes,no
+308,Erik Bedard,Seattle Mariners,2009,yes,no
+310,Mike Hampton,Houston Astros,2009,yes,no
+311,Mike Lincoln,Cincinnati Reds,2009,yes,no
+313,Kiko Calero,Florida Marlins,2009,yes,no
+314,Roy Halladay,Toronto Blue Jays,2009,yes,no
+315,Scott Downs,Toronto Blue Jays,2009,yes,no
+317,Chris Young,San Diego Padres,2009,yes,no
+318,Manny Corpas,Colorado Rockies,2009,yes,no
+320,Angel Guzman,Chicago Cubs,2009,yes,yes
+323,Clay Condrey,Philadelphia Phillies,2009,yes,no
+324,Dave Bush,Milwaukee Brewers,2009,yes,no
+325,Josh Outman,Oakland Athletics,2009,yes,no
+326,Matt Lindstrom,Florida Marlins,2009,yes,no
+329,Jeff Bennett,Atlanta Braves,2009,yes,no
+330,Kyle Farnsworth,Kansas City Royals,2009,yes,no
+333,Leo Rosales,Arizona Diamondbacks,2009,yes,no
+334,Jose Veras,Cleveland Indians,2009,yes,no
+339,Chris Perez,Cleveland Indians,2009,yes,no
+341,Antonio Bastardo,Philadelphia Phillies,2009,yes,no
+342,Scott Richmond,Toronto Blue Jays,2009,yes,no
+343,Kevin Slowey,Minnesota Twins,2009,yes,no
+347,Chris Ray,Baltimore Orioles,2009,yes,no
+349,David Patton,Chicago Cubs,2009,yes,no
+350,Dallas Braden,Oakland Athletics,2009,yes,no
+352,Ryan Dempster,Chicago Cubs,2009,yes,no
+356,Ronald Belisario,Los Angeles Dodgers,2009,yes,no
+361,Chris Sampson,Houston Astros,2009,yes,no
+364,Alan Embree,Colorado Rockies,2009,yes,no
+366,Grant Balfour,Tampa Bay Rays,2009,yes,no
+367,Pedro Martinez,Philadelphia Phillies,2009,yes,no
+372,Gil Meche,Kansas City Royals,2009,yes,no
+377,Fernando Nieve,New York Mets,2009,yes,no
+378,Tim Wakefield,Boston Red Sox,2009,yes,no
+379,Ryan Speier,Colorado Rockies,2009,yes,no
+380,Jordan Zimmermann,Washington Nationals,2009,yes,no
+383,Chad Durbin,Philadelphia Phillies,2009,yes,no
+387,Ted Lilly,Chicago Cubs,2009,yes,no
+388,Seth McClung,Milwaukee Brewers,2009,yes,no
+389,Jared Burton,Cincinnati Reds,2009,yes,no
+391,Micah Owings,Cincinnati Reds,2009,yes,no
+394,LaTroy Hawkins,Houston Astros,2009,yes,no
+399,Jeff Suppan,Milwaukee Brewers,2008,yes,no
+400,Brad Bergesen,Baltimore Orioles,2009,yes,no
+401,Claudio Vargas,Milwaukee Brewers,2009,yes,yes
+402,Juan Rincon,Colorado Rockies,2009,yes,no
+404,Jason Grilli,Texas Rangers,2009,yes,no
+405,Burke Badenhop,Florida Marlins,2009,yes,no
+407,Henry Sosa,San Francisco Giants,2009,yes,no
+408,Jonathon Niese,New York Mets,2009,yes,no
+409,Juan Cruz,Kansas City Royals,2009,yes,no
+414,Clayton Mortensen,Oakland Athletics,2009,yes,no
+417,Joe Saunders,Los Angeles Angels,2009,yes,yes
+419,Chad Gaudin,New York Yankees,2009,yes,no
+422,Todd Wellemeyer,St. Louis Cardinals,2009,yes,no
+423,David Weathers,Milwaukee Brewers,2009,yes,no
+426,Evan Meek,Pittsburgh Pirates,2009,yes,no
+427,Wesley Wright,Houston Astros,2009,yes,no
+430,Jose Ascanio,Pittsburgh Pirates,2009,yes,no
+432,Francisco Liriano,Minnesota Twins,2009,yes,yes
+434,Eddie Guardado,Texas Rangers,2009,yes,no
+437,Johnny Cueto,Cincinnati Reds,2009,yes,no
+438,Jeff Karstens,Pittsburgh Pirates,2009,yes,yes
+440,Michael Bowden,Boston Red Sox,2009,yes,no
+442,Jesus Colome,Milwaukee Brewers,2009,yes,no
+444,Aaron Cook,Colorado Rockies,2009,yes,no
+445,Brendan Donnelly,Florida Marlins,2009,yes,no
+446,Aaron Harang,Cincinnati Reds,2008,yes,no
+449,Johan Santana,New York Mets,2009,yes,no
+450,Jeff Suppan,Milwaukee Brewers,2009,yes,yes
+455,Billy Wagner,Boston Red Sox,2009,yes,yes
+458,Guillermo Mota,Los Angeles Dodgers,2009,yes,yes
+460,Tim Hudson,Atlanta Braves,2009,yes,no
+467,Jose Contreras,Colorado Rockies,2009,yes,no
+477,Sean White,Seattle Mariners,2009,yes,no
+481,Justin Miller,San Francisco Giants,2009,yes,no
+482,Randy Johnson,San Francisco Giants,2009,yes,no
+484,Kam Mickolio,Baltimore Orioles,2009,yes,no
+485,Vin Mazzaro,Oakland Athletics,2009,yes,no
+487,Junichi Tazawa,Boston Red Sox,2009,yes,no
+488,Bruce Chen,Kansas City Royals,2009,yes,no
+489,Josh Kinney,St. Louis Cardinals,2009,yes,no
+491,Roy Oswalt,Houston Astros,2009,yes,no
+494,Anthony Claggett,Pittsburgh Pirates,2009,yes,yes
+502,Aaron Harang,Cincinnati Reds,2009,yes,yes
+503,Chan Ho Park,Philadelphia Phillies,2009,yes,no
+506,Mike Ekstrom,San Diego Padres,2009,yes,no
+507,Jackson Quezada,San Diego Padres,2009,yes,no
+508,Gaby Hernandez,Seattle Mariners,2009,yes,no
+509,Jaime Garcia,St. Louis Cardinals,2009,yes,no
+510,Brad Thompson,St. Louis Cardinals,2009,yes,no
+512,Bill Murphy,Toronto Blue Jays,2009,yes,no
+513,Jorge De La Rosa,Colorado Rockies,2009,yes,no
+514,Randy Flores,Colorado Rockies,2009,yes,no
+515,Josh Fogg,Colorado Rockies,2009,yes,no
+516,Matt Herges,Colorado Rockies,2009,yes,no
+518,Freddy Dolsi,Detroit Tigers,2009,yes,no
+520,Henry Barrera,Kansas City Royals,2009,yes,no
+521,Julio Cesar Pimentel,Kansas City Royals,2009,yes,no
+522,Tim Dillard,Milwaukee Brewers,2009,yes,no
+523,Jack Egbert,New York Mets,2009,yes,no
+524,Arturo Lopez,New York Mets,2009,yes,no
+525,Jo-Jo Reyes,Atlanta Braves,2009,yes,no
+526,Manny Delcarmen,Boston Red Sox,2009,yes,no
+528,Neal Cotts,Chicago Cubs,2009,yes,no
+529,Adam Miller,Cleveland Indians,2009,yes,no
+530,Jose Arredondo,Los Angeles Angels,2009,yes,no
+531,Jon Garland,Los Angeles Dodgers,2009,yes,no
+532,Charlie Haeger,Los Angeles Dodgers,2009,yes,no
+536,Jeff Weaver,Los Angeles Dodgers,2009,yes,no
+537,Anthony Ortega,Los Angeles Angels,2009,yes,no
+553,Jamie Moyer,Philadelphia Phillies,2009,yes,no
+556,Sergio Mitre,New York Yankees,2009,yes,no
+557,Edwar Ramirez,New York Yankees,2009,yes,no
+560,Pat Neshek,Minnesota Twins,2009,yes,no
+570,Greg Reynolds,Colorado Rockies,2009,yes,no
+580,Jesse Litsch,Toronto Blue Jays,2010,yes,yes
+581,Dirk Hayhurst,Toronto Blue Jays,2010,yes,no
+582,Edinson Volquez,Cincinnati Reds,2010,yes,yes
+583,Eric Hurley,Texas Rangers,2010,yes,yes
+584,David Riske,Milwaukee Brewers,2010,yes,yes
+585,Ronald Belisario,Los Angeles Dodgers,2010,yes,yes
+586,Bobby Seay,Detroit Tigers,2010,yes,no
+587,Zach Miner,Detroit Tigers,2010,yes,no
+588,Jairo Asencio,Atlanta Braves,2010,yes,no
+589,Jeff Suppan,Milwaukee Brewers,2010,yes,yes
+590,Hector Ambriz,Cleveland Indians,2010,yes,no
+591,Erik Bedard,Seattle Mariners,2010,yes,yes
+592,Kelvim Escobar,New York Mets,2010,yes,yes
+593,Boof Bonser,Boston Red Sox,2010,yes,yes
+594,Joe Nathan,Minnesota Twins,2010,yes,no
+595,Alberto Arias,Houston Astros,2010,yes,yes
+596,Yorman Bazardo,Houston Astros,2010,yes,no
+597,J.C. Romero,Philadelphia Phillies,2010,yes,yes
+598,Brad Lidge,Philadelphia Phillies,2010,yes,yes
+599,Scott Kazmir,Los Angeles Angels,2010,yes,yes
+600,Junichi Tazawa,Boston Red Sox,2010,yes,yes
+601,Koji Uehara,Baltimore Orioles,2010,yes,yes
+602,Greg Reynolds,Colorado Rockies,2010,yes,yes
+603,Jeff Francis,Colorado Rockies,2010,yes,yes
+604,Gil Meche,Kansas City Royals,2010,yes,yes
+605,Joe Blanton,Philadelphia Phillies,2010,yes,no
+606,Taylor Buchholz,Colorado Rockies,2010,yes,yes
+607,Clay Condrey,Minnesota Twins,2010,yes,yes
+608,Huston Street,Colorado Rockies,2010,yes,no
+609,Brian Sanches,Florida Marlins,2010,yes,no
+610,J.P. Howell,Tampa Bay Rays,2010,yes,no
+611,Michael Wuertz,Oakland Athletics,2010,yes,no
+612,Chien-Ming Wang,Washington Nationals,2010,yes,yes
+613,Angel Guzman,Chicago Cubs,2010,yes,yes
+614,Ted Lilly,Chicago Cubs,2010,yes,yes
+615,Hung-Chih Kuo,Los Angeles Dodgers,2010,yes,yes
+616,Cliff Lee,Seattle Mariners,2010,yes,no
+617,Joel Hanrahan,Pittsburgh Pirates,2010,yes,no
+618,Jose Ascanio,Pittsburgh Pirates,2010,yes,yes
+619,Joe Thatcher,San Diego Padres,2010,yes,no
+620,Tommy Hunter,Texas Rangers,2010,yes,no
+621,Warner Madrigal,Texas Rangers,2010,yes,no
+622,Daisuke Matsuzaka,Boston Red Sox,2010,yes,yes
+623,Kerry Wood,Cleveland Indians,2010,yes,no
+624,Joey Devine,Oakland Athletics,2010,yes,yes
+625,Josh Outman,Oakland Athletics,2010,yes,yes
+626,Brandon Webb,Arizona Diamondbacks,2010,yes,yes
+627,Cory Wade,Los Angeles Dodgers,2010,yes,yes
+628,Dustin McGowan,Toronto Blue Jays,2010,yes,yes
+629,Sammy Gervacio,Houston Astros,2010,yes,no
+631,Sean Green,New York Mets,2010,yes,yes
+632,Chris Young,San Diego Padres,2010,yes,yes
+634,Chan Ho Park,New York Yankees,2010,yes,yes
+635,Brian Fuentes,Los Angeles Angels,2010,yes,no
+636,Esmailin Caridad,Chicago Cubs,2010,yes,no
+637,Michael Gonzalez,Baltimore Orioles,2010,yes,no
+638,Chris Leroux,Florida Marlins,2010,yes,no
+641,Garrett Mock,Washington Nationals,2010,yes,yes
+642,Ross Ohlendorf,Pittsburgh Pirates,2010,yes,no
+643,Jose Mijares,Minnesota Twins,2010,yes,no
+644,Ryota Igarashi,New York Mets,2010,yes,no
+646,Brian Tallet,Toronto Blue Jays,2010,yes,no
+648,Jason Marquis,Washington Nationals,2010,yes,no
+650,Jeff Weaver,Los Angeles Dodgers,2010,yes,yes
+652,Vicente Padilla,Los Angeles Dodgers,2010,yes,yes
+653,Chris Jakubauskas,Pittsburgh Pirates,2010,yes,no
+654,Dan Meyer,Florida Marlins,2010,yes,no
+656,Brett Anderson,Oakland Athletics,2009,yes,no
+657,Jorge De La Rosa,Colorado Rockies,2010,yes,yes
+658,Jason Hammel,Colorado Rockies,2010,yes,no
+659,Leo Rosales,Arizona Diamondbacks,2010,yes,yes
+660,Kris Benson,Arizona Diamondbacks,2010,yes,yes
+661,John Parrish,Kansas City Royals,2010,yes,no
+662,Ryan Madson,Philadelphia Phillies,2010,yes,no
+665,Clay Hensley,Florida Marlins,2010,yes,no
+669,Sean Gallagher,San Diego Padres,2010,yes,no
+670,Tim Byrdak,Houston Astros,2010,yes,no
+671,Brendan Donnelly,Pittsburgh Pirates,2010,yes,yes
+673,Jair Jurrjens,Atlanta Braves,2010,yes,no
+675,Justin Duchscherer,Oakland Athletics,2010,yes,yes
+679,LaTroy Hawkins,Milwaukee Brewers,2010,yes,yes
+680,Charlie Haeger,Los Angeles Dodgers,2010,yes,yes
+684,Tim Stauffer,San Diego Padres,2010,yes,no
+685,Brian Stokes,Los Angeles Angels,2010,yes,no
+686,Kevin Correia,San Diego Padres,2010,yes,no
+687,Franklin Morales,Colorado Rockies,2010,yes,no
+688,Matt Harrison,Texas Rangers,2010,yes,yes
+689,Alfredo Aceves,New York Yankees,2010,yes,no
+692,Pedro Strop,Texas Rangers,2010,yes,no
+695,Doug Davis,Milwaukee Brewers,2010,yes,no
+698,Josh Beckett,Boston Red Sox,2010,yes,no
+700,Jonathon Niese,New York Mets,2010,yes,yes
+702,Jack Taschner,Pittsburgh Pirates,2010,yes,no
+703,John Maine,New York Mets,2010,yes,yes
+704,Scott Olsen,Washington Nationals,2010,yes,yes
+705,Brad Penny,St. Louis Cardinals,2010,yes,no
+706,Homer Bailey,Cincinnati Reds,2010,yes,no
+707,George Sherrill,Los Angeles Dodgers,2010,yes,no
+709,Alfredo Simon,Baltimore Orioles,2010,yes,yes
+710,Renyel Pinto,Florida Marlins,2010,yes,yes
+711,Kyle Lohse,St. Louis Cardinals,2010,yes,yes
+713,Jim Johnson,Baltimore Orioles,2010,yes,yes
+714,Bud Norris,Houston Astros,2010,yes,no
+715,John Grabow,Chicago Cubs,2010,yes,no
+717,Chris Sampson,Houston Astros,2010,yes,yes
+718,Mike Lincoln,Cincinnati Reds,2010,yes,yes
+721,Brett Anderson,Oakland Athletics,2010,yes,yes
+722,Takashi Saito,Atlanta Braves,2010,yes,no
+723,Kanekoa Texeira,Kansas City Royals,2010,yes,no
+724,Dana Eveland,Pittsburgh Pirates,2010,yes,no
+726,Oliver Perez,New York Mets,2010,yes,yes
+727,Doug Fister,Seattle Mariners,2010,yes,no
+732,Todd Coffey,Milwaukee Brewers,2010,yes,no
+734,Ryan Perry,Detroit Tigers,2010,yes,no
+735,Todd Wellemeyer,San Francisco Giants,2010,yes,yes
+736,Jonathan Papelbon,Boston Red Sox,2010,yes,no
+737,Rich Harden,Texas Rangers,2010,yes,yes
+739,Chad Billingsley,Los Angeles Dodgers,2010,yes,no
+740,Jason Bulger,Los Angeles Angels,2010,yes,no
+742,Sergio Mitre,New York Yankees,2010,yes,yes
+745,Matt Daley,Colorado Rockies,2010,yes,yes
+746,Luke Hochevar,Kansas City Royals,2010,yes,no
+748,Carlos Monasterios,Los Angeles Dodgers,2010,yes,no
+751,Joe Smith,Cleveland Indians,2010,yes,yes
+754,Zach Duke,Pittsburgh Pirates,2010,yes,no
+755,Dallas Braden,Oakland Athletics,2010,yes,yes
+757,Felipe Paulino,Houston Astros,2010,yes,yes
+758,Chad Durbin,Philadelphia Phillies,2010,yes,yes
+760,Shawn Kelley,Seattle Mariners,2010,yes,yes
+762,Adam Ottavino,St. Louis Cardinals,2010,yes,no
+768,Jeff Fulchino,Houston Astros,2010,yes,no
+769,Carlos Zambrano,Chicago Cubs,2010,yes,yes
+770,Joel Zumaya,Detroit Tigers,2010,yes,yes
+771,Tyler Walker,Washington Nationals,2010,yes,no
+774,Manny Delcarmen,Boston Red Sox,2010,yes,yes
+775,Shaun Marcum,Toronto Blue Jays,2010,yes,yes
+777,Bobby Jenks,Chicago White Sox,2010,yes,no
+779,Clay Buchholz,Boston Red Sox,2010,yes,no
+780,Kevin Millwood,Baltimore Orioles,2010,yes,no
+782,Aaron Harang,Cincinnati Reds,2010,yes,yes
+783,Yovani Gallardo,Milwaukee Brewers,2010,yes,no
+784,Jake Peavy,Chicago White Sox,2010,yes,no
+786,Brian Schlitter,Chicago Cubs,2010,yes,no
+789,Dan Runzler,San Francisco Giants,2010,yes,no
+791,Eric O'Flaherty,Atlanta Braves,2010,yes,no
+792,Cliff Lee,Texas Rangers,2010,yes,yes
+795,Mat Latos,San Diego Padres,2010,yes,no
+797,Mike Adams,San Diego Padres,2010,yes,yes
+799,Damaso Marte,New York Yankees,2010,yes,yes
+802,Andy Pettitte,New York Yankees,2010,yes,no
+804,Casey Fien,Detroit Tigers,2010,yes,no
+805,Dustin Nippert,Texas Rangers,2010,yes,yes
+810,Nelson Figueroa,Houston Astros,2010,yes,no
+811,Luis Atilano,Washington Nationals,2010,yes,no
+814,Jeremy Affeldt,San Francisco Giants,2010,yes,no
+816,Ben Sheets,Oakland Athletics,2010,yes,no
+817,Jhan Marinez,Florida Marlins,2010,yes,no
+818,J.D. Martin,Washington Nationals,2010,yes,no
+819,Jamie Moyer,Philadelphia Phillies,2010,yes,yes
+820,Steven Jackson,Pittsburgh Pirates,2010,yes,no
+821,Joe Saunders,Arizona Diamondbacks,2010,yes,yes
+823,Ryan Rowland-Smith,Seattle Mariners,2010,yes,yes
+825,Stephen Strasburg,Washington Nationals,2010,yes,no
+826,Brandon McCarthy,Texas Rangers,2010,yes,yes
+828,Joel Pineiro,Los Angeles Angels,2010,yes,no
+830,Andrew Bailey,Oakland Athletics,2010,yes,no
+831,Mitch Talbot,Cleveland Indians,2010,yes,no
+832,Grant Balfour,Tampa Bay Rays,2010,yes,yes
+834,Kyle Farnsworth,Atlanta Braves,2010,yes,yes
+835,Will Ohman,Florida Marlins,2010,yes,yes
+836,Robinson Tejeda,Kansas City Royals,2010,yes,yes
+838,Andy Sonnanstine,Tampa Bay Rays,2010,yes,no
+839,Carlos Silva,Chicago Cubs,2010,yes,yes
+840,James McDonald,Pittsburgh Pirates,2010,yes,no
+842,Erick Threets,Chicago White Sox,2010,yes,no
+843,Juan Gutierrez,Arizona Diamondbacks,2010,yes,no
+845,Jason Motte,St. Louis Cardinals,2010,yes,no
+846,Rich Thompson,Los Angeles Angels,2010,yes,no
+847,Kris Medlen,Atlanta Braves,2010,yes,no
+848,Aaron Cook,Colorado Rockies,2010,yes,yes
+849,David Hernandez,Baltimore Orioles,2010,yes,no
+851,Hideki Okajima,Boston Red Sox,2010,yes,no
+854,Russ Springer,Cincinnati Reds,2010,yes,no
+856,Jeff Niemann,Tampa Bay Rays,2010,yes,no
+858,Wade Davis,Tampa Bay Rays,2010,yes,no
+860,Jeff Suppan,St. Louis Cardinals,2010,yes,yes
+863,Francisco Rodriguez,New York Mets,2010,yes,no
+870,David Purcey,Toronto Blue Jays,2010,yes,no
+871,Jason Berken,Baltimore Orioles,2010,yes,no
+875,Chris Ray,San Francisco Giants,2010,yes,yes
+877,Brian Bannister,Kansas City Royals,2010,yes,no
+878,Sean West,Florida Marlins,2010,yes,no
+879,Matt Lindstrom,Houston Astros,2010,yes,yes
+882,Travis Schlichting,Los Angeles Dodgers,2010,yes,no
+884,Kevin Slowey,Minnesota Twins,2010,yes,yes
+885,Ron Mahay,Minnesota Twins,2010,yes,no
+888,Guillermo Mota,San Francisco Giants,2010,yes,yes
+889,Scott Feldman,Texas Rangers,2010,yes,no
+892,Dennys Reyes,St. Louis Cardinals,2010,yes,no
+895,J.J. Putz,Chicago White Sox,2010,yes,yes
+896,Matt Thornton,Chicago White Sox,2010,yes,no
+899,Randy Flores,Minnesota Twins,2010,yes,yes
+901,Danys Baez,Philadelphia Phillies,2010,yes,no
+902,Mike Leake,Cincinnati Reds,2010,yes,no
+903,Manny Corpas,Colorado Rockies,2010,yes,yes
+904,Brian Fuentes,Minnesota Twins,2010,yes,yes
+908,Frank Francisco,Texas Rangers,2010,yes,yes
+909,Ricky Nolasco,Florida Marlins,2010,yes,no
+929,Omar Beltre,Texas Rangers,2010,yes,no
+936,Scott Mathieson,Philadelphia Phillies,2010,yes,no
+938,Matt Fox,Boston Red Sox,2010,yes,no
+942,Jake McGee,Tampa Bay Rays,2010,yes,no
+943,Rommie Lewis,Toronto Blue Jays,2010,yes,no
+949,Doug Mathis,Texas Rangers,2010,yes,no
+950,Mark Lowe,Texas Rangers,2010,yes,yes
+951,Guillermo Moscoso,Texas Rangers,2010,yes,no
+957,Billy Wagner,Atlanta Braves,2010,yes,yes
+958,Tobi Stoner,New York Mets,2010,yes,no
+959,Clayton Mortensen,Oakland Athletics,2010,yes,yes
+960,Kevin Hart,Pittsburgh Pirates,2010,yes,no
+961,Donnie Veal,Pittsburgh Pirates,2010,yes,yes
+962,Radhames Liz,San Diego Padres,2010,yes,no
+963,Luis Perdomo,San Diego Padres,2010,yes,yes
+964,Lance Cormier,Tampa Bay Rays,2010,yes,no
+965,Jeremy Accardo,Toronto Blue Jays,2010,yes,no
+966,Jo-Jo Reyes,Toronto Blue Jays,2010,yes,yes
+967,Matt Chico,Washington Nationals,2010,yes,no
+968,Shairon Martis,Washington Nationals,2010,yes,no
+970,Brian Anderson,Kansas City Royals,2010,yes,no
+971,Henry Barrera,Kansas City Royals,2010,yes,yes
+972,Gaby Hernandez,Kansas City Royals,2010,yes,yes
+973,Victor Marte,Kansas City Royals,2010,yes,no
+974,Brent Leach,Los Angeles Dodgers,2010,yes,no
+975,Mitch Stetter,Milwaukee Brewers,2010,yes,no
+976,Rob Delaney,Minnesota Twins,2010,yes,no
+978,Jeff Manship,Minnesota Twins,2010,yes,no
+979,Glen Perkins,Minnesota Twins,2010,yes,yes
+981,Rafael Rodriguez,Arizona Diamondbacks,2010,yes,no
+982,Daniel Stange,Arizona Diamondbacks,2010,yes,no
+986,Scott Proctor,Atlanta Braves,2010,yes,yes
+988,Jared Burton,Cincinnati Reds,2010,yes,yes
+990,Sam LeCure,Cincinnati Reds,2010,yes,no
+992,Matt Maloney,Cincinnati Reds,2010,yes,no
+993,Roque Mercedes,Arizona Diamondbacks,2010,yes,no
+994,Clay Rapada,Texas Rangers,2010,yes,no
+995,Kyle Kendrick,Philadelphia Phillies,2010,yes,no
+996,Jonathan Albaladejo,New York Yankees,2010,yes,no
+997,Chad Gaudin,New York Yankees,2010,yes,yes
+998,Ivan Nova,New York Yankees,2010,yes,no
+999,Javier Vazquez,New York Yankees,2010,yes,no
+1001,Drew Carpenter,Philadelphia Phillies,2010,yes,no
+1002,Sergio Escalona,Philadelphia Phillies,2010,yes,no
+1003,Yohan Flande,Philadelphia Phillies,2010,yes,no
+1004,David Herndon,Philadelphia Phillies,2010,yes,no
+1005,Jesus Sanchez,Philadelphia Phillies,2010,yes,no
+1009,Jose Arredondo,Cincinnati Reds,2010,yes,yes
+1030,Brian Sweeney,Arizona Diamondbacks,2010,yes,no
+1032,Barry Zito,San Francisco Giants,2010,yes,no
+1033,Waldis Joaquin,San Francisco Giants,2010,yes,no
+1047,Alfredo Simon,Baltimore Orioles,2011,yes,yes
+1048,Ronald Belisario,Los Angeles Dodgers,2011,yes,yes
+1049,Dustin McGowan,Toronto Blue Jays,2011,yes,yes
+1050,Brian Schlitter,Chicago Cubs,2011,yes,yes
+1051,Stephen Strasburg,Washington Nationals,2011,yes,yes
+1052,Adam Wainwright,St. Louis Cardinals,2011,yes,no
+1053,Zack Greinke,Milwaukee Brewers,2011,yes,no
+1054,Manny Parra,Milwaukee Brewers,2011,yes,no
+1055,LaTroy Hawkins,Milwaukee Brewers,2011,yes,yes
+1056,Kris Medlen,Atlanta Braves,2011,yes,yes
+1057,Chien-Ming Wang,Washington Nationals,2011,yes,yes
+1058,Henry Alberto Rodriguez,Washington Nationals,2011,yes,no
+1059,Jamey Wright,Seattle Mariners,2011,yes,no
+1060,Justin Duchscherer,Baltimore Orioles,2011,yes,yes
+1061,Mat Latos,San Diego Padres,2011,yes,yes
+1062,Joe Thatcher,San Diego Padres,2011,yes,yes
+1063,Mauricio Robles,Seattle Mariners,2011,yes,no
+1064,Scott Downs,Los Angeles Angels,2011,yes,yes
+1065,Joel Pineiro,Los Angeles Angels,2011,yes,yes
+1066,Jesse Carlson,Toronto Blue Jays,2011,yes,no
+1067,Joe Smith,Cleveland Indians,2011,yes,yes
+1068,Joel Zumaya,Detroit Tigers,2011,yes,yes
+1069,Damaso Marte,New York Yankees,2011,yes,yes
+1070,Jose Arredondo,Cincinnati Reds,2011,yes,yes
+1071,Homer Bailey,Cincinnati Reds,2011,yes,yes
+1072,Johnny Cueto,Cincinnati Reds,2011,yes,yes
+1073,Jared Burton,Cincinnati Reds,2011,yes,yes
+1074,Vicente Padilla,Los Angeles Dodgers,2011,yes,yes
+1075,Lance Cormier,Los Angeles Dodgers,2011,yes,yes
+1076,Mike MacDougal,Los Angeles Dodgers,2011,yes,no
+1077,Zach Duke,Arizona Diamondbacks,2011,yes,yes
+1078,Andrew Bailey,Oakland Athletics,2011,yes,yes
+1079,Rich Harden,Oakland Athletics,2011,yes,yes
+1080,Brad Lidge,Philadelphia Phillies,2011,yes,yes
+1081,Jake Peavy,Chicago White Sox,2011,yes,yes
+1082,David Aardsma,Seattle Mariners,2011,yes,no
+1083,Brian Wilson,San Francisco Giants,2011,yes,no
+1084,Frank Francisco,Toronto Blue Jays,2011,yes,yes
+1085,Octavio Dotel,Toronto Blue Jays,2011,yes,no
+1086,Brandon Morrow,Toronto Blue Jays,2011,yes,yes
+1087,Chad Gaudin,Washington Nationals,2011,yes,yes
+1088,Francisco Rodriguez,New York Mets,2011,yes,yes
+1089,Jon Garland,Los Angeles Dodgers,2011,yes,yes
+1090,Pedro Feliciano,New York Yankees,2011,yes,no
+1091,Jose Ascanio,Pittsburgh Pirates,2011,yes,yes
+1092,Johan Santana,New York Mets,2011,yes,yes
+1093,Felix Doubront,Boston Red Sox,2011,yes,no
+1094,Alberto Arias,Houston Astros,2011,yes,yes
+1095,Omar Beltre,Texas Rangers,2011,yes,yes
+1096,Scott Feldman,Texas Rangers,2011,yes,yes
+1097,Tommy Hunter,Texas Rangers,2011,yes,yes
+1098,Brandon Webb,Texas Rangers,2011,yes,yes
+1099,Scott Olsen,Pittsburgh Pirates,2011,yes,yes
+1100,Aaron Cook,Colorado Rockies,2011,yes,yes
+1101,J.P. Howell,Tampa Bay Rays,2011,yes,yes
+1102,Brad Lincoln,Pittsburgh Pirates,2011,yes,no
+1103,Jair Jurrjens,Atlanta Braves,2011,yes,yes
+1104,Brian Matusz,Baltimore Orioles,2011,yes,no
+1106,Takashi Saito,Milwaukee Brewers,2011,yes,yes
+1107,Michael Wuertz,Oakland Athletics,2011,yes,yes
+1108,Ryan Perry,Detroit Tigers,2011,yes,yes
+1109,Jeff Stevens,Chicago Cubs,2011,yes,no
+1110,Randy Wells,Chicago Cubs,2011,yes,no
+1111,Andrew Cashner,Chicago Cubs,2011,yes,no
+1113,Matt Albers,Boston Red Sox,2011,yes,no
+1115,Scott Kazmir,Los Angeles Angels,2011,yes,yes
+1116,Kevin Slowey,Minnesota Twins,2011,yes,yes
+1117,Ross Ohlendorf,Pittsburgh Pirates,2011,yes,yes
+1119,Luis Ayala,New York Yankees,2011,yes,no
+1120,Brad Bergesen,Baltimore Orioles,2011,yes,yes
+1121,Brian Tallet,St. Louis Cardinals,2011,yes,yes
+1122,Bryan Augenstein,St. Louis Cardinals,2011,yes,no
+1123,Robinson Tejeda,Kansas City Royals,2011,yes,yes
+1124,Phil Hughes,New York Yankees,2011,yes,no
+1125,Peter Moylan,Atlanta Braves,2011,yes,yes
+1127,Aaron Heilman,Arizona Diamondbacks,2011,yes,no
+1128,Wilton Lopez,Houston Astros,2011,yes,no
+1131,Hung-Chih Kuo,Los Angeles Dodgers,2011,yes,yes
+1132,Chris Young,New York Mets,2011,yes,yes
+1133,Mitch Talbot,Cleveland Indians,2011,yes,yes
+1134,Barry Zito,San Francisco Giants,2011,yes,yes
+1135,Todd Coffey,Washington Nationals,2011,yes,yes
+1136,Colby Lewis,Texas Rangers,2011,yes,no
+1137,Dallas Braden,Oakland Athletics,2011,yes,yes
+1138,Shaun Marcum,Milwaukee Brewers,2011,yes,yes
+1139,J.C. Romero,Philadelphia Phillies,2011,yes,yes
+1141,Mason Tobin,Texas Rangers,2011,yes,no
+1142,Bobby Parnell,New York Mets,2011,yes,no
+1148,Neftali Feliz,Texas Rangers,2011,yes,no
+1150,Jose Contreras,Philadelphia Phillies,2011,yes,yes
+1155,Darren O'Day,Texas Rangers,2011,yes,no
+1157,Carlos Carrasco,Cleveland Indians,2011,yes,no
+1159,Joe Blanton,Philadelphia Phillies,2011,yes,yes
+1160,Evan Meek,Pittsburgh Pirates,2011,yes,yes
+1163,Zach Braddock,Milwaukee Brewers,2011,yes,no
+1165,Pedro Beato,New York Mets,2011,yes,no
+1166,Brandon Lyon,Houston Astros,2011,yes,no
+1169,Dan Wheeler,Boston Red Sox,2011,yes,no
+1170,Bobby Jenks,Boston Red Sox,2011,yes,yes
+1172,Jonathan Broxton,Los Angeles Dodgers,2011,yes,no
+1173,Jeff Niemann,Tampa Bay Rays,2011,yes,yes
+1174,Clay Hensley,Florida Marlins,2011,yes,yes
+1175,Roy Oswalt,Philadelphia Phillies,2011,yes,yes
+1177,Esmil Rogers,Colorado Rockies,2011,yes,no
+1181,Javier Vazquez,Florida Marlins,2011,yes,yes
+1187,Bruce Chen,Kansas City Royals,2011,yes,yes
+1188,Francisco Rodriguez,Los Angeles Angels,2011,yes,yes
+1191,Brandon Kintzler,Milwaukee Brewers,2011,yes,no
+1193,Blake Hawksworth,Los Angeles Dodgers,2011,yes,no
+1194,Jose Mijares,Minnesota Twins,2011,yes,yes
+1195,Brandon Beachy,Atlanta Braves,2011,yes,no
+1196,John Lackey,Boston Red Sox,2011,yes,yes
+1198,Aroldis Chapman,Cincinnati Reds,2011,yes,no
+1199,Rafael Soriano,New York Yankees,2011,yes,no
+1200,Mitch Stetter,Milwaukee Brewers,2011,yes,yes
+1202,Daisuke Matsuzaka,Boston Red Sox,2011,yes,yes
+1203,Kyle Davies,Kansas City Royals,2011,yes,no
+1204,Chris Jakubauskas,Baltimore Orioles,2011,yes,yes
+1207,Jesse Litsch,Toronto Blue Jays,2011,yes,yes
+1209,Brandon McCarthy,Oakland Athletics,2011,yes,yes
+1211,Alex White,Cleveland Indians,2011,yes,no
+1213,Josh Johnson,Florida Marlins,2011,yes,no
+1214,Brad Thomas,Detroit Tigers,2011,yes,no
+1215,Glen Perkins,Minnesota Twins,2011,yes,yes
+1219,Phil Coke,Detroit Tigers,2011,yes,no
+1220,Matt Garza,Chicago Cubs,2011,yes,no
+1221,Sam Demel,Arizona Diamondbacks,2011,yes,no
+1222,Jorge De La Rosa,Colorado Rockies,2011,yes,yes
+1225,Juan Gutierrez,Arizona Diamondbacks,2011,yes,yes
+1227,Matt Maloney,Cincinnati Reds,2011,yes,yes
+1229,Joe Beimel,Pittsburgh Pirates,2011,yes,yes
+1230,Santiago Casilla,San Francisco Giants,2011,yes,yes
+1232,Joe Nathan,Minnesota Twins,2011,yes,yes
+1233,Tom Gorzelanny,Washington Nationals,2011,yes,no
+1234,Wandy Rodriguez,Houston Astros,2011,yes,no
+1235,Franklin Morales,Boston Red Sox,2011,yes,yes
+1236,Sam LeCure,Cincinnati Reds,2011,yes,yes
+1237,Ramon Pena,Chicago White Sox,2011,yes,no
+1238,Kenley Jansen,Los Angeles Dodgers,2011,yes,no
+1241,Francisco Liriano,Minnesota Twins,2011,yes,yes
+1243,Kyle McClellan,St. Louis Cardinals,2011,yes,no
+1244,Taylor Buchholz,New York Mets,2011,yes,yes
+1245,Rich Hill,Boston Red Sox,2011,yes,yes
+1247,Doug Slaten,Washington Nationals,2011,yes,no
+1249,Matt Daley,Colorado Rockies,2011,yes,yes
+1250,Grant Balfour,Oakland Athletics,2011,yes,yes
+1252,David Purcey,Detroit Tigers,2011,yes,yes
+1255,Daryl Thompson,Cincinnati Reds,2011,yes,no
+1257,Brett Anderson,Oakland Athletics,2011,yes,yes
+1262,Joba Chamberlain,New York Yankees,2011,yes,no
+1263,Luke Gregerson,San Diego Padres,2011,yes,yes
+1265,Cole Kimball,Washington Nationals,2011,yes,no
+1267,Bartolo Colon,New York Yankees,2011,yes,yes
+1268,Amauri Sanit,New York Yankees,2011,yes,no
+1269,Aaron Harang,San Diego Padres,2011,yes,yes
+1270,Kerry Wood,Chicago Cubs,2011,yes,yes
+1271,Fernando Rodney,Los Angeles Angels,2011,yes,no
+1275,Casey Janssen,Toronto Blue Jays,2011,yes,yes
+1276,Eduardo Sanchez,St. Louis Cardinals,2011,yes,no
+1278,Tommy Hanson,Atlanta Braves,2011,yes,no
+1280,Clay Buchholz,Boston Red Sox,2011,yes,yes
+1284,Jeff Marquez,New York Yankees,2011,yes,no
+1294,Jonathan Sanchez,San Francisco Giants,2011,yes,no
+1296,John Danks,Chicago White Sox,2011,yes,no
+1297,Ryan Madson,Philadelphia Phillies,2011,yes,yes
+1302,Erik Bedard,Seattle Mariners,2011,yes,yes
+1304,Chris Perez,Cleveland Indians,2011,yes,yes
+1305,Al Alburquerque,Detroit Tigers,2011,yes,no
+1307,Edgmer Escalona,Colorado Rockies,2011,yes,no
+1309,Carlos Zambrano,Chicago Cubs,2011,yes,yes
+1310,J.J. Putz,Arizona Diamondbacks,2011,yes,yes
+1311,Ryan Webb,Florida Marlins,2011,yes,no
+1315,Roberto Hernandez,Cleveland Indians,2011,yes,no
+1317,Marcos Mateo,Chicago Cubs,2011,yes,no
+1318,Clayton Richard,San Diego Padres,2011,yes,no
+1319,Jon Lester,Boston Red Sox,2011,yes,no
+1321,Wade Davis,Tampa Bay Rays,2011,yes,yes
+1331,Scott Baker,Minnesota Twins,2011,yes,yes
+1332,Juan Cruz,Tampa Bay Rays,2011,yes,yes
+1337,Sergio Mitre,New York Yankees,2011,yes,yes
+1340,Cristhian Martinez,Atlanta Braves,2011,yes,no
+1346,Chris Leroux,Pittsburgh Pirates,2011,yes,yes
+1347,Trever Miller,Toronto Blue Jays,2011,yes,no
+1348,Ernesto Frieri,San Diego Padres,2011,yes,no
+1352,Alberto Castillo,Arizona Diamondbacks,2011,yes,no
+1354,Wade LeBlanc,San Diego Padres,2011,yes,no
+1355,Dustin Moseley,San Diego Padres,2011,yes,yes
+1357,Brad Ziegler,Arizona Diamondbacks,2011,yes,no
+1358,Jason Marquis,Arizona Diamondbacks,2011,yes,yes
+1360,Chris Ray,Seattle Mariners,2011,yes,yes
+1361,Rubby De La Rosa,Los Angeles Dodgers,2011,yes,no
+1362,Scott Linebrink,Atlanta Braves,2011,yes,no
+1364,David Pauley,Detroit Tigers,2011,yes,yes
+1366,Mike Adams,Texas Rangers,2011,yes,yes
+1367,Ubaldo Jimenez,Cleveland Indians,2011,yes,no
+1368,Jo-Jo Reyes,Baltimore Orioles,2011,yes,yes
+1369,Doug Fister,Detroit Tigers,2011,yes,yes
+1371,Carlos Villanueva,Toronto Blue Jays,2011,yes,no
+1372,Zach Britton,Baltimore Orioles,2011,yes,no
+1375,Juan Nicasio,Colorado Rockies,2011,yes,no
+1376,Enerio Del Rosario,Houston Astros,2011,yes,no
+1377,Jake Arrieta,Baltimore Orioles,2011,yes,no
+1379,Alex Cobb,Tampa Bay Rays,2011,yes,no
+1382,Alexi Ogando,Texas Rangers,2011,yes,no
+1383,Logan Ondrusek,Cincinnati Reds,2011,yes,no
+1384,Matt Lindstrom,Colorado Rockies,2011,yes,yes
+1385,Lance Lynn,St. Louis Cardinals,2011,yes,no
+1386,Chris Narveson,Milwaukee Brewers,2011,yes,no
+1387,Huston Street,Colorado Rockies,2011,yes,yes
+1389,Jered Weaver,Los Angeles Angels,2011,yes,yes
+1391,David Huff,Cleveland Indians,2011,yes,no
+1394,Sergio Romo,San Francisco Giants,2011,yes,yes
+1395,Jon Rauch,Toronto Blue Jays,2011,yes,no
+1396,Garrett Richards,Los Angeles Angels,2011,yes,no
+1397,Brian Sanches,Florida Marlins,2011,yes,yes
+1398,Trystan Magnuson,Oakland Athletics,2011,yes,no
+1399,Randy Choate,Florida Marlins,2011,yes,no
+1400,Freddy Garcia,New York Yankees,2011,yes,no
+1401,Paul Maholm,Pittsburgh Pirates,2011,yes,no
+1402,Philip Humber,Chicago White Sox,2011,yes,no
+1406,Kevin Correia,Pittsburgh Pirates,2011,yes,yes
+1408,Nick Blackburn,Minnesota Twins,2011,yes,no
+1410,Jason Berken,Baltimore Orioles,2011,yes,yes
+1412,Cole Hamels,Philadelphia Phillies,2011,yes,no
+1413,Jonathon Niese,New York Mets,2011,yes,yes
+1414,Sergio Escalona,Houston Astros,2011,yes,yes
+1415,Dan Cortes,Seattle Mariners,2011,yes,no
+1417,Ryan Mattheus,Washington Nationals,2011,yes,no
+1420,Josh Tomlin,Cleveland Indians,2011,yes,no
+1421,Troy Patton,Baltimore Orioles,2011,yes,no
+1423,Brian Tallet,Toronto Blue Jays,2011,yes,yes
+1428,Brian Fuentes,Oakland Athletics,2011,yes,yes
+1429,George Sherrill,Atlanta Braves,2011,yes,yes
+1434,Michael Gonzalez,Texas Rangers,2011,yes,yes
+1435,Jeff Fulchino,San Diego Padres,2011,yes,yes
+1442,Matt Guerrier,Los Angeles Dodgers,2011,yes,no
+1443,Kyle Kendrick,Philadelphia Phillies,2011,yes,yes
+1455,Juan Carlos Oviedo,Florida Marlins,2011,yes,no
+1459,Mike Zagurski,Arizona Diamondbacks,2011,yes,no
+1460,Joey Devine,Oakland Athletics,2011,yes,yes
+1464,Pedro Viola,Baltimore Orioles,2011,yes,no
+1466,Henry Villar,Houston Astros,2011,yes,no
+1467,Alan Farina,Toronto Blue Jays,2011,yes,no
+1473,Jordan Smith,Cincinnati Reds,2011,yes,no
+1474,Kelvin De La Cruz,Cleveland Indians,2011,yes,no
+1475,Jordan Norberto,Oakland Athletics,2011,yes,no
+1476,Nate Jones,Chicago White Sox,2011,yes,no
+1477,Elih Villanueva,Florida Marlins,2011,yes,no
+1478,Michael Kohn,Los Angeles Angels,2011,yes,no
+1479,Anthony Ortega,Los Angeles Angels,2011,yes,yes
+1480,Andrew Brackman,New York Yankees,2011,yes,no
+1482,Kevin Whelan,New York Yankees,2011,yes,no
+1483,Yoshinori Tateyama,Texas Rangers,2011,yes,no
+1487,Kam Mickolio,Arizona Diamondbacks,2011,yes,yes
+1488,Wade Miley,Arizona Diamondbacks,2011,yes,no
+1489,Justin DeFratus,Philadelphia Phillies,2011,yes,no
+1490,David Herndon,Philadelphia Phillies,2011,yes,yes
+1491,Scott Mathieson,Philadelphia Phillies,2011,yes,yes
+1494,Luis Marte,Detroit Tigers,2011,yes,no
+1496,Jake Westbrook,St. Louis Cardinals,2011,yes,no
+1498,Mark Lowe,Texas Rangers,2011,yes,yes
+1516,Koji Uehara,Texas Rangers,2011,yes,yes
+1523,Sean Marshall,Cincinnati Reds,2011,yes,no
+1524,Roberto Hernandez,Cleveland Indians,2012,yes,yes
+1525,Bobby Jenks,Boston Red Sox,2012,yes,yes
+1526,Pedro Feliciano,New York Yankees,2012,yes,yes
+1527,John Lackey,Boston Red Sox,2012,yes,yes
+1528,Rubby De La Rosa,Los Angeles Dodgers,2012,yes,yes
+1529,David Aardsma,New York Yankees,2012,yes,yes
+1530,Brett Anderson,Oakland Athletics,2012,yes,yes
+1531,Carlos Carrasco,Cleveland Indians,2012,yes,yes
+1532,Ronald Belisario,Los Angeles Dodgers,2012,yes,yes
+1533,Zach Britton,Baltimore Orioles,2012,yes,yes
+1534,Kevin Millwood,Seattle Mariners,2012,yes,yes
+1535,Scott Baker,Minnesota Twins,2012,yes,yes
+1536,Dallas Braden,Oakland Athletics,2012,yes,yes
+1537,Joey Devine,Oakland Athletics,2012,yes,yes
+1538,Jason Isringhausen,Los Angeles Angels,2012,yes,yes
+1539,Matt Bush,Tampa Bay Rays,2012,yes,no
+1540,Ryan Vogelsong,San Francisco Giants,2012,yes,no
+1541,Eric Surkamp,San Francisco Giants,2012,yes,no
+1542,Chad Gaudin,Miami Marlins,2012,yes,yes
+1543,Jose De Paula,San Diego Padres,2012,yes,no
+1544,Chris Carpenter,St. Louis Cardinals,2012,yes,yes
+1545,Robert Fish,Atlanta Braves,2012,yes,no
+1546,Drew Storen,Washington Nationals,2012,yes,no
+1547,Chien-Ming Wang,Washington Nationals,2012,yes,yes
+1548,Cole Kimball,Washington Nationals,2012,yes,yes
+1549,Jose Contreras,Philadelphia Phillies,2012,yes,yes
+1550,Justin DeFratus,Philadelphia Phillies,2012,yes,yes
+1551,Jerome Williams,Los Angeles Angels,2012,yes,no
+1552,Shawn Camp,Chicago Cubs,2012,yes,no
+1553,Luis Marte,Detroit Tigers,2012,yes,yes
+1554,Jose Ceda,Miami Marlins,2012,yes,no
+1555,Robbie Ross Jr.,Texas Rangers,2012,yes,no
+1556,Takashi Saito,Arizona Diamondbacks,2012,yes,yes
+1557,Tim Hudson,Atlanta Braves,2012,yes,yes
+1558,Pedro Beato,New York Mets,2012,yes,yes
+1559,D.J. Carrasco,New York Mets,2012,yes,no
+1560,Tsuyoshi Wada,Baltimore Orioles,2012,yes,no
+1561,Al Alburquerque,Detroit Tigers,2012,yes,yes
+1562,Felipe Paulino,Kansas City Royals,2012,yes,yes
+1563,Joakim Soria,Kansas City Royals,2012,yes,yes
+1564,Blake Wood,Kansas City Royals,2012,yes,no
+1565,Jesse Litsch,Toronto Blue Jays,2012,yes,yes
+1566,Dustin McGowan,Toronto Blue Jays,2012,yes,yes
+1567,Andrew Bailey,Boston Red Sox,2012,yes,yes
+1568,Scott Atchison,Boston Red Sox,2012,yes,no
+1569,Vicente Padilla,Boston Red Sox,2012,yes,yes
+1570,Joba Chamberlain,New York Yankees,2012,yes,yes
+1571,Cesar Cabral,New York Yankees,2012,yes,no
+1572,Michael Pineda,New York Yankees,2012,yes,no
+1573,Nick Masset,Cincinnati Reds,2012,yes,yes
+1574,Rich Hill,Boston Red Sox,2012,yes,yes
+1575,Daisuke Matsuzaka,Boston Red Sox,2012,yes,yes
+1576,Andrew Miller,Boston Red Sox,2012,yes,yes
+1577,Michael Kohn,Los Angeles Angels,2012,yes,yes
+1578,Juan Cruz,Pittsburgh Pirates,2012,yes,yes
+1579,A.J. Burnett,Pittsburgh Pirates,2012,yes,no
+1580,Charlie Morton,Pittsburgh Pirates,2012,yes,no
+1581,Jared Burton,Minnesota Twins,2012,yes,yes
+1582,Ryan Madson,Cincinnati Reds,2012,yes,yes
+1583,Jamie Moyer,Colorado Rockies,2012,yes,yes
+1584,Jorge De La Rosa,Colorado Rockies,2012,yes,yes
+1585,Josh Outman,Colorado Rockies,2012,yes,yes
+1587,Ted Lilly,Los Angeles Dodgers,2012,yes,yes
+1588,Sergio Escalona,Houston Astros,2012,yes,yes
+1589,Clay Rapada,New York Yankees,2012,yes,yes
+1590,Tim Stauffer,San Diego Padres,2012,yes,yes
+1591,Kyle Farnsworth,Tampa Bay Rays,2012,yes,yes
+1592,Scott Linebrink,St. Louis Cardinals,2012,yes,yes
+1593,Dustin Moseley,San Diego Padres,2012,yes,yes
+1594,Doug Fister,Detroit Tigers,2012,yes,yes
+1595,George Sherrill,Seattle Mariners,2012,yes,yes
+1597,Todd Coffey,Los Angeles Dodgers,2012,yes,yes
+1599,Sergio Santos,Toronto Blue Jays,2012,yes,no
+1600,Brian Wilson,San Francisco Giants,2012,yes,yes
+1604,Jeff Karstens,Pittsburgh Pirates,2012,yes,yes
+1605,Kerry Wood,Chicago Cubs,2012,yes,yes
+1606,Chris Narveson,Milwaukee Brewers,2012,yes,yes
+1607,Cliff Lee,Philadelphia Phillies,2012,yes,yes
+1608,Greg Holland,Kansas City Royals,2012,yes,no
+1609,Daniel Hudson,Arizona Diamondbacks,2012,yes,no
+1611,Ryan Dempster,Chicago Cubs,2012,yes,yes
+1612,Kameron Loe,Milwaukee Brewers,2012,yes,no
+1614,Daniel Schlereth,Detroit Tigers,2012,yes,no
+1615,Michael Bowden,Chicago Cubs,2012,yes,yes
+1616,Michael Stutes,Philadelphia Phillies,2012,yes,no
+1617,Mike Pelfrey,New York Mets,2012,yes,no
+1619,Bill Bray,Cincinnati Reds,2012,yes,no
+1620,Matt Guerrier,Los Angeles Dodgers,2012,yes,yes
+1621,Micah Owings,San Diego Padres,2012,yes,yes
+1622,Kyle Weiland,Houston Astros,2012,yes,no
+1623,Brad Lidge,Washington Nationals,2012,yes,yes
+1625,Rafael Perez,Cleveland Indians,2012,yes,yes
+1626,Jesse Crain,Chicago White Sox,2012,yes,yes
+1627,Jeremy Guthrie,Colorado Rockies,2012,yes,no
+1630,Jeremy Affeldt,San Francisco Giants,2012,yes,yes
+1631,David Herndon,Philadelphia Phillies,2012,yes,yes
+1632,Cory Luebke,San Diego Padres,2012,yes,no
+1633,Rhiner Cruz,Houston Astros,2012,yes,no
+1637,Mariano Rivera,New York Yankees,2012,yes,no
+1638,Ernesto Frieri,Los Angeles Angels,2012,yes,yes
+1640,Huston Street,San Diego Padres,2012,yes,yes
+1642,Aaron Cook,Boston Red Sox,2012,yes,yes
+1645,Guillermo Mota,San Francisco Giants,2012,yes,yes
+1646,Jhoulys Chacin,Colorado Rockies,2012,yes,no
+1647,LaTroy Hawkins,Los Angeles Angels,2012,yes,yes
+1649,Jonathan Sanchez,Kansas City Royals,2012,yes,yes
+1650,Joe Wieland,San Diego Padres,2012,yes,no
+1651,Matt Lindstrom,Baltimore Orioles,2012,yes,yes
+1653,Carlos Marmol,Chicago Cubs,2012,yes,yes
+1654,Josh Tomlin,Cleveland Indians,2012,yes,yes
+1655,Danny Duffy,Kansas City Royals,2012,yes,no
+1657,Jeff Niemann,Tampa Bay Rays,2012,yes,yes
+1659,David Robertson,New York Yankees,2012,yes,no
+1660,Travis Blackley,Oakland Athletics,2012,yes,no
+1661,Vance Worley,Philadelphia Phillies,2012,yes,no
+1662,Lendy Castillo,Chicago Cubs,2012,yes,no
+1663,Nick Blackburn,Minnesota Twins,2012,yes,yes
+1664,Kyle McClellan,St. Louis Cardinals,2012,yes,yes
+1665,Eric Stults,San Diego Padres,2012,yes,yes
+1667,Jason Grilli,Pittsburgh Pirates,2012,yes,yes
+1668,Miguel Batista,New York Mets,2012,yes,no
+1669,Brandon McCarthy,Oakland Athletics,2012,yes,yes
+1670,Neftali Feliz,Texas Rangers,2012,yes,yes
+1671,Ryan Mattheus,Washington Nationals,2012,yes,yes
+1674,Marco Estrada,Milwaukee Brewers,2012,yes,no
+1675,John Danks,Chicago White Sox,2012,yes,yes
+1677,Fernando Abad,Houston Astros,2012,yes,no
+1679,Stu Pomeranz,Baltimore Orioles,2012,yes,no
+1683,Jered Weaver,Los Angeles Angels,2012,yes,yes
+1684,Roy Halladay,Philadelphia Phillies,2012,yes,yes
+1690,Juan Nicasio,Colorado Rockies,2012,yes,yes
+1691,Javy Guerra,Los Angeles Dodgers,2012,yes,no
+1693,Carl Pavano,Minnesota Twins,2012,yes,no
+1694,Jordan Norberto,Oakland Athletics,2012,yes,yes
+1695,Ramon E Ramirez,New York Mets,2012,yes,no
+1698,Blake Parker,Chicago Cubs,2012,yes,no
+1699,Andrew Carignan,Oakland Athletics,2012,yes,no
+1700,Jaime Garcia,St. Louis Cardinals,2012,yes,yes
+1701,Derek Holland,Texas Rangers,2012,yes,no
+1702,Henry Alberto Rodriguez,Washington Nationals,2012,yes,yes
+1705,Freddy Garcia,New York Yankees,2012,yes,yes
+1706,Chris Young,New York Mets,2012,yes,yes
+1712,Koji Uehara,Texas Rangers,2012,yes,yes
+1713,Brandon Morrow,Toronto Blue Jays,2012,yes,yes
+1714,Alexi Ogando,Texas Rangers,2012,yes,yes
+1715,Octavio Dotel,Detroit Tigers,2012,yes,yes
+1716,Michael Kirkman,Texas Rangers,2012,yes,no
+1719,Drew Smyly,Detroit Tigers,2012,yes,no
+1720,P.J. Walters,Minnesota Twins,2012,yes,no
+1721,Wilton Lopez,Houston Astros,2012,yes,yes
+1722,Kyle Drabek,Toronto Blue Jays,2012,yes,no
+1723,Josh Beckett,Boston Red Sox,2012,yes,yes
+1724,Drew Hutchison,Toronto Blue Jays,2012,yes,no
+1725,Sandy Rosario,Miami Marlins,2012,yes,no
+1726,Brandon Beachy,Atlanta Braves,2012,yes,yes
+1727,Bud Norris,Houston Astros,2012,yes,yes
+1731,Jeremy Hellickson,Tampa Bay Rays,2012,yes,no
+1735,Philip Humber,Chicago White Sox,2012,yes,yes
+1737,David Pauley,Toronto Blue Jays,2012,yes,yes
+1738,Shaun Marcum,Milwaukee Brewers,2012,yes,yes
+1739,Bartolo Colon,Oakland Athletics,2012,yes,yes
+1742,Clay Buchholz,Boston Red Sox,2012,yes,yes
+1744,Anthony Bass,San Diego Padres,2012,yes,no
+1745,Frank Francisco,New York Mets,2012,yes,yes
+1746,Robert Coello,Toronto Blue Jays,2012,yes,no
+1747,Matt Capps,Minnesota Twins,2012,yes,no
+1749,Colby Lewis,Texas Rangers,2012,yes,yes
+1751,CC Sabathia,New York Yankees,2012,yes,no
+1753,Andy Pettitte,New York Yankees,2012,yes,yes
+1754,Mark Lowe,Texas Rangers,2012,yes,yes
+1755,Brian Bruney,Chicago White Sox,2012,yes,yes
+1756,Shane Loux,San Francisco Giants,2012,yes,yes
+1757,Edward Mujica,Miami Marlins,2012,yes,yes
+1758,Joel Peralta,Tampa Bay Rays,2012,yes,no
+1765,Andrew Cashner,San Diego Padres,2012,yes,yes
+1768,Jonny Venters,Atlanta Braves,2012,yes,no
+1769,Dan Haren,Los Angeles Angels,2012,yes,no
+1771,Luis Perez,Toronto Blue Jays,2012,yes,no
+1772,Raul Valdes,Philadelphia Phillies,2012,yes,no
+1773,Dillon Gee,New York Mets,2012,yes,no
+1779,Jordan Walden,Los Angeles Angels,2012,yes,no
+1780,Jason Hammel,Baltimore Orioles,2012,yes,yes
+1782,Gavin Floyd,Chicago White Sox,2012,yes,no
+1786,Chad Billingsley,Los Angeles Dodgers,2012,yes,yes
+1787,Charlie Furbush,Seattle Mariners,2012,yes,no
+1792,Johan Santana,New York Mets,2012,yes,yes
+1794,Jeremy Guthrie,Kansas City Royals,2012,yes,yes
+1796,J.A. Happ,Toronto Blue Jays,2012,yes,no
+1797,Brandon Lyon,Toronto Blue Jays,2012,yes,yes
+1798,Jason Frasor,Toronto Blue Jays,2012,yes,no
+1801,Juan Carlos Oviedo,Miami Marlins,2012,yes,yes
+1804,Anibal Sanchez,Detroit Tigers,2012,yes,yes
+1805,Wandy Rodriguez,Pittsburgh Pirates,2012,yes,yes
+1806,Anthony Swarzak,Minnesota Twins,2012,yes,no
+1807,Nathan Eovaldi,Miami Marlins,2012,yes,no
+1808,Scott Elbert,Los Angeles Dodgers,2012,yes,no
+1809,Francisco Liriano,Chicago White Sox,2012,yes,yes
+1810,Joe Thatcher,San Diego Padres,2012,yes,yes
+1812,Tommy Hanson,Atlanta Braves,2012,yes,yes
+1814,Scott Downs,Los Angeles Angels,2012,yes,yes
+1815,Chad Qualls,Pittsburgh Pirates,2012,yes,no
+1816,Edward Mujica,St. Louis Cardinals,2012,yes,yes
+1817,Jonathan Broxton,Cincinnati Reds,2012,yes,yes
+1818,Craig Breslow,Boston Red Sox,2012,yes,no
+1819,Paul Maholm,Atlanta Braves,2012,yes,yes
+1820,Ryan Dempster,Texas Rangers,2012,yes,yes
+1822,Tim Byrdak,New York Mets,2012,yes,yes
+1824,Francisco Cordero,Houston Astros,2012,yes,no
+1827,Christian Friedrich,Colorado Rockies,2012,yes,no
+1828,Jonathan Sanchez,Colorado Rockies,2012,yes,yes
+1829,A.J. Griffin,Oakland Athletics,2012,yes,no
+1831,Jose Mijares,San Francisco Giants,2012,yes,yes
+1833,Matt Garza,Chicago Cubs,2012,yes,yes
+1834,Steve Johnson,Baltimore Orioles,2012,yes,no
+1841,Edgmer Escalona,Colorado Rockies,2012,yes,yes
+1843,Brian Fuentes,St. Louis Cardinals,2012,yes,yes
+1845,Troy Patton,Baltimore Orioles,2012,yes,yes
+1847,Brad Penny,San Francisco Giants,2012,yes,yes
+1850,Mark Rogers,Milwaukee Brewers,2012,yes,no
+1855,Leyson Septimo,Chicago White Sox,2012,yes,no
+1858,Felix Doubront,Boston Red Sox,2012,yes,yes
+1866,Alex Hinshaw,Chicago Cubs,2012,yes,no
+1870,Jeremy Horst,Philadelphia Phillies,2012,yes,no
+1871,Ivan Nova,New York Yankees,2012,yes,yes
+1872,Jason Marquis,San Diego Padres,2012,yes,yes
+1874,Jeremy Hefner,New York Mets,2012,yes,no
+1878,Ben Sheets,Atlanta Braves,2012,yes,yes
+1881,Hisanori Takahashi,Pittsburgh Pirates,2012,yes,no
+1884,Dale Thayer,San Diego Padres,2012,yes,no
+1886,Matt Lindstrom,Arizona Diamondbacks,2012,yes,yes
+1888,Franklin Morales,Boston Red Sox,2012,yes,yes
+1890,Joe Saunders,Baltimore Orioles,2012,yes,yes
+1894,Clay Hensley,San Francisco Giants,2012,yes,yes
+1895,Zach Stewart,Boston Red Sox,2012,yes,no
+1903,Josh Collmenter,Arizona Diamondbacks,2012,yes,no
+1908,Chris Withrow,Los Angeles Dodgers,2012,yes,no
+1910,Christian Garcia,Washington Nationals,2012,yes,no
+1911,Scott Diamond,Minnesota Twins,2012,yes,no
+1925,Cole De Vries,Minnesota Twins,2012,yes,no
+1929,Dellin Betances,New York Yankees,2012,yes,no
+1936,Randy Wolf,Baltimore Orioles,2012,yes,no
+1937,Oliver Drake,Baltimore Orioles,2012,yes,no
+1938,Duke Welker,Pittsburgh Pirates,2012,yes,no
+1939,Juan Pablo Oramas,San Diego Padres,2012,yes,no
+1940,Anthony Carter,Chicago White Sox,2012,yes,no
+1941,Paul Maholm,Atlanta Braves,2013,yes,yes
+1942,Chris Tillman,Baltimore Orioles,2012,yes,no
+1943,Jair Jurrjens,Atlanta Braves,2012,yes,yes
+1945,Cristhian Martinez,Atlanta Braves,2012,yes,yes
+1946,Miguel Gonzalez,Baltimore Orioles,2012,yes,yes
+1947,Miguel Batista,Atlanta Braves,2012,yes,yes
+1951,Adam Wainwright,St. Louis Cardinals,2012,yes,yes
+1952,Peter Moylan,Atlanta Braves,2012,yes,yes
+1954,Julio Teheran,Atlanta Braves,2012,yes,no
+1955,Anthony Varvaro,Atlanta Braves,2012,yes,no
+1956,Mike Adams,Texas Rangers,2012,yes,yes
+1958,Martin Perez,Texas Rangers,2012,yes,no
+1959,Tanner Scheppers,Texas Rangers,2012,yes,no
+1961,Wei-Yin Chen,Baltimore Orioles,2012,yes,no
+1962,Shelby Miller,St. Louis Cardinals,2012,yes,no
+1964,Mike Leake,Cincinnati Reds,2012,yes,yes
+1966,Jim Miller,Oakland Athletics,2012,yes,no
+1968,Stephen Strasburg,Washington Nationals,2012,yes,yes
+1970,John Lannan,Washington Nationals,2012,yes,no
+1971,Johnny Cueto,Cincinnati Reds,2012,yes,yes
+1972,Todd Redmond,Cincinnati Reds,2012,yes,no
+1973,Zach Duke,Washington Nationals,2012,yes,yes
+1982,Jake Westbrook,St. Louis Cardinals,2012,yes,yes
+2001,Darin Downs,Detroit Tigers,2012,yes,no
+2002,Adam Wilk,Detroit Tigers,2012,yes,no
+2004,Matt Hoffman,Detroit Tigers,2012,yes,no
+2033,Arodys Vizcaino,Chicago Cubs,2012,yes,no
+2038,Felipe Paulino,Kansas City Royals,2013,yes,yes
+2039,Josh Tomlin,Cleveland Indians,2013,yes,yes
+2040,Daniel Hudson,Arizona Diamondbacks,2013,yes,yes
+2041,Chris Carpenter,St. Louis Cardinals,2013,yes,yes
+2042,Luis Perez,Toronto Blue Jays,2013,yes,yes
+2043,Joe Wieland,San Diego Padres,2013,yes,yes
+2044,Anthony Swarzak,Minnesota Twins,2013,yes,yes
+2045,Scott Diamond,Minnesota Twins,2013,yes,yes
+2046,Brandon Beachy,Atlanta Braves,2013,yes,yes
+2047,Fernando Rodriguez Jr.,Oakland Athletics,2013,yes,no
+2048,Miguel De Los Santos,Milwaukee Brewers,2013,yes,no
+2049,Neftali Feliz,Texas Rangers,2013,yes,yes
+2050,Mark Rogers,Milwaukee Brewers,2013,yes,yes
+2051,John Danks,Chicago White Sox,2013,yes,yes
+2052,Leyson Septimo,Chicago White Sox,2013,yes,yes
+2053,Arodys Vizcaino,Chicago Cubs,2013,yes,yes
+2054,Chris Tillman,Baltimore Orioles,2013,yes,yes
+2055,Tim Wood,Minnesota Twins,2013,yes,no
+2056,Jason Motte,St. Louis Cardinals,2013,yes,yes
+2057,Andrew Taylor,Los Angeles Angels,2013,yes,no
+2058,Alex White,Houston Astros,2013,yes,yes
+2059,Eric Surkamp,San Francisco Giants,2013,yes,yes
+2060,Ryan Madson,Los Angeles Angels,2013,yes,yes
+2061,Danny Duffy,Kansas City Royals,2013,yes,yes
+2062,Chad Billingsley,Los Angeles Dodgers,2013,yes,yes
+2063,Scott Elbert,Los Angeles Dodgers,2013,yes,yes
+2064,Ted Lilly,Los Angeles Dodgers,2013,yes,yes
+2065,Frank Francisco,New York Mets,2013,yes,yes
+2066,Shaun Marcum,New York Mets,2013,yes,yes
+2067,Johan Santana,New York Mets,2013,yes,yes
+2068,Franklin Morales,Boston Red Sox,2013,yes,yes
+2069,Francisco Liriano,Pittsburgh Pirates,2013,yes,yes
+2070,Henderson Alvarez,Miami Marlins,2013,yes,no
+2071,Casey Kelly,San Diego Padres,2013,yes,no
+2072,Tsuyoshi Wada,Baltimore Orioles,2013,yes,yes
+2073,Jenrry Mejia,New York Mets,2013,yes,no
+2074,Colby Lewis,Texas Rangers,2013,yes,yes
+2075,Joakim Soria,Texas Rangers,2013,yes,yes
+2076,Jonny Venters,Atlanta Braves,2013,yes,yes
+2077,Jeff Karstens,Pittsburgh Pirates,2013,yes,yes
+2078,Dustin McGowan,Toronto Blue Jays,2013,yes,yes
+2079,Nathan Eovaldi,Miami Marlins,2013,yes,yes
+2080,Craig Breslow,Boston Red Sox,2013,yes,yes
+2081,Scott Baker,Chicago Cubs,2013,yes,yes
+2082,Matt Garza,Chicago Cubs,2013,yes,yes
+2083,Nick Masset,Cincinnati Reds,2013,yes,yes
+2084,Juan Carlos Oviedo,Tampa Bay Rays,2013,yes,yes
+2085,Cory Luebke,San Diego Padres,2013,yes,yes
+2086,Frank Herrmann,Cleveland Indians,2013,yes,no
+2087,Charlie Morton,Pittsburgh Pirates,2013,yes,yes
+2088,Phil Hughes,New York Yankees,2013,yes,yes
+2089,Jeff Niemann,Tampa Bay Rays,2013,yes,yes
+2090,Scott Kazmir,Cleveland Indians,2013,yes,yes
+2092,Travis Blackley,Houston Astros,2013,yes,yes
+2094,Bartolo Colon,Oakland Athletics,2013,yes,yes
+2095,Cole De Vries,Minnesota Twins,2013,yes,yes
+2097,Josh Fields,Houston Astros,2013,yes,no
+2098,Jered Weaver,Los Angeles Angels,2013,yes,yes
+2099,Matt Harrison,Texas Rangers,2013,yes,yes
+2100,Sean Marshall,Cincinnati Reds,2013,yes,yes
+2102,John Lackey,Boston Red Sox,2013,yes,yes
+2103,Aaron Harang,Seattle Mariners,2013,yes,yes
+2104,Zack Greinke,Los Angeles Dodgers,2013,yes,yes
+2105,Matt Albers,Cleveland Indians,2013,yes,yes
+2106,Luis Ayala,Atlanta Braves,2013,yes,yes
+2107,Cristhian Martinez,Atlanta Braves,2013,yes,yes
+2108,Kevin Jepsen,Los Angeles Angels,2013,yes,no
+2109,Kyuji Fujikawa,Chicago Cubs,2013,yes,no
+2110,Stephen Pryor,Seattle Mariners,2013,yes,no
+2111,Johnny Cueto,Cincinnati Reds,2013,yes,yes
+2112,Shawn Tolleson,Los Angeles Dodgers,2013,yes,no
+2113,Joel Hanrahan,Boston Red Sox,2013,yes,yes
+2114,Sergio Santos,Toronto Blue Jays,2013,yes,yes
+2115,Kameron Loe,Chicago Cubs,2013,yes,yes
+2116,Jeremy Affeldt,San Francisco Giants,2013,yes,yes
+2117,Chris Capuano,Los Angeles Dodgers,2013,yes,no
+2118,John Lannan,Philadelphia Phillies,2013,yes,yes
+2122,Mark Lowe,Los Angeles Angels,2013,yes,yes
+2123,Tyson Ross,San Diego Padres,2013,yes,no
+2124,Jhoulys Chacin,Colorado Rockies,2013,yes,yes
+2125,Brett Myers,Cleveland Indians,2013,yes,yes
+2127,Tommy Hanson,Los Angeles Angels,2013,yes,yes
+2129,Octavio Dotel,Detroit Tigers,2013,yes,yes
+2131,Aaron Laffey,Toronto Blue Jays,2013,yes,yes
+2132,Manny Parra,Cincinnati Reds,2013,yes,yes
+2136,Ivan Nova,New York Yankees,2013,yes,yes
+2137,Sean Burnett,Los Angeles Angels,2013,yes,yes
+2139,Gavin Floyd,Chicago White Sox,2013,yes,yes
+2141,Jose Mijares,San Francisco Giants,2013,yes,yes
+2142,Clayton Kershaw,Los Angeles Dodgers,2013,yes,no
+2145,Brett Anderson,Oakland Athletics,2013,yes,yes
+2146,Phil Coke,Detroit Tigers,2013,yes,yes
+2147,Josh Johnson,Toronto Blue Jays,2013,yes,yes
+2151,Joba Chamberlain,New York Yankees,2013,yes,yes
+2152,Clayton Richard,San Diego Padres,2013,yes,yes
+2155,Vinnie Pestano,Cleveland Indians,2013,yes,no
+2156,Andrew Bailey,Boston Red Sox,2013,yes,yes
+2157,Roy Halladay,Philadelphia Phillies,2013,yes,yes
+2162,James McDonald,Pittsburgh Pirates,2013,yes,yes
+2164,J.J. Putz,Arizona Diamondbacks,2013,yes,yes
+2165,J.A. Happ,Toronto Blue Jays,2013,yes,yes
+2166,Miguel Gonzalez,Baltimore Orioles,2013,yes,yes
+2167,Brandon Gomes,Tampa Bay Rays,2013,yes,no
+2171,Jake Westbrook,St. Louis Cardinals,2013,yes,yes
+2172,Jeurys Familia,New York Mets,2013,yes,no
+2173,Tom Gorzelanny,Milwaukee Brewers,2013,yes,yes
+2174,Scott Atchison,New York Mets,2013,yes,yes
+2175,Wei-Yin Chen,Baltimore Orioles,2013,yes,yes
+2178,Josh Beckett,Los Angeles Dodgers,2013,yes,yes
+2179,Alexi Ogando,Texas Rangers,2013,yes,yes
+2180,Jeff Francis,Colorado Rockies,2013,yes,yes
+2181,David Price,Tampa Bay Rays,2013,yes,no
+2182,Andy Pettitte,New York Yankees,2013,yes,yes
+2183,Jose Contreras,Pittsburgh Pirates,2013,yes,yes
+2184,Jordan Walden,Atlanta Braves,2013,yes,yes
+2185,Jaime Garcia,St. Louis Cardinals,2013,yes,yes
+2186,Eric O'Flaherty,Atlanta Braves,2013,yes,yes
+2190,Mike Adams,Philadelphia Phillies,2013,yes,yes
+2192,Ryan Mattheus,Washington Nationals,2013,yes,yes
+2195,Ryan Vogelsong,San Francisco Giants,2013,yes,yes
+2196,Santiago Casilla,San Francisco Giants,2013,yes,yes
+2197,Shawn Camp,Chicago Cubs,2013,yes,yes
+2201,Darren Oliver,Toronto Blue Jays,2013,yes,yes
+2203,Pedro Strop,Baltimore Orioles,2013,yes,yes
+2204,Jim Henderson,Milwaukee Brewers,2013,yes,no
+2205,John Gast,St. Louis Cardinals,2013,yes,no
+2207,Ross Detwiler,Washington Nationals,2013,yes,no
+2210,Alex Sanabia,Miami Marlins,2013,yes,no
+2212,Chris Perez,Cleveland Indians,2013,yes,yes
+2220,Edgar Gonzalez,Houston Astros,2013,yes,no
+2221,Rafael Dolis,Chicago Cubs,2013,yes,no
+2222,Huston Street,San Diego Padres,2013,yes,yes
+2223,Brandon Morrow,Toronto Blue Jays,2013,yes,yes
+2224,Brandon McCarthy,Arizona Diamondbacks,2013,yes,yes
+2225,Rafael Betancourt,Colorado Rockies,2013,yes,yes
+2227,Jeanmar Gomez,Pittsburgh Pirates,2013,yes,no
+2228,Phil Irwin,Pittsburgh Pirates,2013,yes,no
+2230,Ramon Ortiz,Toronto Blue Jays,2013,yes,no
+2233,Marco Estrada,Milwaukee Brewers,2013,yes,yes
+2235,Stephen Strasburg,Washington Nationals,2013,yes,yes
+2236,Jake Peavy,Chicago White Sox,2013,yes,yes
+2237,Steve Johnson,Baltimore Orioles,2013,yes,yes
+2239,Jared Hughes,Pittsburgh Pirates,2013,yes,no
+2240,Zach McAllister,Cleveland Indians,2013,yes,no
+2241,Michael Kirkman,Texas Rangers,2013,yes,yes
+2245,Wade LeBlanc,Houston Astros,2013,yes,yes
+2247,Matt Reynolds,Arizona Diamondbacks,2013,yes,no
+2248,Edgmer Escalona,Colorado Rockies,2013,yes,yes
+2249,Robert Coello,Los Angeles Angels,2013,yes,yes
+2250,Wandy Rodriguez,Pittsburgh Pirates,2013,yes,yes
+2251,Alex Cobb,Tampa Bay Rays,2013,yes,yes
+2252,Clayton Mortensen,Boston Red Sox,2013,yes,yes
+2253,Zach Putnam,Chicago Cubs,2013,yes,no
+2255,A.J. Burnett,Pittsburgh Pirates,2013,yes,yes
+2260,Henry Alberto Rodriguez,Chicago Cubs,2013,yes,yes
+2261,Jonathan Broxton,Cincinnati Reds,2013,yes,yes
+2266,Anibal Sanchez,Detroit Tigers,2013,yes,yes
+2268,Jeremy Horst,Philadelphia Phillies,2013,yes,yes
+2270,Clay Buchholz,Boston Red Sox,2013,yes,yes
+2275,Jonathon Niese,New York Mets,2013,yes,yes
+2277,Jason Vargas,Los Angeles Angels,2013,yes,no
+2280,Michael Stutes,Philadelphia Phillies,2013,yes,yes
+2281,Mike Pelfrey,Minnesota Twins,2013,yes,yes
+2282,Chad Gaudin,San Francisco Giants,2013,yes,yes
+2283,Dan Haren,Washington Nationals,2013,yes,yes
+2286,Alfredo Figaro,Milwaukee Brewers,2013,yes,no
+2294,Trevor Cahill,Arizona Diamondbacks,2013,yes,no
+2297,Pedro Strop,Chicago Cubs,2013,yes,yes
+2298,Scott Feldman,Baltimore Orioles,2013,yes,yes
+2299,Matt Guerrier,Chicago Cubs,2013,yes,yes
+2303,David Phelps,New York Yankees,2013,yes,no
+2306,Andrew Miller,Boston Red Sox,2013,yes,yes
+2307,Nick Tepesch,Texas Rangers,2013,yes,no
+2311,Roy Oswalt,Colorado Rockies,2013,yes,yes
+2312,Stephen Fife,Los Angeles Dodgers,2013,yes,no
+2314,Ricky Nolasco,Los Angeles Dodgers,2013,yes,yes
+2315,Alex Wilson,Boston Red Sox,2013,yes,no
+2316,Yu Darvish,Texas Rangers,2013,yes,no
+2317,Caleb Thielbar,Minnesota Twins,2013,yes,no
+2318,Wade Davis,Kansas City Royals,2013,yes,yes
+2320,Chad Qualls,Miami Marlins,2013,yes,yes
+2326,Jason Marquis,San Diego Padres,2013,yes,yes
+2329,Matt Garza,Texas Rangers,2013,yes,yes
+2332,Jason Grilli,Pittsburgh Pirates,2013,yes,yes
+2333,Jose Dominguez,Los Angeles Dodgers,2013,yes,no
+2334,Francisco Rodriguez,Baltimore Orioles,2013,yes,yes
+2336,Tim Hudson,Atlanta Braves,2013,yes,yes
+2337,Juan Gutierrez,Los Angeles Angels,2013,yes,yes
+2339,Drew Pomeranz,Colorado Rockies,2013,yes,no
+2340,Kevin Slowey,Miami Marlins,2013,yes,yes
+2341,Guillermo Moscoso,San Francisco Giants,2013,yes,yes
+2343,Sean O'Sullivan,San Diego Padres,2013,yes,no
+2344,Jose Veras,Detroit Tigers,2013,yes,yes
+2345,Yovani Gallardo,Milwaukee Brewers,2013,yes,yes
+2346,Jason Hammel,Baltimore Orioles,2013,yes,yes
+2347,Matt Moore,Tampa Bay Rays,2013,yes,no
+2348,Marc Rzepczynski,Cleveland Indians,2013,yes,no
+2349,Joe Thatcher,Arizona Diamondbacks,2013,yes,yes
+2351,Jake Peavy,Boston Red Sox,2013,yes,yes
+2355,Ian Kennedy,San Diego Padres,2013,yes,no
+2356,Jonathan Pettibone,Philadelphia Phillies,2013,yes,no
+2357,Josh Edgin,New York Mets,2013,yes,no
+2358,Steve Delabar,Toronto Blue Jays,2013,yes,no
+2359,Ross Ohlendorf,Washington Nationals,2013,yes,yes
+2362,Antonio Bastardo,Philadelphia Phillies,2013,yes,yes
+2363,Corey Kluber,Cleveland Indians,2013,yes,no
+2364,Bobby Parnell,New York Mets,2013,yes,yes
+2365,Matt Thornton,Boston Red Sox,2013,yes,yes
+2369,Christian Friedrich,Colorado Rockies,2013,yes,yes
+2370,Tyler Chatwood,Colorado Rockies,2013,yes,no
+2372,Juan Pablo Perez,Toronto Blue Jays,2013,yes,no
+2377,Jeremy Hefner,New York Mets,2013,yes,yes
+2384,Ramon Troncoso,Chicago White Sox,2013,yes,no
+2386,Taylor Jordan,Washington Nationals,2013,yes,no
+2388,Brian Wilson,Los Angeles Dodgers,2013,yes,yes
+2394,Rob Wooten,Milwaukee Brewers,2013,yes,no
+2397,Matt Cain,San Francisco Giants,2013,yes,no
+2399,Daisuke Matsuzaka,New York Mets,2013,yes,yes
+2400,Aaron Loup,Toronto Blue Jays,2013,yes,no
+2408,Tony Cingrani,Cincinnati Reds,2013,yes,no
+2409,Luke Hochevar,Kansas City Royals,2013,yes,yes
+2410,Matt Harvey,New York Mets,2012,yes,no
+2413,Alex Colome,Tampa Bay Rays,2013,yes,no
+2414,Scott Barnes,Cleveland Indians,2013,yes,no
+2415,Samuel Deduno,Minnesota Twins,2013,yes,no
+2420,Noel Arguelles,Kansas City Royals,2013,yes,no
+2428,Daniel Bard,Chicago Cubs,2013,yes,no
+2434,Scott Rice,New York Mets,2013,yes,no
+2441,Brett Cecil,Toronto Blue Jays,2013,yes,no
+2444,Jesse Crain,Tampa Bay Rays,2013,yes,yes
+2445,CC Sabathia,New York Yankees,2013,yes,yes
+2447,Luis Marte,Detroit Tigers,2013,yes,yes
+2453,John Ely,Houston Astros,2013,yes,no
+2454,Kyle Gibson,Minnesota Twins,2013,yes,no
+2455,Bronson Arroyo,Cincinnati Reds,2013,yes,no
+2457,Greg Reynolds,Cincinnati Reds,2013,yes,yes
+2458,Santos Rodriguez,Chicago White Sox,2013,yes,no
+2459,Miguel Alfredo Gonzalez,Philadelphia Phillies,2013,yes,no
+2460,Homer Bailey,Cincinnati Reds,2013,yes,yes
+2461,Mat Latos,Cincinnati Reds,2013,yes,yes
+2464,Ubaldo Jimenez,Cleveland Indians,2013,yes,yes
+2465,Tyler Cloyd,Cleveland Indians,2013,yes,no
+2466,Carlos Carrasco,Cleveland Indians,2013,yes,yes
+2468,Jeremy Hellickson,Tampa Bay Rays,2013,yes,yes
+2470,Trey Haley,Cleveland Indians,2013,yes,no
+2471,Vidal Nuno,New York Yankees,2013,yes,no
+2473,Edinson Volquez,Los Angeles Dodgers,2013,yes,yes
+2474,Carlos Marmol,Los Angeles Dodgers,2013,yes,yes
+2475,Cesar Ramos,Tampa Bay Rays,2013,yes,no
+2477,A.J. Griffin,Oakland Athletics,2013,yes,yes
+2478,Andrew Werner,Oakland Athletics,2013,yes,no
+2479,Kyle Farnsworth,Pittsburgh Pirates,2013,yes,yes
+2480,Stolmy Pimentel,Pittsburgh Pirates,2013,yes,no
+2481,Roberto Hernandez,Tampa Bay Rays,2013,yes,yes
+2482,Jake Odorizzi,Tampa Bay Rays,2013,yes,no
+2484,Scott Downs,Atlanta Braves,2013,yes,yes
+2485,Cory Gearrin,Atlanta Braves,2013,yes,no
+2486,Kameron Loe,Atlanta Braves,2013,yes,yes
+2487,Anthony Varvaro,Atlanta Braves,2013,yes,yes
+2488,Pat Neshek,Oakland Athletics,2013,yes,yes
+2489,Andy Oliver,Pittsburgh Pirates,2013,yes,no
+2491,Pedro Figueroa,Oakland Athletics,2013,yes,no
+2492,Jeff Locke,Pittsburgh Pirates,2013,yes,no
+2493,Ryan Reid,Pittsburgh Pirates,2013,yes,no
+2494,Josh Lueke,Tampa Bay Rays,2013,yes,no
+2496,Jeremy Bonderman,Detroit Tigers,2013,yes,yes
+2497,Luke Putkonen,Detroit Tigers,2013,yes,no
+2499,Onelki Garcia,Los Angeles Dodgers,2013,yes,no
+2500,Peter Moylan,Los Angeles Dodgers,2013,yes,yes
+2502,Evan Reed,Detroit Tigers,2013,yes,no
+2503,Bruce Rondon,Detroit Tigers,2013,yes,no
+2504,Javy Guerra,Los Angeles Dodgers,2013,yes,yes
+2505,Brandon League,Los Angeles Dodgers,2013,yes,no
+2522,Matt Harvey,New York Mets,2013,yes,yes
+2536,Kyle Kendrick,Philadelphia Phillies,2013,yes,yes
+2537,Kyle McPherson,Pittsburgh Pirates,2013,yes,no
+2540,Brayan Villarreal,Boston Red Sox,2013,yes,no
+2541,Steven Wright,Boston Red Sox,2013,yes,no
+2564,Troy Patton,Baltimore Orioles,2013,yes,yes
+2565,Scott Elbert,Los Angeles Dodgers,2014,yes,yes
+2566,Erik Davis,Washington Nationals,2014,yes,no
+2567,Eric O'Flaherty,Oakland Athletics,2014,yes,yes
+2568,Ryan Dempster,Boston Red Sox,2014,yes,yes
+2569,Derek Holland,Texas Rangers,2014,yes,yes
+2570,Cory Luebke,San Diego Padres,2014,yes,yes
+2571,Onelki Garcia,Los Angeles Dodgers,2014,yes,yes
+2572,Matt Reynolds,Arizona Diamondbacks,2014,yes,yes
+2573,Chad Billingsley,Los Angeles Dodgers,2014,yes,yes
+2574,Josh Beckett,Los Angeles Dodgers,2014,yes,yes
+2575,Jarrod Parker,Oakland Athletics,2014,yes,no
+2576,Jeff Locke,Pittsburgh Pirates,2014,yes,yes
+2577,Ross Ohlendorf,Washington Nationals,2014,yes,yes
+2578,Brandon Beachy,Atlanta Braves,2014,yes,yes
+2579,Jonny Venters,Atlanta Braves,2014,yes,yes
+2580,Kris Medlen,Atlanta Braves,2014,yes,yes
+2581,Gavin Floyd,Atlanta Braves,2014,yes,yes
+2582,Mike Minor,Atlanta Braves,2014,yes,no
+2583,Alex Colome,Tampa Bay Rays,2014,yes,yes
+2584,J.A. Happ,Toronto Blue Jays,2014,yes,yes
+2585,Mike Adams,Philadelphia Phillies,2014,yes,yes
+2586,Miguel Alfredo Gonzalez,Philadelphia Phillies,2014,yes,yes
+2587,Steven Wright,Boston Red Sox,2014,yes,yes
+2588,Ethan Martin,Philadelphia Phillies,2014,yes,no
+2589,Craig Breslow,Boston Red Sox,2014,yes,yes
+2590,Cole Hamels,Philadelphia Phillies,2014,yes,yes
+2591,Boone Logan,Colorado Rockies,2014,yes,no
+2592,Jhoulys Chacin,Colorado Rockies,2014,yes,yes
+2593,Ryan Cook,Oakland Athletics,2014,yes,no
+2594,Sean Burnett,Los Angeles Angels,2014,yes,yes
+2595,Ryan Brasier,Los Angeles Angels,2014,yes,no
+2596,Brian Moran,Los Angeles Angels,2014,yes,no
+2597,Patrick Corbin,Arizona Diamondbacks,2014,yes,no
+2598,David Hernandez,Arizona Diamondbacks,2014,yes,yes
+2599,Bruce Rondon,Detroit Tigers,2014,yes,yes
+2600,Alex White,Houston Astros,2014,yes,yes
+2601,Taijuan Walker,Seattle Mariners,2014,yes,no
+2602,Doug Fister,Washington Nationals,2014,yes,yes
+2603,Jeremy Affeldt,San Francisco Giants,2014,yes,yes
+2604,Fernando Rodriguez Jr.,Oakland Athletics,2014,yes,yes
+2605,A.J. Griffin,Oakland Athletics,2014,yes,yes
+2606,Cory Gearrin,Atlanta Braves,2014,yes,yes
+2607,Josh Johnson,San Diego Padres,2014,yes,yes
+2609,Hisashi Iwakuma,Seattle Mariners,2014,yes,no
+2610,Stephen Pryor,Seattle Mariners,2014,yes,yes
+2611,Jaime Garcia,St. Louis Cardinals,2014,yes,yes
+2612,Jason Motte,St. Louis Cardinals,2014,yes,yes
+2613,Casey Kelly,San Diego Padres,2014,yes,yes
+2614,Joe Wieland,San Diego Padres,2014,yes,yes
+2615,Dane De La Rosa,Los Angeles Angels,2014,yes,no
+2616,Clayton Kershaw,Los Angeles Dodgers,2014,yes,yes
+2617,Matt Harvey,New York Mets,2014,yes,yes
+2618,Jonathon Niese,New York Mets,2014,yes,yes
+2619,Juan Carlos Oviedo,Tampa Bay Rays,2014,yes,yes
+2620,Aroldis Chapman,Cincinnati Reds,2014,yes,yes
+2621,Jonathan Broxton,Cincinnati Reds,2014,yes,yes
+2622,Mat Latos,Cincinnati Reds,2014,yes,yes
+2623,Sean Marshall,Cincinnati Reds,2014,yes,yes
+2624,Kyuji Fujikawa,Chicago Cubs,2014,yes,yes
+2625,Jake Arrieta,Chicago Cubs,2014,yes,yes
+2626,James McDonald,Chicago Cubs,2014,yes,yes
+2627,Casey Janssen,Toronto Blue Jays,2014,yes,yes
+2628,Yu Darvish,Texas Rangers,2014,yes,yes
+2629,Matt Harrison,Texas Rangers,2014,yes,yes
+2630,Jesse Crain,Houston Astros,2014,yes,yes
+2631,Louis Coleman,Kansas City Royals,2014,yes,no
+2632,Luke Hochevar,Kansas City Royals,2014,yes,yes
+2633,Tom Gorzelanny,Milwaukee Brewers,2014,yes,yes
+2634,Jeremy Hellickson,Tampa Bay Rays,2014,yes,yes
+2635,Daniel Hudson,Arizona Diamondbacks,2014,yes,yes
+2636,Edgmer Escalona,Baltimore Orioles,2014,yes,yes
+2637,Brian Duensing,Minnesota Twins,2014,yes,no
+2638,Bobby Parnell,New York Mets,2014,yes,yes
+2639,Brian Wilson,Los Angeles Dodgers,2014,yes,yes
+2640,Tyler Chatwood,Colorado Rockies,2014,yes,yes
+2642,Nate Jones,Chicago White Sox,2014,yes,yes
+2646,Tim Collins,Kansas City Royals,2014,yes,no
+2647,Francisley Bueno,Kansas City Royals,2014,yes,no
+2648,Joe Saunders,Texas Rangers,2014,yes,yes
+2650,Matt Albers,Houston Astros,2014,yes,yes
+2651,Matt Moore,Tampa Bay Rays,2014,yes,yes
+2652,Trevor Bell,Cincinnati Reds,2014,yes,no
+2653,David Robertson,New York Yankees,2014,yes,yes
+2656,Jacob Turner,Miami Marlins,2014,yes,no
+2657,James Paxton,Seattle Mariners,2014,yes,no
+2661,Scott Feldman,Houston Astros,2014,yes,yes
+2662,Brandon Kintzler,Milwaukee Brewers,2014,yes,yes
+2664,Alex Cobb,Tampa Bay Rays,2014,yes,yes
+2665,Hector Noesi,Texas Rangers,2014,yes,no
+2667,Brett Anderson,Colorado Rockies,2014,yes,yes
+2670,Blake Beavan,Seattle Mariners,2014,yes,no
+2673,Joe Kelly,St. Louis Cardinals,2014,yes,no
+2674,Tanner Scheppers,Texas Rangers,2014,yes,yes
+2675,Felipe Paulino,Chicago White Sox,2014,yes,yes
+2677,Ivan Nova,New York Yankees,2014,yes,yes
+2679,Luke Putkonen,Detroit Tigers,2014,yes,yes
+2681,Wandy Rodriguez,Pittsburgh Pirates,2014,yes,yes
+2683,Chris Sale,Chicago White Sox,2014,yes,no
+2684,David Huff,San Francisco Giants,2014,yes,yes
+2686,Pedro Figueroa,Texas Rangers,2014,yes,yes
+2689,Jose Veras,Chicago Cubs,2014,yes,yes
+2690,Hector Noesi,Chicago White Sox,2014,yes,yes
+2691,Jason Grilli,Pittsburgh Pirates,2014,yes,yes
+2693,Anibal Sanchez,Detroit Tigers,2014,yes,yes
+2694,Bruce Billings,New York Yankees,2014,yes,no
+2696,Troy Patton,Baltimore Orioles,2014,yes,yes
+2697,Tony Cingrani,Cincinnati Reds,2014,yes,yes
+2698,Hyun-Jin Ryu,Los Angeles Dodgers,2014,yes,no
+2699,Bruce Chen,Kansas City Royals,2014,yes,yes
+2700,Jim Henderson,Milwaukee Brewers,2014,yes,yes
+2701,Joel Hanrahan,Detroit Tigers,2014,yes,yes
+2703,Brandon Morrow,Toronto Blue Jays,2014,yes,yes
+2704,Stolmy Pimentel,Pittsburgh Pirates,2014,yes,yes
+2705,Mike Pelfrey,Minnesota Twins,2014,yes,yes
+2709,Matt Cain,San Francisco Giants,2014,yes,yes
+2713,Michael Pineda,New York Yankees,2014,yes,yes
+2714,J.J. Putz,Arizona Diamondbacks,2014,yes,yes
+2715,Pedro Strop,Chicago Cubs,2014,yes,yes
+2718,Jose Cisnero,Houston Astros,2014,yes,no
+2720,Jordan Walden,Atlanta Braves,2014,yes,yes
+2724,CC Sabathia,New York Yankees,2014,yes,yes
+2725,Jose Fernandez,Miami Marlins,2014,yes,no
+2726,Sergio Santos,Toronto Blue Jays,2014,yes,yes
+2728,Shawn Kelley,New York Yankees,2014,yes,yes
+2730,Dale Thayer,San Diego Padres,2014,yes,yes
+2731,Gonzalez Germen,New York Mets,2014,yes,no
+2732,Tyler Lyons,St. Louis Cardinals,2014,yes,no
+2733,Dillon Gee,New York Mets,2014,yes,yes
+2734,Martin Perez,Texas Rangers,2014,yes,yes
+2736,Anthony Bass,Houston Astros,2014,yes,yes
+2741,Andrew Cashner,San Diego Padres,2014,yes,yes
+2743,Gio Gonzalez,Washington Nationals,2014,yes,no
+2746,Matt Lindstrom,Chicago White Sox,2014,yes,yes
+2748,Chris Withrow,Los Angeles Dodgers,2014,yes,yes
+2749,Felix Doubront,Boston Red Sox,2014,yes,yes
+2750,Cliff Lee,Philadelphia Phillies,2014,yes,yes
+2751,Tommy Hunter,Baltimore Orioles,2014,yes,yes
+2753,Zach McAllister,Cleveland Indians,2014,yes,yes
+2755,Santiago Casilla,San Francisco Giants,2014,yes,yes
+2756,Robbie Erlin,San Diego Padres,2014,yes,no
+2759,Kevin Siegrist,St. Louis Cardinals,2014,yes,no
+2760,Brad Hand,Miami Marlins,2014,yes,no
+2761,Luis Garcia,Philadelphia Phillies,2014,yes,no
+2762,Carter Capps,Miami Marlins,2014,yes,no
+2763,Wesley Wright,Chicago Cubs,2014,yes,yes
+2765,Clay Buchholz,Boston Red Sox,2014,yes,yes
+2769,Hector Rondon,Chicago Cubs,2014,yes,no
+2771,Jeff Manship,Philadelphia Phillies,2014,yes,yes
+2773,Johan Santana,Baltimore Orioles,2014,yes,yes
+2774,Bryan Morris,Miami Marlins,2014,yes,no
+2776,Eric Stults,San Diego Padres,2014,yes,yes
+2777,Alexi Ogando,Texas Rangers,2014,yes,yes
+2778,Wade LeBlanc,New York Yankees,2014,yes,yes
+2780,Jordan Lyles,Colorado Rockies,2014,yes,no
+2784,Miguel Gonzalez,Baltimore Orioles,2014,yes,yes
+2788,Gerrit Cole,Pittsburgh Pirates,2014,yes,no
+2789,Tyler Thornburg,Milwaukee Brewers,2014,yes,no
+2792,Eddie Butler,Colorado Rockies,2014,yes,no
+2794,Tyler Skaggs,Los Angeles Angels,2014,yes,no
+2798,Francisco Liriano,Pittsburgh Pirates,2014,yes,yes
+2801,Troy Patton,San Diego Padres,2014,yes,yes
+2804,Nathan Eovaldi,Miami Marlins,2014,yes,yes
+2805,Nick Vincent,San Diego Padres,2014,yes,no
+2806,Josh Fields,Houston Astros,2014,yes,yes
+2807,Fernando Salas,Los Angeles Angels,2014,yes,no
+2809,Bronson Arroyo,Arizona Diamondbacks,2014,yes,yes
+2810,David Carpenter,Atlanta Braves,2014,yes,no
+2813,Brett Cecil,Toronto Blue Jays,2014,yes,yes
+2814,Pedro Beato,Atlanta Braves,2014,yes,yes
+2818,Michael Wacha,St. Louis Cardinals,2014,yes,no
+2819,Bud Norris,Baltimore Orioles,2014,yes,yes
+2820,Ian Krol,Detroit Tigers,2014,yes,no
+2823,Christian Bergman,Colorado Rockies,2014,yes,no
+2828,AJ Ramos,Miami Marlins,2014,yes,no
+2834,Tom Koehler,Miami Marlins,2014,yes,no
+2837,Cesar Ramos,Tampa Bay Rays,2014,yes,yes
+2839,Nick Masset,Colorado Rockies,2014,yes,yes
+2840,Patrick McCoy,Detroit Tigers,2014,yes,no
+2843,Jason Hammel,Oakland Athletics,2014,yes,yes
+2844,Ricky Nolasco,Minnesota Twins,2014,yes,yes
+2845,Brandon McCarthy,New York Yankees,2014,yes,yes
+2846,Nick Martinez,Texas Rangers,2014,yes,no
+2847,Justin Masterson,Cleveland Indians,2014,yes,no
+2849,Masahiro Tanaka,New York Yankees,2014,yes,no
+2853,Jason Vargas,Kansas City Royals,2014,yes,yes
+2854,C.J. Wilson,Los Angeles Angels,2014,yes,no
+2855,Jake McGee,Tampa Bay Rays,2014,yes,yes
+2856,Jeff Francis,New York Yankees,2014,yes,yes
+2857,Wei-Chung Wang,Milwaukee Brewers,2014,yes,no
+2859,Collin McHugh,Houston Astros,2014,yes,no
+2862,Ubaldo Jimenez,Baltimore Orioles,2014,yes,yes
+2865,Kevin Gregg,Miami Marlins,2014,yes,no
+2866,Brad Mills,Toronto Blue Jays,2014,yes,no
+2867,Huston Street,Los Angeles Angels,2014,yes,yes
+2873,Joel Peralta,Tampa Bay Rays,2014,yes,yes
+2875,Logan Ondrusek,Cincinnati Reds,2013,yes,yes
+2876,Anthony Varvaro,Atlanta Braves,2014,yes,yes
+2877,Zach Putnam,Chicago White Sox,2014,yes,yes
+2878,Matt Purke,Washington Nationals,2014,yes,no
+2879,Chris Capuano,New York Yankees,2014,yes,yes
+2881,Daisuke Matsuzaka,New York Mets,2014,yes,yes
+2883,Jake Peavy,San Francisco Giants,2014,yes,yes
+2884,Josh Zeid,Houston Astros,2014,yes,no
+2885,T.J. McFarland,Baltimore Orioles,2014,yes,no
+2887,Neil Ramirez,Chicago Cubs,2014,yes,no
+2888,Shae Simmons,Atlanta Braves,2014,yes,no
+2890,Andrew Miller,Baltimore Orioles,2014,yes,yes
+2891,Esmil Rogers,New York Yankees,2014,yes,yes
+2892,John Lackey,St. Louis Cardinals,2014,yes,yes
+2894,Jon Lester,Oakland Athletics,2014,yes,yes
+2895,Felix Doubront,Chicago Cubs,2014,yes,yes
+2896,Jarred Cosart,Miami Marlins,2014,yes,no
+2898,James Russell,Atlanta Braves,2014,yes,no
+2900,Paul Maholm,Los Angeles Dodgers,2014,yes,yes
+2902,Joe Kelly,Boston Red Sox,2014,yes,yes
+2904,David Price,Detroit Tigers,2014,yes,yes
+2905,Joe Thatcher,Los Angeles Angels,2014,yes,yes
+2906,David Phelps,New York Yankees,2014,yes,yes
+2907,Chris Perez,Los Angeles Dodgers,2014,yes,yes
+2908,Mike Morin,Los Angeles Angels,2014,yes,no
+2909,Matt Garza,Milwaukee Brewers,2014,yes,yes
+2910,Paco Rodriguez,Los Angeles Dodgers,2014,yes,no
+2911,Taylor Jordan,Washington Nationals,2014,yes,yes
+2914,Matt Thornton,Washington Nationals,2014,yes,yes
+2918,Dan Jennings,Miami Marlins,2014,yes,no
+2920,Roberto Hernandez,Los Angeles Dodgers,2014,yes,yes
+2922,Jacob Turner,Chicago Cubs,2014,yes,yes
+2923,Brian Schlitter,Chicago Cubs,2014,yes,yes
+2926,Jacob deGrom,New York Mets,2014,yes,no
+2927,Joakim Soria,Detroit Tigers,2014,yes,yes
+2928,Kevin Correia,Los Angeles Dodgers,2014,yes,yes
+2930,Jerome Williams,Philadelphia Phillies,2014,yes,yes
+2932,Scott Downs,Kansas City Royals,2014,yes,yes
+2938,John Axford,Pittsburgh Pirates,2014,yes,no
+2939,Brooks Brown,Colorado Rockies,2014,yes,no
+2940,Homer Bailey,Cincinnati Reds,2014,yes,yes
+2941,Henderson Alvarez,Miami Marlins,2014,yes,yes
+2943,Tommy Kahnle,Colorado Rockies,2014,yes,no
+2944,Javy Guerra,Chicago White Sox,2014,yes,yes
+2945,Charlie Morton,Pittsburgh Pirates,2014,yes,yes
+2946,Logan Ondrusek,Cincinnati Reds,2014,yes,yes
+2947,Bartolo Colon,New York Mets,2014,yes,yes
+2948,Darin Downs,Houston Astros,2014,yes,yes
+2950,Edwin Jackson,Chicago Cubs,2014,yes,no
+2951,Garrett Richards,Los Angeles Angels,2014,yes,yes
+2957,Sean Doolittle,Oakland Athletics,2014,yes,no
+2959,Vic Black,New York Mets,2014,yes,no
+2961,Michael Mariot,Kansas City Royals,2014,yes,no
+2963,Josh Outman,New York Yankees,2014,yes,yes
+2966,Drew VerHagen,Detroit Tigers,2014,yes,no
+2968,Josh Tomlin,Cleveland Indians,2014,yes,yes
+2970,Jonathan Broxton,Milwaukee Brewers,2014,yes,yes
+2977,Samuel Deduno,Houston Astros,2014,yes,yes
+2983,Chad Jenkins,Toronto Blue Jays,2014,yes,no
+2984,Mario Hollands,Philadelphia Phillies,2014,yes,no
+2992,Stephen Fife,Los Angeles Dodgers,2014,yes,yes
+2995,Jonathan Papelbon,Philadelphia Phillies,2014,yes,yes
+2998,Anthony DeSclafani,Miami Marlins,2014,yes,no
+2999,Shae Simmons,Atlanta Braves,2015,yes,yes
+3000,Cory Burns,Toronto Blue Jays,2014,yes,no
+3002,Sonny Gray,Oakland Athletics,2014,yes,no
+3003,Scott Kazmir,Oakland Athletics,2014,yes,yes
+3004,Josh Lindblom,Oakland Athletics,2014,yes,no
+3007,Jeff Samardzija,Oakland Athletics,2014,yes,no
+3008,Evan Scribner,Oakland Athletics,2014,yes,no
+3009,Michael Ynoa,Oakland Athletics,2014,yes,no
+3012,Brandon Cumpton,Pittsburgh Pirates,2014,yes,no
+3013,Jeanmar Gomez,Pittsburgh Pirates,2014,yes,yes
+3016,Joely Rodriguez,Pittsburgh Pirates,2014,yes,no
+3017,Chaz Roe,Pittsburgh Pirates,2014,yes,no
+3018,Casey Sadler,Pittsburgh Pirates,2014,yes,no
+3021,Jesse Chavez,Oakland Athletics,2014,yes,no
+3022,Ryan Vogelsong,San Francisco Giants,2014,yes,yes
+3023,Tim Hudson,San Francisco Giants,2014,yes,yes
+3024,Brian Matusz,Baltimore Orioles,2014,yes,yes
+3025,Melvin Mercedes,Detroit Tigers,2014,yes,no
+3026,Jairo Diaz,Los Angeles Angels,2014,yes,no
+3027,Michael Roth,Los Angeles Angels,2014,yes,no
+3030,Jarret Martin,Los Angeles Dodgers,2014,yes,no
+3033,Evan Reed,Detroit Tigers,2014,yes,yes
+3034,Jim Johnson,Detroit Tigers,2014,yes,yes
+3035,Robbie Ray,Detroit Tigers,2014,yes,no
+3036,Chad Smith,Detroit Tigers,2014,yes,no
+3037,Yoslan Herrera,Los Angeles Angels,2014,yes,no
+3038,Wade LeBlanc,Los Angeles Angels,2014,yes,yes
+3040,Jose Dominguez,Los Angeles Dodgers,2014,yes,yes
+3041,Matt Magill,Los Angeles Dodgers,2014,yes,no
+3043,Xavier Cedeno,Washington Nationals,2014,yes,no
+3044,Ross Detwiler,Washington Nationals,2014,yes,yes
+3045,Ryan Mattheus,Washington Nationals,2014,yes,yes
+3046,Evan Meek,Baltimore Orioles,2014,yes,yes
+3049,Sam Freeman,St. Louis Cardinals,2014,yes,no
+3050,Eric Fornataro,St. Louis Cardinals,2014,yes,no
+3051,Justin Masterson,St. Louis Cardinals,2014,yes,yes
+3052,Jorge Rondon,St. Louis Cardinals,2014,yes,no
+3054,Steve Johnson,Baltimore Orioles,2014,yes,yes
+3055,Joe Saunders,Baltimore Orioles,2014,yes,yes
+3056,Ryan Webb,Baltimore Orioles,2014,yes,yes
+3057,Keith Butler,St. Louis Cardinals,2014,yes,no
+3061,Juan Gutierrez,San Francisco Giants,2014,yes,yes
+3062,Mike Kickham,San Francisco Giants,2014,yes,no
+3063,George Kontos,San Francisco Giants,2014,yes,no
+3065,Kendry Flores,San Francisco Giants,2014,yes,no
+3085,Casey Coleman,Kansas City Royals,2014,yes,no
+3086,Aaron Crow,Kansas City Royals,2014,yes,no
+3088,Brett Bochy,San Francisco Giants,2014,yes,no
+3089,Erik Cordier,San Francisco Giants,2014,yes,no
+3124,Chris Withrow,Los Angeles Dodgers,2015,yes,yes
+3125,Brandon Beachy,Los Angeles Dodgers,2015,yes,yes
+3126,Tyler Chatwood,Colorado Rockies,2015,yes,yes
+3128,Edgar Olmos,Seattle Mariners,2015,yes,no
+3129,Kris Medlen,Kansas City Royals,2015,yes,yes
+3130,Martin Perez,Texas Rangers,2015,yes,yes
+3131,Cliff Lee,Philadelphia Phillies,2015,yes,yes
+3132,Alex Colome,Tampa Bay Rays,2015,yes,yes
+3133,David Rollins,Seattle Mariners,2015,yes,no
+3134,Nate Jones,Chicago White Sox,2015,yes,yes
+3135,Sean Marshall,Cincinnati Reds,2015,yes,yes
+3136,Jaime Garcia,St. Louis Cardinals,2015,yes,yes
+3137,Nick Tepesch,Texas Rangers,2015,yes,yes
+3138,Josh Fields,Houston Astros,2015,yes,yes
+3139,Brad Peacock,Houston Astros,2015,yes,no
+3140,Brett Oberholtzer,Houston Astros,2015,yes,no
+3141,Ervin Santana,Minnesota Twins,2015,yes,yes
+3142,Joe Kelly,Boston Red Sox,2015,yes,yes
+3143,Sam Dyson,Miami Marlins,2015,yes,no
+3144,Brandon Workman,Boston Red Sox,2015,yes,no
+3145,Mike Minor,Atlanta Braves,2015,yes,yes
+3146,Jim Henderson,Milwaukee Brewers,2015,yes,yes
+3147,Sean Doolittle,Oakland Athletics,2015,yes,yes
+3148,Chris Capuano,New York Yankees,2015,yes,yes
+3149,Ivan Nova,New York Yankees,2015,yes,yes
+3150,Jarrod Parker,Oakland Athletics,2015,yes,yes
+3151,Sean Nolin,Oakland Athletics,2015,yes,no
+3152,Jonathan Pettibone,Philadelphia Phillies,2015,yes,yes
+3153,Mario Hollands,Philadelphia Phillies,2015,yes,yes
+3154,Yu Darvish,Texas Rangers,2015,yes,yes
+3155,Casey Janssen,Washington Nationals,2015,yes,yes
+3156,Bronson Arroyo,Arizona Diamondbacks,2015,yes,yes
+3157,Patrick Corbin,Arizona Diamondbacks,2015,yes,yes
+3158,Drew Smyly,Tampa Bay Rays,2015,yes,yes
+3159,Gavin Floyd,Cleveland Indians,2015,yes,yes
+3160,Josh Tomlin,Cleveland Indians,2015,yes,yes
+3161,Jose Fernandez,Miami Marlins,2015,yes,yes
+3162,Aaron Crow,Miami Marlins,2015,yes,yes
+3163,Josh Edgin,New York Mets,2015,yes,yes
+3164,Dallas Beeler,Chicago Cubs,2015,yes,no
+3165,Tsuyoshi Wada,Chicago Cubs,2015,yes,yes
+3166,Matt Harrison,Texas Rangers,2015,yes,yes
+3167,Lisalverto Bonilla,Texas Rangers,2015,yes,no
+3168,Tanner Scheppers,Texas Rangers,2015,yes,yes
+3169,Brandon Cumpton,Pittsburgh Pirates,2015,yes,yes
+3170,Dan Winkler,Atlanta Braves,2015,yes,no
+3171,Arodys Vizcaino,Atlanta Braves,2015,yes,yes
+3172,Erik Cordier,San Francisco Giants,2015,yes,yes
+3173,Marcus Stroman,Toronto Blue Jays,2015,yes,no
+3174,Homer Bailey,Cincinnati Reds,2015,yes,yes
+3175,Jorge De La Rosa,Colorado Rockies,2015,yes,yes
+3176,Kenley Jansen,Los Angeles Dodgers,2015,yes,yes
+3177,Brandon League,Los Angeles Dodgers,2015,yes,yes
+3178,Cory Rasmus,Los Angeles Angels,2015,yes,no
+3179,Tyler Skaggs,Los Angeles Angels,2015,yes,yes
+3180,Josh Johnson,San Diego Padres,2015,yes,yes
+3181,Chad Billingsley,Philadelphia Phillies,2015,yes,yes
+3183,Hyun-Jin Ryu,Los Angeles Dodgers,2015,yes,yes
+3184,Garrett Richards,Los Angeles Angels,2015,yes,yes
+3185,Cory Luebke,San Diego Padres,2015,yes,yes
+3186,Vic Black,New York Mets,2015,yes,yes
+3187,Bobby Parnell,New York Mets,2015,yes,yes
+3188,Jacob Turner,Chicago Cubs,2015,yes,yes
+3189,Kyuji Fujikawa,Texas Rangers,2015,yes,yes
+3190,Jake Petricka,Chicago White Sox,2015,yes,no
+3191,Chris Sale,Chicago White Sox,2015,yes,yes
+3192,David Hernandez,Arizona Diamondbacks,2015,yes,yes
+3193,Matt Moore,Tampa Bay Rays,2015,yes,yes
+3194,Charlie Morton,Pittsburgh Pirates,2015,yes,yes
+3195,Alex Cobb,Tampa Bay Rays,2015,yes,yes
+3196,Jake McGee,Tampa Bay Rays,2015,yes,yes
+3197,Tim Collins,Kansas City Royals,2015,yes,yes
+3198,Luke Hochevar,Kansas City Royals,2015,yes,yes
+3199,Zack Wheeler,New York Mets,2015,yes,no
+3200,Koji Uehara,Boston Red Sox,2015,yes,yes
+3201,Josh Outman,Atlanta Braves,2015,yes,yes
+3202,Jenrry Mejia,New York Mets,2015,yes,yes
+3203,Matt Cain,San Francisco Giants,2015,yes,yes
+3204,Justin Verlander,Detroit Tigers,2015,yes,no
+3205,Burch Smith,Tampa Bay Rays,2015,yes,no
+3206,Joe Nathan,Detroit Tigers,2015,yes,yes
+3207,Justin Grimm,Chicago Cubs,2015,yes,no
+3208,Ian Kennedy,San Diego Padres,2015,yes,yes
+3209,Derek Holland,Texas Rangers,2015,yes,yes
+3210,Wesley Wright,Baltimore Orioles,2015,yes,yes
+3211,Ricky Nolasco,Minnesota Twins,2015,yes,yes
+3212,Francisco Liriano,Pittsburgh Pirates,2015,yes,yes
+3215,Stolmy Pimentel,Texas Rangers,2015,yes,yes
+3217,David Phelps,Miami Marlins,2015,yes,yes
+3218,Tom Wilhelmsen,Seattle Mariners,2015,yes,no
+3220,Henderson Alvarez,Miami Marlins,2015,yes,yes
+3222,Craig Stammen,Washington Nationals,2015,yes,no
+3224,Jeff Beliveau,Tampa Bay Rays,2015,yes,no
+3226,Neil Ramirez,Chicago Cubs,2015,yes,yes
+3227,Brian Duensing,Minnesota Twins,2015,yes,yes
+3228,Jake Peavy,San Francisco Giants,2015,yes,yes
+3230,Greg Holland,Kansas City Royals,2015,yes,yes
+3232,John Axford,Colorado Rockies,2015,yes,yes
+3234,Andrew McKirahan,Atlanta Braves,2015,yes,no
+3236,Javy Guerra,Chicago White Sox,2015,yes,yes
+3237,Jerry Blevins,New York Mets,2015,yes,no
+3238,Matt Shoemaker,Los Angeles Angels,2015,yes,no
+3239,LaTroy Hawkins,Colorado Rockies,2015,yes,yes
+3241,Sean O'Sullivan,Philadelphia Phillies,2015,yes,yes
+3243,Shawn Kelley,San Diego Padres,2015,yes,yes
+3246,Joel Peralta,Los Angeles Dodgers,2015,yes,yes
+3247,Adam Wainwright,St. Louis Cardinals,2015,yes,yes
+3248,Matt Albers,Chicago White Sox,2015,yes,yes
+3249,Adam Ottavino,Colorado Rockies,2015,yes,yes
+3250,Brandon McCarthy,Los Angeles Dodgers,2015,yes,yes
+3252,Xavier Cedeno,Tampa Bay Rays,2015,yes,yes
+3253,Masahiro Tanaka,New York Yankees,2015,yes,yes
+3254,Archie Bradley,Arizona Diamondbacks,2015,yes,no
+3255,Manny Parra,Cincinnati Reds,2015,yes,yes
+3256,Rafael Montero,New York Mets,2015,yes,no
+3257,Casey Fien,Minnesota Twins,2015,yes,yes
+3258,Erasmo Ramirez,Tampa Bay Rays,2015,yes,no
+3260,Tim Stauffer,Minnesota Twins,2015,yes,yes
+3261,TJ House,Cleveland Indians,2015,yes,no
+3262,Eric O'Flaherty,Oakland Athletics,2015,yes,yes
+3263,Edinson Volquez,Kansas City Royals,2015,yes,yes
+3266,Jordan Walden,St. Louis Cardinals,2015,yes,yes
+3267,Anthony Varvaro,Chicago Cubs,2015,yes,yes
+3269,Brandon Morrow,San Diego Padres,2015,yes,yes
+3272,Brandon Kintzler,Milwaukee Brewers,2015,yes,yes
+3273,Yordano Ventura,Kansas City Royals,2015,yes,no
+3275,Jason Vargas,Kansas City Royals,2015,yes,yes
+3276,Kevin Gausman,Baltimore Orioles,2015,yes,no
+3278,Dillon Gee,New York Mets,2015,yes,yes
+3279,Jeff Samardzija,Chicago White Sox,2015,yes,yes
+3280,Antonio Bastardo,Pittsburgh Pirates,2015,yes,yes
+3281,Edward Mujica,Oakland Athletics,2015,yes,yes
+3283,Luke Gregerson,Houston Astros,2015,yes,yes
+3284,Kelvin Herrera,Kansas City Royals,2015,yes,no
+3285,Jason Garcia,Baltimore Orioles,2015,yes,no
+3287,Brooks Brown,Colorado Rockies,2015,yes,yes
+3288,Ryan Mattheus,Cincinnati Reds,2015,yes,yes
+3289,Justin Masterson,Boston Red Sox,2015,yes,yes
+3291,Buddy Carlyle,New York Mets,2015,yes,no
+3292,Pedro Baez,Los Angeles Dodgers,2015,yes,no
+3295,Doug Fister,Washington Nationals,2015,yes,yes
+3296,Chase Whitley,New York Yankees,2015,yes,no
+3301,Brian Flynn,Kansas City Royals,2015,yes,no
+3302,Ross Detwiler,Texas Rangers,2015,yes,yes
+3305,Bud Norris,Baltimore Orioles,2015,yes,yes
+3306,Samuel Deduno,Houston Astros,2015,yes,yes
+3310,Jarred Cosart,Miami Marlins,2015,yes,yes
+3311,Nick Masset,Atlanta Braves,2015,yes,yes
+3312,Drew Pomeranz,Oakland Athletics,2015,yes,yes
+3319,Mat Latos,Miami Marlins,2015,yes,yes
+3320,Kyle Lobstein,Detroit Tigers,2015,yes,no
+3321,Anthony Varvaro,Boston Red Sox,2015,yes,yes
+3322,Mike Morin,Los Angeles Angels,2015,yes,yes
+3325,Wily Peralta,Milwaukee Brewers,2015,yes,no
+3326,Danny Duffy,Kansas City Royals,2015,yes,yes
+3327,Neftali Feliz,Texas Rangers,2015,yes,yes
+3330,Enrique Burgos,Arizona Diamondbacks,2015,yes,no
+3331,Alfredo Simon,Detroit Tigers,2015,yes,yes
+3332,Scott Atchison,Cleveland Indians,2015,yes,yes
+3333,Scott Feldman,Houston Astros,2015,yes,yes
+3335,Joe Beimel,Seattle Mariners,2015,yes,yes
+3336,James Paxton,Seattle Mariners,2015,yes,yes
+3340,Stephen Strasburg,Washington Nationals,2015,yes,yes
+3341,Paco Rodriguez,Los Angeles Dodgers,2015,yes,yes
+3342,Jordan Lyles,Colorado Rockies,2015,yes,yes
+3351,Raisel Iglesias,Cincinnati Reds,2015,yes,no
+3352,Jean Machi,San Francisco Giants,2015,yes,no
+3353,Dan Jennings,Chicago White Sox,2015,yes,yes
+3354,Ross Ohlendorf,Texas Rangers,2015,yes,yes
+3357,Bryan Morris,Miami Marlins,2015,yes,yes
+3358,Rafael Betancourt,Colorado Rockies,2015,yes,yes
+3359,Jake Odorizzi,Tampa Bay Rays,2015,yes,yes
+3360,Andrew Miller,New York Yankees,2015,yes,yes
+3361,Will Smith,Milwaukee Brewers,2015,yes,no
+3364,Miguel Gonzalez,Baltimore Orioles,2015,yes,yes
+3366,Andrew Bellatti,Tampa Bay Rays,2015,yes,no
+3367,Aaron Barrett,Washington Nationals,2015,yes,no
+3368,Erik Goeddel,New York Mets,2015,yes,no
+3369,Craig Breslow,Boston Red Sox,2015,yes,yes
+3370,David Carpenter,Washington Nationals,2015,yes,yes
+3371,Lance Lynn,St. Louis Cardinals,2015,yes,yes
+3376,Aaron Sanchez,Toronto Blue Jays,2015,yes,no
+3378,Brian Matusz,Baltimore Orioles,2015,yes,yes
+3379,Tony Cingrani,Cincinnati Reds,2015,yes,yes
+3381,Jon Moscot,Cincinnati Reds,2015,yes,no
+3383,Chris Hatcher,Los Angeles Dodgers,2015,yes,no
+3384,Jerome Williams,Philadelphia Phillies,2015,yes,yes
+3385,Zac Rosscup,Chicago Cubs,2015,yes,no
+3386,Heath Hembree,Boston Red Sox,2015,yes,no
+3389,R.A. Dickey,Toronto Blue Jays,2015,yes,no
+3390,Tanner Roark,Washington Nationals,2015,yes,no
+3391,Sergio Santos,New York Yankees,2015,yes,yes
+3393,Jered Weaver,Los Angeles Angels,2015,yes,yes
+3398,Aroldis Chapman,Cincinnati Reds,2015,yes,yes
+3402,Dale Thayer,San Diego Padres,2015,yes,yes
+3406,Chad Qualls,Houston Astros,2015,yes,yes
+3407,Rob Scahill,Pittsburgh Pirates,2015,yes,no
+3409,Jeremy Affeldt,San Francisco Giants,2015,yes,yes
+3410,Williams Perez,Atlanta Braves,2015,yes,no
+3413,Matt Belisle,St. Louis Cardinals,2015,yes,no
+3414,Christian Bergman,Colorado Rockies,2015,yes,yes
+3421,Tim Lincecum,San Francisco Giants,2015,yes,no
+3422,Aaron Harang,Philadelphia Phillies,2015,yes,yes
+3424,Tim Hudson,San Francisco Giants,2015,yes,yes
+3430,Carlos Frias,Los Angeles Dodgers,2015,yes,no
+3432,Hisashi Iwakuma,Seattle Mariners,2015,yes,yes
+3433,Ryan Pressly,Minnesota Twins,2015,yes,no
+3435,Matt Garza,Milwaukee Brewers,2015,yes,yes
+3437,Nick Hagadone,Cleveland Indians,2015,yes,no
+3441,Charlie Furbush,Seattle Mariners,2015,yes,yes
+3442,David Hale,Colorado Rockies,2015,yes,no
+3443,Jordan Zimmermann,Washington Nationals,2015,yes,yes
+3444,Steven Matz,New York Mets,2015,yes,no
+3447,Tyler Anderson,Colorado Rockies,2015,yes,no
+3448,Jesse Hahn,Oakland Athletics,2015,yes,no
+3450,Clay Buchholz,Boston Red Sox,2015,yes,yes
+3455,Jason Grilli,Atlanta Braves,2015,yes,yes
+3459,Chase Anderson,Arizona Diamondbacks,2015,yes,no
+3460,Chad Bettis,Colorado Rockies,2015,yes,no
+3471,Scott Kazmir,Houston Astros,2015,yes,yes
+3472,Zack Greinke,Los Angeles Dodgers,2015,yes,yes
+3473,Jonathon Niese,New York Mets,2015,yes,yes
+3475,Steve Cishek,St. Louis Cardinals,2015,yes,no
+3479,Johnny Cueto,Kansas City Royals,2015,yes,yes
+3480,Manny Banuelos,Atlanta Braves,2015,yes,no
+3483,Tyler Clippard,New York Mets,2015,yes,no
+3484,Randall Delgado,Arizona Diamondbacks,2015,yes,no
+3486,Jonathan Papelbon,Washington Nationals,2015,yes,yes
+3488,Michael Pineda,New York Yankees,2015,yes,yes
+3489,Jean Machi,Boston Red Sox,2015,yes,yes
+3490,Nate Adcock,Cincinnati Reds,2015,yes,no
+3491,Joe Blanton,Pittsburgh Pirates,2015,yes,yes
+3492,A.J. Burnett,Pittsburgh Pirates,2015,yes,yes
+3493,Mike Leake,San Francisco Giants,2015,yes,yes
+3494,Matt Harrison,Philadelphia Phillies,2015,yes,yes
+3495,C.J. Wilson,Los Angeles Angels,2015,yes,yes
+3496,David Price,Toronto Blue Jays,2015,yes,yes
+3497,Jonathan Broxton,St. Louis Cardinals,2015,yes,yes
+3498,Alex Wood,Los Angeles Dodgers,2015,yes,no
+3499,Jim Johnson,Los Angeles Dodgers,2015,yes,yes
+3502,Joakim Soria,Pittsburgh Pirates,2015,yes,yes
+3503,Daniel Norris,Detroit Tigers,2015,yes,no
+3504,Sam Dyson,Texas Rangers,2015,yes,yes
+3505,Kevin Jepsen,Minnesota Twins,2015,yes,yes
+3506,Mike Wright Jr.,Baltimore Orioles,2015,yes,no
+3507,Cole Hamels,Texas Rangers,2015,yes,yes
+3508,Marc Rzepczynski,San Diego Padres,2015,yes,yes
+3509,Dan Haren,Chicago Cubs,2015,yes,yes
+3510,J.A. Happ,Pittsburgh Pirates,2015,yes,yes
+3512,Kyle Kendrick,Colorado Rockies,2015,yes,yes
+3513,Mark Lowe,Toronto Blue Jays,2015,yes,yes
+3514,Tommy Hunter,Chicago Cubs,2015,yes,yes
+3516,Tommy Milone,Minnesota Twins,2015,yes,no
+3517,Rick Porcello,Boston Red Sox,2015,yes,no
+3518,Felix Doubront,Oakland Athletics,2015,yes,yes
+3519,Diego Moreno,New York Yankees,2015,yes,no
+3520,Mike Fiers,Houston Astros,2015,yes,no
+3521,Mat Latos,Los Angeles Dodgers,2015,yes,yes
+3522,Carter Capps,Miami Marlins,2015,yes,yes
+3524,Tyler Wilson,Baltimore Orioles,2015,yes,no
+3525,Jason Frasor,Atlanta Braves,2015,yes,yes
+3527,Eric O'Flaherty,New York Mets,2015,yes,yes
+3528,Daniel Webb,Chicago White Sox,2015,yes,no
+3529,Rafael Soriano,Chicago Cubs,2015,yes,yes
+3533,Deolis Guerra,Pittsburgh Pirates,2015,yes,no
+3535,Andre Rienzo,Miami Marlins,2015,yes,no
+3536,Jose Urena,Miami Marlins,2015,yes,no
+3537,Cody Anderson,Cleveland Indians,2015,yes,no
+3538,Marcos Mateo,San Diego Padres,2015,yes,yes
+3541,Shane Greene,Detroit Tigers,2015,yes,no
+3542,Oliver Perez,Houston Astros,2015,yes,yes
+3545,Chaz Roe,Baltimore Orioles,2015,yes,yes
+3548,Brandon Maurer,San Diego Padres,2015,yes,no
+3550,Phil Hughes,Minnesota Twins,2015,yes,yes
+3551,Juan Nicasio,Los Angeles Dodgers,2015,yes,yes
+3553,Blaine Boyer,Minnesota Twins,2015,yes,yes
+3555,Michael Blazek,Milwaukee Brewers,2015,yes,no
+3556,Boone Logan,Colorado Rockies,2015,yes,yes
+3557,Steven Wright,Boston Red Sox,2015,yes,yes
+3563,Bryan Mitchell,New York Yankees,2015,yes,no
+3566,Tyler Cravy,Milwaukee Brewers,2015,yes,no
+3568,Anibal Sanchez,Detroit Tigers,2015,yes,yes
+3570,Jeremy Hellickson,Arizona Diamondbacks,2015,yes,yes
+3572,Neal Cotts,Minnesota Twins,2015,yes,yes
+3574,Cesar Jimenez,Milwaukee Brewers,2015,yes,yes
+3577,Jason Motte,Chicago Cubs,2015,yes,yes
+3579,Kendall Graveman,Oakland Athletics,2015,yes,no
+3581,CC Sabathia,New York Yankees,2015,yes,yes
+3582,Jack Leathersich,New York Mets,2015,yes,no
+3585,Kendry Flores,Miami Marlins,2015,yes,yes
+3587,Carlos Carrasco,Cleveland Indians,2015,yes,yes
+3588,Grayson Garvin,Tampa Bay Rays,2015,yes,no
+3589,J.R. Graham,Minnesota Twins,2015,yes,no
+3595,Trevor Rosenthal,St. Louis Cardinals,2015,yes,no
+3597,Elvis Araujo,Philadelphia Phillies,2015,yes,no
+3598,Zach Putnam,Chicago White Sox,2015,yes,yes
+3599,Addison Reed,New York Mets,2015,yes,no
+3602,Casey Sadler,Pittsburgh Pirates,2015,yes,yes
+3606,Domingo German,New York Yankees,2015,yes,no
+3611,Josh Ravin,Los Angeles Dodgers,2015,yes,no
+3614,Alex Claudio,Texas Rangers,2015,yes,no
+3617,A.J. Griffin,Oakland Athletics,2015,yes,yes
+3619,Mike Foltynewicz,Atlanta Braves,2015,yes,no
+3621,Cory Mazzoni,San Diego Padres,2015,yes,no
+3627,Evan Marshall,Arizona Diamondbacks,2015,yes,no
+3631,Evan Scribner,Oakland Athletics,2015,yes,yes
+3643,Jesse Chavez,Oakland Athletics,2015,yes,yes
+3645,Jimmy Nelson,Milwaukee Brewers,2015,yes,no
+3646,Dylan Bundy,Baltimore Orioles,2015,yes,no
+3648,Logan Darnell,Minnesota Twins,2015,yes,no
+3651,Carlos Martinez,St. Louis Cardinals,2015,yes,no
+3660,Andrew Bailey,New York Yankees,2015,yes,yes
+3661,Nathan Eovaldi,New York Yankees,2015,yes,yes
+3662,Chris Martin,New York Yankees,2015,yes,no
+3665,Chasen Shreve,New York Yankees,2015,yes,no
+3667,Caleb Cotham,New York Yankees,2015,yes,no
+3669,Lance McCullers Jr.,Houston Astros,2015,yes,no
+3671,Jeff Locke,Pittsburgh Pirates,2015,yes,yes
+3673,Vance Worley,Pittsburgh Pirates,2015,yes,yes
+3674,Collin McHugh,Houston Astros,2015,yes,yes
+3676,Bobby LaFromboise,Pittsburgh Pirates,2015,yes,no
+3677,Jason Hammel,Chicago Cubs,2015,yes,yes
+3679,Randy Choate,St. Louis Cardinals,2015,yes,yes
+3681,Mitch Harris,St. Louis Cardinals,2015,yes,no
+3682,Dan Straily,Houston Astros,2015,yes,no
+3683,Joe Thatcher,Houston Astros,2015,yes,yes
+3684,Anthony Ranaudo,Texas Rangers,2015,yes,no
+3685,Spencer Patton,Texas Rangers,2015,yes,no
+3686,Sam Freeman,Texas Rangers,2015,yes,yes
+3687,Anthony Bass,Texas Rangers,2015,yes,yes
+3688,Luke Jackson,Texas Rangers,2015,yes,no
+3689,Phil Klein,Texas Rangers,2015,yes,no
+3693,Luis Cruz,Houston Astros,2015,yes,no
+3694,Vince Velasquez,Houston Astros,2015,yes,no
+3695,Mike Bolsinger,Los Angeles Dodgers,2015,yes,no
+3697,Joe Wieland,Los Angeles Dodgers,2015,yes,yes
+3699,Yoervis Medina,Chicago Cubs,2015,yes,no
+3705,Brett Cecil,Toronto Blue Jays,2015,yes,yes
+3706,Chad Jenkins,Toronto Blue Jays,2015,yes,yes
+3707,Jeff Francis,Toronto Blue Jays,2015,yes,yes
+3708,Ben Rowen,Toronto Blue Jays,2015,yes,no
+3709,Bo Schultz,Toronto Blue Jays,2015,yes,no
+3710,Mark Buehrle,Toronto Blue Jays,2015,yes,no
+3711,Steve Delabar,Toronto Blue Jays,2015,yes,yes
+3712,Jacob Turner,Chicago White Sox,2015,yes,yes
+3722,Louis Coleman,Kansas City Royals,2015,yes,yes
+3723,Jeremy Guthrie,Kansas City Royals,2015,yes,yes
+3725,Michael Mariot,Kansas City Royals,2015,yes,yes
+3726,Carlos Torres,New York Mets,2015,yes,no
+3747,Paco Rodriguez,Atlanta Braves,2015,yes,yes
+3772,Bronson Arroyo,Los Angeles Dodgers,2015,yes,yes
+3773,Lisalverto Bonilla,Los Angeles Dodgers,2015,yes,yes
+3775,Brett Anderson,Los Angeles Dodgers,2015,yes,yes
+3776,Joakim Soria,Kansas City Royals,2017,yes,yes
+3778,Adam Ottavino,Colorado Rockies,2016,yes,yes
+3779,Jason Vargas,Kansas City Royals,2016,yes,yes
+3780,Brandon McCarthy,Los Angeles Dodgers,2016,yes,yes
+3781,Frankie Montas,Los Angeles Dodgers,2016,yes,no
+3782,Paco Rodriguez,Atlanta Braves,2016,yes,yes
+3783,Zac Rosscup,Chicago Cubs,2016,yes,yes
+3784,Tanner Scheppers,Texas Rangers,2016,yes,yes
+3785,Ryan Cook,Seattle Mariners,2016,yes,yes
+3786,Jarrod Parker,Oakland Athletics,2016,yes,yes
+3787,Mike Minor,Kansas City Royals,2016,yes,yes
+3788,Yhonathan Barrios,Milwaukee Brewers,2016,yes,no
+3789,Zack Jones,Milwaukee Brewers,2016,yes,no
+3790,Sean Nolin,Milwaukee Brewers,2016,yes,yes
+3791,Aaron Barrett,Washington Nationals,2016,yes,yes
+3792,Lance McCullers Jr.,Houston Astros,2016,yes,yes
+3794,Will Smith,Milwaukee Brewers,2016,yes,yes
+3795,Blaine Hardy,Detroit Tigers,2016,yes,no
+3796,Corey Knebel,Milwaukee Brewers,2016,yes,no
+3797,Brandon Workman,Boston Red Sox,2016,yes,yes
+3798,Carson Smith,Boston Red Sox,2016,yes,no
+3799,Josh Collmenter,Arizona Diamondbacks,2016,yes,yes
+3800,Matt Harrison,Philadelphia Phillies,2016,yes,yes
+3801,Jordan Walden,St. Louis Cardinals,2016,yes,yes
+3802,Lance Lynn,St. Louis Cardinals,2016,yes,yes
+3803,Mitch Harris,St. Louis Cardinals,2016,yes,yes
+3804,Alex Wilson,Detroit Tigers,2016,yes,yes
+3805,John Axford,Oakland Athletics,2016,yes,yes
+3807,Mario Hollands,Philadelphia Phillies,2016,yes,yes
+3808,R.J. Alvarez,Oakland Athletics,2016,yes,no
+3809,Henderson Alvarez,Oakland Athletics,2016,yes,yes
+3810,Eduardo Rodriguez,Boston Red Sox,2016,yes,no
+3811,Jared Hughes,Pittsburgh Pirates,2016,yes,yes
+3812,Carter Capps,Miami Marlins,2016,yes,yes
+3813,Aaron Loup,Toronto Blue Jays,2016,yes,yes
+3814,Zack Wheeler,New York Mets,2016,yes,yes
+3815,Jesse Biddle,Atlanta Braves,2016,yes,no
+3816,Josh Ravin,Los Angeles Dodgers,2016,yes,yes
+3817,Jairo Diaz,Colorado Rockies,2016,yes,yes
+3818,Jason Motte,Colorado Rockies,2016,yes,yes
+3819,Jon Edwards,San Diego Padres,2016,yes,no
+3820,Bryan Mitchell,New York Yankees,2016,yes,yes
+3821,Aroldis Chapman,New York Yankees,2016,yes,yes
+3822,Kevin Gausman,Baltimore Orioles,2016,yes,yes
+3823,Anthony DeSclafani,Cincinnati Reds,2016,yes,yes
+3824,John Lamb,Cincinnati Reds,2016,yes,no
+3825,Yu Darvish,Texas Rangers,2016,yes,yes
+3826,Luke Jackson,Texas Rangers,2016,yes,yes
+3827,Brett Anderson,Los Angeles Dodgers,2016,yes,yes
+3828,Michael Lorenzen,Cincinnati Reds,2016,yes,no
+3829,Jon Moscot,Cincinnati Reds,2016,yes,yes
+3830,Raudel Lazo,Miami Marlins,2016,yes,no
+3831,Alex Cobb,Tampa Bay Rays,2016,yes,yes
+3832,Andrew McKirahan,Atlanta Braves,2016,yes,yes
+3833,Brad Boxberger,Tampa Bay Rays,2016,yes,no
+3834,Mike Bolsinger,Los Angeles Dodgers,2016,yes,yes
+3835,Hyun-Jin Ryu,Los Angeles Dodgers,2016,yes,yes
+3836,Jon Gray,Colorado Rockies,2016,yes,no
+3837,Buddy Baumann,San Diego Padres,2016,yes,no
+3838,Brian Matusz,Baltimore Orioles,2016,yes,yes
+3839,Dallas Beeler,Chicago Cubs,2016,yes,yes
+3840,Aaron Brooks,Chicago Cubs,2016,yes,no
+3841,Mike Dunn,Miami Marlins,2016,yes,no
+3842,Marco Estrada,Toronto Blue Jays,2016,yes,yes
+3843,Charlie Furbush,Seattle Mariners,2016,yes,yes
+3844,Evan Scribner,Seattle Mariners,2016,yes,yes
+3845,Tim Collins,Kansas City Royals,2016,yes,yes
+3846,C.J. Wilson,Los Angeles Angels,2016,yes,yes
+3847,Tommy Hunter,Cleveland Indians,2016,yes,yes
+3848,Homer Bailey,Cincinnati Reds,2016,yes,yes
+3849,Felix Doubront,Oakland Athletics,2016,yes,yes
+3850,Matt Garza,Milwaukee Brewers,2016,yes,yes
+3851,Andrew Heaney,Los Angeles Angels,2016,yes,no
+3852,Matt Thornton,San Diego Padres,2016,yes,yes
+3853,Tyson Ross,San Diego Padres,2016,yes,yes
+3854,Brad Hand,San Diego Padres,2016,yes,yes
+3855,Franklin Morales,Toronto Blue Jays,2016,yes,yes
+3857,Dan Winkler,Atlanta Braves,2016,yes,yes
+3858,Glen Perkins,Minnesota Twins,2016,yes,yes
+3859,Chris Hatcher,Los Angeles Dodgers,2016,yes,yes
+3860,Cory Luebke,Pittsburgh Pirates,2016,yes,yes
+3861,Daniel Stumpf,Philadelphia Phillies,2016,yes,no
+3862,Sergio Romo,San Francisco Giants,2016,yes,yes
+3865,Fernando Abad,Minnesota Twins,2016,yes,yes
+3869,Edwin Jackson,Miami Marlins,2016,yes,yes
+3870,George Kontos,San Francisco Giants,2016,yes,yes
+3871,Dillon Gee,Kansas City Royals,2016,yes,yes
+3872,Joe Kelly,Boston Red Sox,2016,yes,yes
+3873,Robbie Erlin,San Diego Padres,2016,yes,yes
+3874,Keone Kela,Texas Rangers,2016,yes,no
+3875,Louis Coleman,Los Angeles Dodgers,2016,yes,yes
+3877,Miguel Castro,Colorado Rockies,2016,yes,no
+3878,Branden Pinder,New York Yankees,2016,yes,no
+3880,Jacob deGrom,New York Mets,2016,yes,yes
+3881,Yovani Gallardo,Baltimore Orioles,2016,yes,yes
+3882,Yimi Garcia,Los Angeles Dodgers,2016,yes,no
+3883,Charlie Morton,Philadelphia Phillies,2016,yes,yes
+3884,Carlos Carrasco,Cleveland Indians,2016,yes,yes
+3885,Joaquin Benoit,Seattle Mariners,2016,yes,yes
+3888,Ervin Santana,Minnesota Twins,2016,yes,yes
+3889,Kyle Gibson,Minnesota Twins,2016,yes,yes
+3890,Jorge De La Rosa,Colorado Rockies,2016,yes,yes
+3891,Francisco Rodriguez,Detroit Tigers,2016,yes,yes
+3892,Matt Belisle,Washington Nationals,2016,yes,yes
+3893,Huston Street,Los Angeles Angels,2016,yes,yes
+3894,David Robertson,Chicago White Sox,2016,yes,yes
+3895,Shane Greene,Detroit Tigers,2016,yes,yes
+3896,Daniel Webb,Chicago White Sox,2016,yes,yes
+3898,Chris Bassitt,Oakland Athletics,2016,yes,no
+3901,Raisel Iglesias,Cincinnati Reds,2016,yes,yes
+3903,Tony Zych,Seattle Mariners,2016,yes,no
+3904,Wily Peralta,Milwaukee Brewers,2016,yes,yes
+3905,Jake Petricka,Chicago White Sox,2016,yes,yes
+3906,Neil Ramirez,Chicago Cubs,2016,yes,yes
+3907,Tony Sipp,Houston Astros,2016,yes,no
+3908,CC Sabathia,New York Yankees,2016,yes,yes
+3909,Garrett Richards,Los Angeles Angels,2016,yes,yes
+3911,Michael Kirkman,Milwaukee Brewers,2016,yes,yes
+3914,A.J. Griffin,Texas Rangers,2016,yes,yes
+3916,Brett Cecil,Toronto Blue Jays,2016,yes,yes
+3918,Josh Edgin,New York Mets,2016,yes,yes
+3919,Nefi Ogando,Miami Marlins,2016,yes,no
+3920,Liam Hendriks,Oakland Athletics,2016,yes,no
+3921,Jim Johnson,Atlanta Braves,2016,yes,yes
+3922,Jhoulys Chacin,Los Angeles Angels,2016,yes,yes
+3924,Chris Young,Kansas City Royals,2016,yes,yes
+3925,Kris Medlen,Kansas City Royals,2016,yes,yes
+3927,Andrew Cashner,San Diego Padres,2016,yes,yes
+3928,Seth Maness,St. Louis Cardinals,2016,yes,no
+3931,Cory Rasmus,Los Angeles Angels,2016,yes,yes
+3937,Tim Lincecum,Los Angeles Angels,2016,yes,yes
+3938,Sonny Gray,Oakland Athletics,2016,yes,yes
+3939,Drew VerHagen,Detroit Tigers,2016,yes,yes
+3940,Chin-hui Tsao,Los Angeles Dodgers,2016,yes,no
+3941,Manny Banuelos,Atlanta Braves,2016,yes,yes
+3942,Joba Chamberlain,Cleveland Indians,2016,yes,yes
+3943,Jesse Chavez,Toronto Blue Jays,2016,yes,yes
+3944,Ryan Vogelsong,Pittsburgh Pirates,2016,yes,yes
+3948,Arquimedes Caminero,Pittsburgh Pirates,2016,yes,no
+3949,Tony Watson,Pittsburgh Pirates,2016,yes,no
+3950,Boone Logan,Colorado Rockies,2016,yes,yes
+3951,Chris Capuano,Milwaukee Brewers,2016,yes,yes
+3952,Bryan Morris,Miami Marlins,2016,yes,yes
+3954,Rubby De La Rosa,Arizona Diamondbacks,2015,yes,yes
+3955,Shelby Miller,Arizona Diamondbacks,2016,yes,yes
+3958,Matt Cain,San Francisco Giants,2016,yes,yes
+3961,Cesar Vargas,San Diego Padres,2016,yes,no
+3962,Ryan Webb,Tampa Bay Rays,2016,yes,yes
+3965,Luis Severino,New York Yankees,2016,yes,no
+3966,Alex Wood,Los Angeles Dodgers,2016,yes,yes
+3968,Caleb Cotham,Cincinnati Reds,2016,yes,yes
+3969,Felix Hernandez,Seattle Mariners,2016,yes,no
+3970,Neil Ramirez,Milwaukee Brewers,2016,yes,yes
+3972,Jason Grilli,Toronto Blue Jays,2016,yes,yes
+3974,Michael Blazek,Milwaukee Brewers,2016,yes,yes
+3977,Darren O'Day,Baltimore Orioles,2016,yes,yes
+3979,Mike Foltynewicz,Atlanta Braves,2016,yes,yes
+3982,Wilfredo Boscan,Pittsburgh Pirates,2016,yes,no
+3983,Joe Smith,Los Angeles Angels,2016,yes,yes
+3984,James Shields,Chicago White Sox,2016,yes,no
+3986,Williams Perez,Atlanta Braves,2016,yes,yes
+3987,Rich Hill,Oakland Athletics,2016,yes,yes
+3989,Vince Velasquez,Philadelphia Phillies,2016,yes,yes
+3990,Phil Hughes,Minnesota Twins,2016,yes,yes
+3991,Trevor May,Minnesota Twins,2016,yes,no
+3994,Jake McGee,Colorado Rockies,2016,yes,yes
+3997,Eric O'Flaherty,Atlanta Braves,2016,yes,yes
+4000,Vance Worley,Baltimore Orioles,2016,yes,yes
+4003,Gerrit Cole,Pittsburgh Pirates,2016,yes,yes
+4004,Luke Gregerson,Houston Astros,2016,yes,yes
+4005,Chris Rusin,Colorado Rockies,2015,yes,no
+4007,Sean Manaea,Oakland Athletics,2016,yes,no
+4008,Jonathan Papelbon,Washington Nationals,2016,yes,yes
+4009,A.J. Morris,Cincinnati Reds,2016,yes,no
+4010,Alec Asher,Philadelphia Phillies,2016,yes,no
+4012,Santiago Casilla,San Francisco Giants,2016,yes,yes
+4013,Wade Miley,Seattle Mariners,2016,yes,yes
+4015,Juan Nicasio,Pittsburgh Pirates,2016,yes,yes
+4016,Chasen Shreve,New York Yankees,2016,yes,yes
+4017,Tyler Chatwood,Colorado Rockies,2016,yes,yes
+4021,Jim Henderson,New York Mets,2016,yes,yes
+4023,Clayton Richard,Chicago Cubs,2016,yes,yes
+4024,Zach Putnam,Chicago White Sox,2016,yes,yes
+4025,Blake Wood,Cincinnati Reds,2016,yes,yes
+4026,Alfredo Simon,Cincinnati Reds,2016,yes,yes
+4028,Derek Holland,Texas Rangers,2016,yes,yes
+4029,Brian Duensing,Baltimore Orioles,2016,yes,yes
+4030,Nick Tropeano,Los Angeles Angels,2016,yes,no
+4032,Adrian Sampson,Seattle Mariners,2016,yes,no
+4034,Andrew Bailey,Philadelphia Phillies,2016,yes,yes
+4035,Colby Lewis,Texas Rangers,2016,yes,yes
+4037,Stephen Strasburg,Washington Nationals,2016,yes,yes
+4038,Gavin Floyd,Toronto Blue Jays,2016,yes,yes
+4040,JC Ramirez,Los Angeles Angels,2016,yes,no
+4042,Yordano Ventura,Kansas City Royals,2016,yes,yes
+4043,John Gant,Atlanta Braves,2016,yes,no
+4044,Alex Colome,Tampa Bay Rays,2016,yes,yes
+4046,Nick Vincent,Seattle Mariners,2016,yes,yes
+4047,Chris Heston,San Francisco Giants,2016,yes,no
+4050,T.J. McFarland,Baltimore Orioles,2016,yes,yes
+4053,Sean Doolittle,Oakland Athletics,2016,yes,yes
+4055,Bud Norris,Los Angeles Dodgers,2016,yes,yes
+4056,Clayton Kershaw,Los Angeles Dodgers,2016,yes,yes
+4057,Fernando Rodney,Miami Marlins,2016,yes,yes
+4059,Paul Clemens,San Diego Padres,2016,yes,no
+4060,Erik Johnson,San Diego Padres,2016,yes,no
+4061,Kevin Siegrist,St. Louis Cardinals,2016,yes,yes
+4065,Zack Greinke,Arizona Diamondbacks,2016,yes,yes
+4066,Conor Mullee,New York Yankees,2016,yes,no
+4069,Joe Ross,Washington Nationals,2016,yes,no
+4071,Jordan Zimmermann,Detroit Tigers,2016,yes,yes
+4072,Jameson Taillon,Pittsburgh Pirates,2016,yes,no
+4073,Fernando Rodriguez Jr.,Oakland Athletics,2016,yes,yes
+4076,Wade Davis,Kansas City Royals,2016,yes,yes
+4078,Daniel Hudson,Arizona Diamondbacks,2016,yes,yes
+4079,Justin Miller,Colorado Rockies,2016,yes,yes
+4082,Matt Harvey,New York Mets,2016,yes,yes
+4083,Cory Gearrin,San Francisco Giants,2016,yes,yes
+4084,Andrew Chafin,Arizona Diamondbacks,2016,yes,no
+4086,Taijuan Walker,Seattle Mariners,2016,yes,yes
+4087,Zach McAllister,Cleveland Indians,2016,yes,yes
+4091,Carlos Rodon,Chicago White Sox,2016,yes,no
+4092,Craig Kimbrel,Boston Red Sox,2016,yes,no
+4093,Brad Ziegler,Boston Red Sox,2016,yes,yes
+4094,Christian Bergman,Colorado Rockies,2016,yes,yes
+4095,Sean O'Sullivan,Boston Red Sox,2016,yes,yes
+4097,Junichi Tazawa,Boston Red Sox,2016,yes,yes
+4100,Jake Diekman,Texas Rangers,2016,yes,no
+4101,Trevor Cahill,Chicago Cubs,2016,yes,yes
+4104,Arodys Vizcaino,Atlanta Braves,2016,yes,yes
+4107,Drew Pomeranz,Boston Red Sox,2016,yes,yes
+4108,Warwick Saupold,Detroit Tigers,2016,yes,no
+4110,Sammy Solis,Washington Nationals,2016,yes,no
+4112,Andrew Triggs,Oakland Athletics,2016,yes,no
+4115,Casey Fien,Los Angeles Dodgers,2016,yes,yes
+4117,Koji Uehara,Boston Red Sox,2016,yes,yes
+4123,Mike Montgomery,Chicago Cubs,2016,yes,no
+4124,Ubaldo Jimenez,Baltimore Orioles,2016,yes,yes
+4125,Chad Qualls,Colorado Rockies,2016,yes,yes
+4127,Joe Nathan,Chicago Cubs,2016,yes,yes
+4128,Wei-Yin Chen,Miami Marlins,2016,yes,yes
+4130,Adam Warren,New York Yankees,2016,yes,no
+4132,Aroldis Chapman,Chicago Cubs,2016,yes,yes
+4133,Trevor Rosenthal,St. Louis Cardinals,2016,yes,yes
+4135,Chris Rusin,Colorado Rockies,2016,yes,yes
+4136,Joaquin Benoit,Toronto Blue Jays,2016,yes,yes
+4137,Jacob Barnes,Milwaukee Brewers,2016,yes,no
+4139,Josh Osich,San Francisco Giants,2016,yes,no
+4140,Chris Sale,Chicago White Sox,2016,yes,yes
+4141,Luke Hochevar,Kansas City Royals,2016,yes,yes
+4142,Jeff Manship,Cleveland Indians,2016,yes,yes
+4144,Lucas Harrell,Texas Rangers,2016,yes,no
+4145,Nate Karns,Seattle Mariners,2016,yes,no
+4146,Jarred Cosart,San Diego Padres,2016,yes,yes
+4147,Colin Rea,Miami Marlins,2016,yes,no
+4148,Andrew Cashner,Miami Marlins,2016,yes,yes
+4151,Mark Melancon,Washington Nationals,2016,yes,no
+4152,Matt Marksberry,Atlanta Braves,2016,yes,no
+4153,Felipe Vazquez,Pittsburgh Pirates,2016,yes,no
+4155,Andrew Miller,Cleveland Indians,2016,yes,yes
+4157,Colin Rea,San Diego Padres,2016,yes,yes
+4158,Fernando Abad,Boston Red Sox,2016,yes,yes
+4159,Tim Adleman,Cincinnati Reds,2016,yes,no
+4160,Julio Teheran,Atlanta Braves,2016,yes,yes
+4161,Rich Hill,Los Angeles Dodgers,2016,yes,yes
+4162,Jesse Chavez,Los Angeles Dodgers,2016,yes,yes
+4163,Antonio Bastardo,Pittsburgh Pirates,2016,yes,yes
+4164,Ivan Nova,Pittsburgh Pirates,2016,yes,yes
+4165,Joe Smith,Chicago Cubs,2016,yes,yes
+4168,Daniel Norris,Detroit Tigers,2016,yes,yes
+4169,Ricky Nolasco,Los Angeles Angels,2016,yes,yes
+4170,Wade Miley,Baltimore Orioles,2016,yes,yes
+4171,Zach Duke,St. Louis Cardinals,2016,yes,yes
+4172,Jonathon Niese,New York Mets,2016,yes,yes
+4173,Danny Salazar,Cleveland Indians,2016,yes,no
+4175,Adam Liberatore,Los Angeles Dodgers,2016,yes,no
+4177,Jeanmar Gomez,Philadelphia Phillies,2016,yes,yes
+4178,Aaron Nola,Philadelphia Phillies,2016,yes,no
+4179,Francisco Liriano,Toronto Blue Jays,2016,yes,yes
+4180,Doug Fister,Houston Astros,2016,yes,yes
+4182,Tyler Lyons,St. Louis Cardinals,2016,yes,yes
+4183,Jeremy Jeffress,Texas Rangers,2016,yes,no
+4184,Jason Hammel,Chicago Cubs,2016,yes,yes
+4185,Mike Pelfrey,Detroit Tigers,2016,yes,yes
+4186,Hector Santiago,Minnesota Twins,2016,yes,no
+4187,Grant Dayton,Los Angeles Dodgers,2017,yes,no
+4188,Steve Cishek,Seattle Mariners,2016,yes,yes
+4194,Enny Romero,Tampa Bay Rays,2016,yes,no
+4198,Joe Blanton,Los Angeles Dodgers,2016,yes,yes
+4199,Junior Guerra,Milwaukee Brewers,2016,yes,no
+4200,Shae Simmons,Atlanta Braves,2016,yes,yes
+4201,Chris Withrow,Atlanta Braves,2016,yes,yes
+4202,Arquimedes Caminero,Seattle Mariners,2016,yes,yes
+4203,Bruce Rondon,Detroit Tigers,2016,yes,yes
+4204,Michael Wacha,St. Louis Cardinals,2016,yes,yes
+4206,Cam Bedrosian,Los Angeles Angels,2016,yes,no
+4207,Zach Eflin,Philadelphia Phillies,2016,yes,no
+4209,AJ Ramos,Miami Marlins,2016,yes,yes
+4211,Blake Parker,New York Yankees,2016,yes,yes
+4215,Brett Oberholtzer,Los Angeles Angels,2016,yes,yes
+4216,Pedro Strop,Chicago Cubs,2016,yes,yes
+4217,Buddy Boshers,Minnesota Twins,2016,yes,no
+4218,Ken Giles,Houston Astros,2016,yes,no
+4220,Miguel Gonzalez,Chicago White Sox,2016,yes,yes
+4221,Nathan Eovaldi,New York Yankees,2016,yes,yes
+4223,Tommy Milone,Minnesota Twins,2016,yes,yes
+4226,Adam Conley,Miami Marlins,2016,yes,no
+4227,Steven Wright,Boston Red Sox,2016,yes,yes
+4230,Joe Colon,Cleveland Indians,2016,yes,no
+4233,James Paxton,Seattle Mariners,2016,yes,yes
+4239,Chase Whitley,Tampa Bay Rays,2016,yes,yes
+4253,John Lackey,Chicago Cubs,2016,yes,yes
+4254,Hector Rondon,Chicago Cubs,2016,yes,yes
+4256,Josh Tomlin,Cleveland Indians,2016,yes,yes
+4260,Steven Matz,New York Mets,2016,yes,yes
+4261,Scott Oberg,Colorado Rockies,2016,yes,no
+4262,Drew Storen,Seattle Mariners,2016,yes,yes
+4263,Scott Kazmir,Los Angeles Dodgers,2016,yes,yes
+4265,Anthony Swarzak,New York Yankees,2016,yes,yes
+4266,Shawn Tolleson,Texas Rangers,2016,yes,yes
+4270,Chris Tillman,Baltimore Orioles,2016,yes,yes
+4272,Rob Whalen,Atlanta Braves,2016,yes,no
+4273,Brandon Morrow,San Diego Padres,2016,yes,yes
+4277,Tom Wilhelmsen,Seattle Mariners,2016,yes,yes
+4279,Tyler Glasnow,Pittsburgh Pirates,2016,yes,no
+4280,Derek Law,San Francisco Giants,2016,yes,no
+4284,Mike Leake,St. Louis Cardinals,2016,yes,yes
+4288,David Phelps,Miami Marlins,2016,yes,yes
+4290,Chien-Ming Wang,Kansas City Royals,2016,yes,yes
+4295,Jesse Hahn,Oakland Athletics,2016,yes,yes
+4303,Nick Rumbelow,New York Yankees,2016,yes,no
+4307,Aaron Blair,Atlanta Braves,2016,yes,no
+4308,Ray Black,San Francisco Giants,2016,yes,no
+4314,Daniel Wright,Los Angeles Angels,2016,yes,no
+4315,Matt Shoemaker,Los Angeles Angels,2016,yes,yes
+4322,Jake Peavy,San Francisco Giants,2016,yes,yes
+4323,Chad Green,New York Yankees,2016,yes,no
+4330,Rubby De La Rosa,Arizona Diamondbacks,2016,yes,yes
+4331,Carlos Frias,Los Angeles Dodgers,2016,yes,yes
+4340,Wade LeBlanc,Pittsburgh Pirates,2016,yes,yes
+4344,Cody Reed,Cincinnati Reds,2016,yes,no
+4345,Chris Lee,Baltimore Orioles,2016,yes,no
+4354,A.J. Schugel,Pittsburgh Pirates,2016,yes,no
+4358,Jose Ramirez,Atlanta Braves,2016,yes,no
+4367,Dylan Floro,Tampa Bay Rays,2016,yes,no
+4374,A.J. Cole,Washington Nationals,2016,yes,no
+4375,Aaron Sanchez,Toronto Blue Jays,2016,yes,yes
+4378,Oliver Drake,Baltimore Orioles,2016,yes,yes
+4382,Josh Smoker,New York Mets,2016,yes,no
+4383,Gabriel Ynoa,New York Mets,2016,yes,no
+4385,Logan Verrett,New York Mets,2016,yes,no
+4386,J.A. Happ,Toronto Blue Jays,2016,yes,yes
+4389,Seth Lugo,New York Mets,2016,yes,no
+4390,Sean Burnett,Washington Nationals,2016,yes,yes
+4391,Matt Moore,San Francisco Giants,2016,yes,yes
+4393,Danny Barnes,Toronto Blue Jays,2016,yes,no
+4394,Jose Leclerc,Texas Rangers,2016,yes,no
+4400,Chi Chi Gonzalez,Texas Rangers,2016,yes,no
+4401,Williams Jerez,Boston Red Sox,2016,yes,no
+4402,Roenis Elias,Boston Red Sox,2016,yes,no
+4407,Joe Nathan,San Francisco Giants,2016,yes,yes
+4409,Chris Stratton,San Francisco Giants,2016,yes,no
+4411,Lucas Giolito,Washington Nationals,2016,yes,no
+4412,Koda Glover,Washington Nationals,2016,yes,no
+4413,Mat Latos,Washington Nationals,2016,yes,yes
+4414,Yusmeiro Petit,Washington Nationals,2016,yes,yes
+4417,Ryan Merritt,Cleveland Indians,2016,yes,no
+4419,Rob Zastryzny,Chicago Cubs,2016,yes,no
+4420,R.A. Dickey,Toronto Blue Jays,2016,yes,yes
+4421,Scott Feldman,Toronto Blue Jays,2016,yes,yes
+4424,Jose De Leon,Los Angeles Dodgers,2016,yes,no
+4426,Brock Stewart,Los Angeles Dodgers,2016,yes,no
+4428,Mike Bolsinger,Toronto Blue Jays,2016,yes,yes
+4429,Chad Girodo,Toronto Blue Jays,2016,yes,no
+4430,Bo Schultz,Toronto Blue Jays,2016,yes,yes
+4436,J.P. Howell,Los Angeles Dodgers,2016,yes,yes
+4449,Andury Acevedo,Chicago Cubs,2016,yes,no
+4450,Gerardo Concepcion,Chicago Cubs,2016,yes,no
+4452,Spencer Patton,Chicago Cubs,2016,yes,yes
+4454,Austin Adams,Cleveland Indians,2016,yes,no
+4455,Cody Anderson,Cleveland Indians,2016,yes,yes
+4476,Conor Mullee,Chicago Cubs,2016,yes,yes
+4479,Carter Capps,San Diego Padres,2016,yes,yes
+4483,Adrian Sampson,Texas Rangers,2016,yes,yes
+4497,Brett Cecil,St. Louis Cardinals,2016,yes,yes
+4498,Kenley Jansen,Los Angeles Dodgers,2018,yes,yes
+4499,James Farris,Colorado Rockies,2017,yes,no
+4500,Enny Romero,Washington Nationals,2017,yes,yes
+4501,Jacob Lindgren,Atlanta Braves,2017,yes,no
+4502,Jake Diekman,Texas Rangers,2017,yes,yes
+4503,Homer Bailey,Cincinnati Reds,2017,yes,yes
+4504,Yimi Garcia,Los Angeles Dodgers,2017,yes,yes
+4505,Brian Flynn,Kansas City Royals,2017,yes,yes
+4506,Chaz Roe,Atlanta Braves,2017,yes,yes
+4507,Colin Rea,San Diego Padres,2017,yes,yes
+4508,Nathan Eovaldi,Tampa Bay Rays,2017,yes,yes
+4509,Trevor May,Minnesota Twins,2017,yes,yes
+4510,Kevin Gadea,Tampa Bay Rays,2017,yes,no
+4511,Chad Bettis,Colorado Rockies,2017,yes,yes
+4512,Zach Duke,St. Louis Cardinals,2017,yes,yes
+4513,Tyler Lyons,St. Louis Cardinals,2017,yes,yes
+4514,David Paulino,Houston Astros,2017,yes,no
+4515,Robbie Erlin,San Diego Padres,2017,yes,yes
+4516,Collin McHugh,Houston Astros,2017,yes,yes
+4517,John Gant,St. Louis Cardinals,2017,yes,yes
+4518,Trevor Rosenthal,St. Louis Cardinals,2017,yes,yes
+4519,Drew Pomeranz,Boston Red Sox,2017,yes,yes
+4520,Alex Reyes,St. Louis Cardinals,2017,yes,no
+4521,Matt Garza,Milwaukee Brewers,2017,yes,yes
+4522,Ryan O'Rourke,Minnesota Twins,2017,yes,no
+4523,Jake Barrett,Arizona Diamondbacks,2017,yes,no
+4524,Steve Hathaway,Arizona Diamondbacks,2017,yes,no
+4525,Drew Smyly,Seattle Mariners,2017,yes,yes
+4526,Rob Whalen,Seattle Mariners,2017,yes,yes
+4527,Tony Zych,Seattle Mariners,2017,yes,yes
+4528,Shae Simmons,Seattle Mariners,2017,yes,yes
+4529,Steve Cishek,Seattle Mariners,2017,yes,yes
+4530,David Price,Boston Red Sox,2017,yes,yes
+4531,Andrew Heaney,Los Angeles Angels,2017,yes,yes
+4532,Brad Boxberger,Tampa Bay Rays,2017,yes,yes
+4533,Shawn Tolleson,Tampa Bay Rays,2017,yes,yes
+4534,Carson Smith,Boston Red Sox,2017,yes,yes
+4536,Roenis Elias,Boston Red Sox,2017,yes,yes
+4537,Christian Friedrich,San Diego Padres,2017,yes,yes
+4538,Buddy Baumann,San Diego Padres,2017,yes,yes
+4539,Nick Tropeano,Los Angeles Angels,2017,yes,yes
+4540,Huston Street,Los Angeles Angels,2017,yes,yes
+4541,Vicente Campos,Los Angeles Angels,2017,yes,no
+4542,Tyler Thornburg,Boston Red Sox,2017,yes,yes
+4543,Daniel Mengden,Oakland Athletics,2017,yes,no
+4544,Chris Bassitt,Oakland Athletics,2017,yes,yes
+4545,Sonny Gray,Oakland Athletics,2017,yes,yes
+4546,Chi Chi Gonzalez,Texas Rangers,2017,yes,yes
+4547,Scott Kazmir,Los Angeles Dodgers,2017,yes,yes
+4548,Andrew Cashner,Texas Rangers,2017,yes,yes
+4549,Jeurys Familia,New York Mets,2017,yes,yes
+4550,Anthony DeSclafani,Cincinnati Reds,2017,yes,yes
+4551,Nick Travieso,Cincinnati Reds,2017,yes,no
+4552,Austin Brice,Cincinnati Reds,2017,yes,no
+4553,Josh Ravin,Los Angeles Dodgers,2017,yes,yes
+4554,Tyson Ross,Texas Rangers,2017,yes,yes
+4555,Wade Miley,Baltimore Orioles,2017,yes,yes
+4556,Mauricio Cabrera,Atlanta Braves,2017,yes,no
+4557,Armando Rivero,Atlanta Braves,2017,yes,no
+4558,Dan Winkler,Atlanta Braves,2017,yes,yes
+4559,Glen Perkins,Minnesota Twins,2017,yes,yes
+4560,Cody Anderson,Cleveland Indians,2017,yes,yes
+4561,Brian Duensing,Chicago Cubs,2017,yes,yes
+4562,Chris Tillman,Baltimore Orioles,2017,yes,yes
+4563,Carlos Rodon,Chicago White Sox,2017,yes,yes
+4564,Seth Lugo,New York Mets,2017,yes,yes
+4565,Steven Matz,New York Mets,2017,yes,yes
+4566,Chad Qualls,Colorado Rockies,2017,yes,yes
+4567,Roberto Osuna,Toronto Blue Jays,2017,yes,no
+4568,Bo Schultz,Toronto Blue Jays,2017,yes,yes
+4569,Zach Eflin,Philadelphia Phillies,2017,yes,yes
+4570,Nefi Ogando,Cincinnati Reds,2017,yes,yes
+4571,Jeff Locke,Miami Marlins,2017,yes,yes
+4572,Tanner Scheppers,Texas Rangers,2017,yes,yes
+4573,Jairo Diaz,Colorado Rockies,2017,yes,yes
+4574,Chris Rusin,Colorado Rockies,2017,yes,yes
+4575,Glenn Sparkman,Toronto Blue Jays,2017,yes,no
+4576,Odrisamer Despaigne,Miami Marlins,2017,yes,no
+4577,Pedro Baez,Los Angeles Dodgers,2017,yes,yes
+4578,Brock Stewart,Los Angeles Dodgers,2017,yes,yes
+4579,Will Smith,San Francisco Giants,2017,yes,yes
+4580,Dillon Overton,Seattle Mariners,2017,yes,no
+4581,Junior Guerra,Milwaukee Brewers,2017,yes,yes
+4583,Kyle Ryan,Detroit Tigers,2017,yes,no
+4584,Jake Petricka,Chicago White Sox,2017,yes,yes
+4585,Robbie Ross Jr.,Boston Red Sox,2017,yes,yes
+4587,Matt Barnes,Boston Red Sox,2017,yes,no
+4588,Garrett Richards,Los Angeles Angels,2017,yes,yes
+4589,Hunter Strickland,San Francisco Giants,2017,yes,no
+4590,Rich Hill,Los Angeles Dodgers,2017,yes,yes
+4593,Trevor Cahill,San Diego Padres,2017,yes,yes
+4594,J.P. Howell,Toronto Blue Jays,2017,yes,yes
+4598,Joe Jimenez,Detroit Tigers,2017,yes,no
+4601,Luis Perdomo,San Diego Padres,2017,yes,yes
+4602,Rookie Davis,Cincinnati Reds,2017,yes,no
+4603,Andrew Bailey,Los Angeles Angels,2017,yes,yes
+4604,Jon Gray,Colorado Rockies,2017,yes,yes
+4608,Carl Edwards Jr.,Chicago Cubs,2017,yes,no
+4610,Aaron Sanchez,Toronto Blue Jays,2017,yes,yes
+4611,Jake Odorizzi,Tampa Bay Rays,2017,yes,yes
+4613,Zach Britton,Baltimore Orioles,2017,yes,yes
+4615,Brandon Finnegan,Cincinnati Reds,2017,yes,no
+4618,Kendall Graveman,Oakland Athletics,2017,yes,yes
+4619,Eduardo Rodriguez,Boston Red Sox,2017,yes,yes
+4620,Sam Dyson,Texas Rangers,2017,yes,yes
+4621,Clay Buchholz,Philadelphia Phillies,2017,yes,yes
+4623,J.A. Happ,Toronto Blue Jays,2017,yes,yes
+4624,Nick Neumann,Miami Marlins,2017,yes,no
+4626,Jarred Cosart,San Diego Padres,2017,yes,yes
+4627,Pat Neshek,Philadelphia Phillies,2017,yes,yes
+4628,Sammy Solis,Washington Nationals,2017,yes,yes
+4629,Jandel Gustave,Houston Astros,2017,yes,no
+4632,Madison Bumgarner,San Francisco Giants,2017,yes,no
+4633,Mike Morin,Los Angeles Angels,2017,yes,yes
+4634,Xavier Cedeno,Tampa Bay Rays,2017,yes,yes
+4635,Tony Cingrani,Cincinnati Reds,2017,yes,yes
+4637,James Shields,Chicago White Sox,2017,yes,yes
+4638,A.J. Griffin,Texas Rangers,2017,yes,yes
+4639,Cam Bedrosian,Los Angeles Angels,2017,yes,yes
+4640,Justin Haley,Minnesota Twins,2017,yes,no
+4641,Tommy Hunter,Tampa Bay Rays,2017,yes,yes
+4644,Aaron Nola,Philadelphia Phillies,2017,yes,yes
+4645,Shelby Miller,Arizona Diamondbacks,2017,yes,yes
+4646,Stephen Strasburg,Washington Nationals,2017,yes,yes
+4647,Zach Putnam,Chicago White Sox,2017,yes,yes
+4649,Antonio Bastardo,Pittsburgh Pirates,2017,yes,yes
+4650,Koda Glover,Washington Nationals,2017,yes,yes
+4652,Felix Hernandez,Seattle Mariners,2017,yes,yes
+4653,Mike Dunn,Colorado Rockies,2017,yes,yes
+4657,Hector Santiago,Minnesota Twins,2017,yes,yes
+4658,Tyler Skaggs,Los Angeles Angels,2017,yes,yes
+4659,Evan Scribner,Seattle Mariners,2017,yes,yes
+4661,Sean Manaea,Oakland Athletics,2017,yes,yes
+4665,Noah Syndergaard,New York Mets,2017,yes,no
+4666,Hyun-Jin Ryu,Los Angeles Dodgers,2017,yes,yes
+4669,Danny Barnes,Toronto Blue Jays,2017,yes,yes
+4672,Steven Wright,Boston Red Sox,2017,yes,yes
+4673,Sean Doolittle,Oakland Athletics,2017,yes,yes
+4674,Edinson Volquez,Miami Marlins,2017,yes,yes
+4675,Cole Hamels,Texas Rangers,2017,yes,yes
+4676,Corey Kluber,Cleveland Indians,2017,yes,yes
+4679,Nate Jones,Chicago White Sox,2017,yes,yes
+4680,Erasmo Ramirez,Tampa Bay Rays,2017,yes,yes
+4682,James Paxton,Seattle Mariners,2017,yes,yes
+4683,Ian Kennedy,Kansas City Royals,2017,yes,yes
+4684,Shawn Kelley,Washington Nationals,2017,yes,yes
+4685,Wei-Yin Chen,Miami Marlins,2017,yes,yes
+4686,Jameson Taillon,Pittsburgh Pirates,2017,yes,yes
+4689,Evan Marshall,Seattle Mariners,2017,yes,yes
+4690,Brett Anderson,Chicago Cubs,2017,yes,yes
+4693,Matt Harvey,New York Mets,2017,yes,yes
+4694,Tommy Milone,New York Mets,2017,yes,yes
+4695,Jose Leclerc,Texas Rangers,2017,yes,yes
+4696,Brandon McCarthy,Los Angeles Dodgers,2017,yes,yes
+4697,Mark Melancon,San Francisco Giants,2017,yes,yes
+4698,Scott Alexander,Kansas City Royals,2017,yes,no
+4699,Jeanmar Gomez,Philadelphia Phillies,2017,yes,yes
+4700,Adam Liberatore,Los Angeles Dodgers,2017,yes,yes
+4701,Hisashi Iwakuma,Seattle Mariners,2017,yes,yes
+4702,T.J. McFarland,Arizona Diamondbacks,2017,yes,yes
+4704,Kenta Maeda,Los Angeles Dodgers,2017,yes,no
+4705,Francisco Liriano,Toronto Blue Jays,2017,yes,yes
+4711,Ryan Weber,Seattle Mariners,2017,yes,no
+4714,Aroldis Chapman,New York Yankees,2017,yes,yes
+4720,Junichi Tazawa,Miami Marlins,2017,yes,yes
+4722,Joe Blanton,Washington Nationals,2017,yes,yes
+4724,Tom Koehler,Miami Marlins,2017,yes,yes
+4725,Jered Weaver,San Diego Padres,2017,yes,yes
+4726,Jhan Marinez,Pittsburgh Pirates,2017,yes,yes
+4727,Eric O'Flaherty,Atlanta Braves,2017,yes,yes
+4728,Ryan Dull,Oakland Athletics,2017,yes,no
+4729,Dallas Keuchel,Houston Astros,2017,yes,no
+4730,Josh Lindblom,Pittsburgh Pirates,2017,yes,yes
+4732,John Axford,Oakland Athletics,2017,yes,yes
+4735,Taijuan Walker,Arizona Diamondbacks,2017,yes,yes
+4737,Phil Hughes,Minnesota Twins,2017,yes,yes
+4738,David Phelps,Miami Marlins,2017,yes,yes
+4740,Bobby Wahl,Oakland Athletics,2017,yes,no
+4741,Diego Moreno,Tampa Bay Rays,2017,yes,yes
+4742,Nate Karns,Kansas City Royals,2017,yes,yes
+4744,Alex Meyer,Los Angeles Angels,2017,yes,no
+4745,Amir Garrett,Cincinnati Reds,2017,yes,no
+4746,Luis Avilan,Los Angeles Dodgers,2017,yes,no
+4750,Jumbo Diaz,Tampa Bay Rays,2017,yes,no
+4752,Dylan Covey,Chicago White Sox,2017,yes,no
+4755,Jesse Hahn,Oakland Athletics,2017,yes,yes
+4758,Charlie Morton,Houston Astros,2017,yes,yes
+4759,Dario Alvarez,Texas Rangers,2017,yes,no
+4760,Alex Wood,Los Angeles Dodgers,2017,yes,yes
+4764,Adam Ottavino,Colorado Rockies,2017,yes,yes
+4765,Danny Duffy,Kansas City Royals,2017,yes,yes
+4766,Joe Musgrove,Houston Astros,2017,yes,no
+4769,Matt Andriese,Tampa Bay Rays,2017,yes,no
+4770,Vince Velasquez,Philadelphia Phillies,2017,yes,yes
+4776,Justin Nicolino,Miami Marlins,2017,yes,no
+4780,Michael Ynoa,Chicago White Sox,2017,yes,yes
+4781,Joaquin Benoit,Philadelphia Phillies,2017,yes,yes
+4782,Tyler Anderson,Colorado Rockies,2017,yes,yes
+4784,Wade Davis,Chicago Cubs,2017,yes,yes
+4785,Danny Salazar,Cleveland Indians,2017,yes,yes
+4788,Bartolo Colon,Atlanta Braves,2017,yes,yes
+4793,Kyle Hendricks,Chicago Cubs,2017,yes,no
+4795,Zack Greinke,Arizona Diamondbacks,2017,yes,yes
+4800,Darren O'Day,Baltimore Orioles,2017,yes,yes
+4801,Sergio Romo,Los Angeles Dodgers,2017,yes,yes
+4803,Andrew Triggs,Oakland Athletics,2017,yes,yes
+4816,Lance McCullers Jr.,Houston Astros,2017,yes,yes
+4818,Matt Andriese,Toronto Blue Jays,2017,yes,yes
+4820,Josh Smoker,New York Mets,2017,yes,yes
+4823,Brian Johnson,Boston Red Sox,2017,yes,no
+4824,CC Sabathia,New York Yankees,2017,yes,yes
+4827,Adam Warren,New York Yankees,2017,yes,yes
+4828,Tony Barnette,Texas Rangers,2017,yes,no
+4831,Adam Wilk,Minnesota Twins,2017,yes,yes
+4832,Matt Shoemaker,Los Angeles Angels,2017,yes,yes
+4833,Ernesto Frieri,Texas Rangers,2017,yes,yes
+4836,Miguel Gonzalez,Chicago White Sox,2017,yes,yes
+4840,Leonel Campos,Toronto Blue Jays,2017,yes,no
+4841,Bronson Arroyo,Cincinnati Reds,2017,yes,yes
+4843,Joe Smith,Toronto Blue Jays,2017,yes,yes
+4844,Bud Norris,Los Angeles Angels,2017,yes,yes
+4845,Jerad Eickhoff,Philadelphia Phillies,2017,yes,no
+4846,Zack Wheeler,New York Mets,2017,yes,yes
+4847,Wily Peralta,Milwaukee Brewers,2017,yes,yes
+4850,Cody Allen,Cleveland Indians,2017,yes,no
+4853,Brad Ziegler,Miami Marlins,2017,yes,yes
+4855,Jeremy Jeffress,Texas Rangers,2017,yes,yes
+4858,Miguel Diaz,San Diego Padres,2017,yes,no
+4859,J.J. Hoover,Arizona Diamondbacks,2017,yes,no
+4860,Chris Hatcher,Los Angeles Dodgers,2017,yes,yes
+4862,Casey Fien,Philadelphia Phillies,2017,yes,yes
+4863,Doug Fister,Boston Red Sox,2017,yes,yes
+4865,Brad Peacock,Houston Astros,2017,yes,yes
+4866,Martin Perez,Texas Rangers,2017,yes,yes
+4869,Kevin Siegrist,St. Louis Cardinals,2017,yes,yes
+4881,Robert Gsellman,New York Mets,2017,yes,no
+4885,Craig Breslow,Minnesota Twins,2017,yes,yes
+4886,Chase Anderson,Milwaukee Brewers,2017,yes,yes
+4890,Stefan Crichton,Baltimore Orioles,2017,yes,no
+4891,Joe Colon,Cleveland Indians,2017,yes,yes
+4893,Joan Gregorio,San Francisco Giants,2017,yes,no
+4896,Matt Strahm,Kansas City Royals,2017,yes,no
+4899,David Robertson,Chicago White Sox,2017,yes,yes
+4900,Keone Kela,Texas Rangers,2017,yes,yes
+4902,Jason Grilli,Texas Rangers,2017,yes,yes
+4910,Arodys Vizcaino,Atlanta Braves,2017,yes,yes
+4914,Daniel Norris,Detroit Tigers,2017,yes,yes
+4918,Jharel Cotton,Oakland Athletics,2017,yes,no
+4919,Rubby De La Rosa,Arizona Diamondbacks,2017,yes,yes
+4920,John Lackey,Chicago Cubs,2017,yes,yes
+4931,Kirby Yates,San Diego Padres,2017,yes,no
+4932,Jose Quintana,Chicago Cubs,2017,yes,no
+4933,Jason Motte,Atlanta Braves,2017,yes,yes
+4934,Michael Pineda,New York Yankees,2017,yes,yes
+4935,Neftali Feliz,Kansas City Royals,2017,yes,yes
+4936,Joe Ross,Washington Nationals,2017,yes,yes
+4937,Johnny Cueto,San Francisco Giants,2017,yes,yes
+4939,Joe Kelly,Boston Red Sox,2017,yes,yes
+4940,Will Harris,Houston Astros,2017,yes,no
+4942,Blaine Boyer,Boston Red Sox,2017,yes,yes
+4943,Tyler Chatwood,Colorado Rockies,2017,yes,yes
+4944,Randall Delgado,Arizona Diamondbacks,2017,yes,yes
+4945,Dominic Leone,Toronto Blue Jays,2017,yes,no
+4950,Scott Feldman,Cincinnati Reds,2017,yes,yes
+4952,Ryan Madson,Washington Nationals,2017,yes,yes
+4954,Sean Doolittle,Washington Nationals,2017,yes,yes
+4957,Tyler Clippard,Chicago White Sox,2017,yes,yes
+4958,Mike Bolsinger,Toronto Blue Jays,2017,yes,yes
+4963,David Phelps,Seattle Mariners,2017,yes,yes
+4964,Boone Logan,Cleveland Indians,2017,yes,yes
+4974,Travis Wood,San Diego Padres,2017,yes,no
+4975,Sergio Romo,Tampa Bay Rays,2017,yes,yes
+4977,Clayton Kershaw,Los Angeles Dodgers,2017,yes,yes
+4979,Chris Stratton,San Francisco Giants,2017,yes,yes
+4980,Brandon Maurer,Kansas City Royals,2017,yes,yes
+4981,Adam Wainwright,St. Louis Cardinals,2017,yes,yes
+4984,Jaime Garcia,Minnesota Twins,2017,yes,yes
+4985,Ryan Buchter,Kansas City Royals,2017,yes,no
+4986,Ben Taylor,Boston Red Sox,2017,yes,no
+4989,Kyle Barraclough,Miami Marlins,2017,yes,no
+4992,Trevor Cahill,Kansas City Royals,2017,yes,yes
+4993,Greg Holland,Colorado Rockies,2017,yes,yes
+4995,Anthony Swarzak,Milwaukee Brewers,2017,yes,yes
+5002,Nick Wittgren,Miami Marlins,2017,yes,no
+5004,Robbie Ray,Arizona Diamondbacks,2017,yes,yes
+5006,Steve Cishek,Tampa Bay Rays,2017,yes,yes
+5009,AJ Ramos,New York Mets,2017,yes,yes
+5010,Jake McGee,Colorado Rockies,2017,yes,yes
+5013,Pedro Beato,Philadelphia Phillies,2017,yes,yes
+5015,Josh Tomlin,Cleveland Indians,2017,yes,yes
+5017,Jeremy Hellickson,Baltimore Orioles,2017,yes,yes
+5018,David Hernandez,Arizona Diamondbacks,2017,yes,yes
+5019,Tony Watson,Los Angeles Dodgers,2017,yes,yes
+5020,Addison Reed,Boston Red Sox,2017,yes,yes
+5021,Justin Wilson,Chicago Cubs,2017,yes,no
+5022,Jaime Garcia,New York Yankees,2017,yes,yes
+5023,Joaquin Benoit,Pittsburgh Pirates,2017,yes,yes
+5024,Francisco Liriano,Houston Astros,2017,yes,yes
+5025,Michael Feliz,Houston Astros,2017,yes,no
+5026,Tony Sipp,Houston Astros,2017,yes,yes
+5027,Joe Smith,Cleveland Indians,2017,yes,yes
+5028,Sonny Gray,New York Yankees,2017,yes,yes
+5029,Wade LeBlanc,Pittsburgh Pirates,2017,yes,yes
+5030,Andrew Miller,Cleveland Indians,2017,yes,yes
+5031,Brandon Kintzler,Washington Nationals,2017,yes,yes
+5032,Yu Darvish,Los Angeles Dodgers,2017,yes,yes
+5033,Jeremy Jeffress,Milwaukee Brewers,2017,yes,yes
+5034,Edward Mujica,Detroit Tigers,2017,yes,yes
+5037,Michael Fulmer,Detroit Tigers,2017,yes,no
+5038,Tony Cingrani,Los Angeles Dodgers,2017,yes,yes
+5039,Ian Krol,Atlanta Braves,2017,yes,yes
+5044,Kyle Freeland,Colorado Rockies,2017,yes,no
+5046,Gio Gonzalez,Washington Nationals,2017,yes,yes
+5053,Robert Stephenson,Cincinnati Reds,2017,yes,no
+5055,George Kontos,Pittsburgh Pirates,2017,yes,yes
+5058,Alex Cobb,Tampa Bay Rays,2017,yes,yes
+5059,Cesar Valdez,Toronto Blue Jays,2017,yes,no
+5063,Chris O'Grady,Miami Marlins,2017,yes,no
+5066,Adalberto Mejia,Minnesota Twins,2017,yes,no
+5067,Koji Uehara,Chicago Cubs,2017,yes,yes
+5068,Taylor Cole,Toronto Blue Jays,2017,yes,no
+5069,Chris Smith,Toronto Blue Jays,2017,yes,no
+5070,Lisalverto Bonilla,Cincinnati Reds,2017,yes,yes
+5075,Jhan Marinez,Texas Rangers,2017,yes,yes
+5082,Masahiro Tanaka,New York Yankees,2017,yes,yes
+5088,Brent Suter,Milwaukee Brewers,2017,yes,no
+5091,Jarlin Garcia,Miami Marlins,2017,yes,no
+5092,Luis Cessa,New York Yankees,2017,yes,no
+5097,Chris Hatcher,Oakland Athletics,2017,yes,yes
+5105,Anibal Sanchez,Detroit Tigers,2017,yes,yes
+5108,Max Scherzer,Washington Nationals,2017,yes,yes
+5111,Justin Grimm,Chicago Cubs,2017,yes,yes
+5114,Jon Lester,Chicago Cubs,2017,yes,yes
+5116,Reynaldo Lopez,Chicago White Sox,2017,yes,no
+5117,Luke Jackson,Atlanta Braves,2017,yes,yes
+5123,Jake Faria,Tampa Bay Rays,2017,yes,no
+5125,Miguel Castro,Baltimore Orioles,2017,yes,yes
+5127,Matt Bush,Texas Rangers,2017,yes,yes
+5129,JC Ramirez,Los Angeles Angels,2017,yes,yes
+5147,Dylan Bundy,Baltimore Orioles,2017,yes,yes
+5149,Paul Blackburn,Oakland Athletics,2017,yes,no
+5151,Blake Wood,Los Angeles Angels,2017,yes,yes
+5153,Josh Fields,Los Angeles Dodgers,2017,yes,yes
+5161,Dan Otero,Cleveland Indians,2017,yes,no
+5164,Mike Leake,Seattle Mariners,2017,yes,yes
+5177,Juan Nicasio,Philadelphia Phillies,2017,yes,yes
+5185,Dylan Baker,Cleveland Indians,2017,yes,no
+5186,Brady Rodgers,Houston Astros,2017,yes,no
+5187,Justin Verlander,Houston Astros,2017,yes,yes
+5190,Miguel Gonzalez,Texas Rangers,2017,yes,yes
+5193,Erick Fedde,Washington Nationals,2017,yes,no
+5195,Jose Alvarado,Tampa Bay Rays,2017,yes,no
+5196,Alex Wilson,Detroit Tigers,2017,yes,yes
+5199,JT Chargois,Minnesota Twins,2017,yes,no
+5200,Taylor Guerrieri,Tampa Bay Rays,2017,yes,no
+5210,Jesen Therrien,Philadelphia Phillies,2017,yes,no
+5213,Carter Capps,San Diego Padres,2017,yes,yes
+5214,Drew Storen,Cincinnati Reds,2017,yes,yes
+5215,Mike Morin,Kansas City Royals,2017,yes,yes
+5220,Jimmy Nelson,Milwaukee Brewers,2017,yes,yes
+5224,Caleb Smith,New York Yankees,2017,yes,no
+5238,Nate Jones,Chicago White Sox,2018,yes,yes
+5247,Jordan Montgomery,New York Yankees,2017,yes,no
+5249,Kyle Gibson,Minnesota Twins,2017,yes,yes
+5250,Michael Tonkin,Minnesota Twins,2017,yes,no
+5251,Bartolo Colon,Minnesota Twins,2017,yes,yes
+5253,Randy Rosario,Minnesota Twins,2017,yes,no
+5254,Nik Turley,Minnesota Twins,2017,yes,no
+5255,Zac Rosscup,Colorado Rockies,2017,yes,yes
+5256,Shane Carle,Colorado Rockies,2017,yes,no
+5259,Rayan Gonzalez,Colorado Rockies,2017,yes,no
+5260,Jeff Hoffman,Colorado Rockies,2017,yes,no
+5262,German Marquez,Colorado Rockies,2017,yes,no
+5265,Anthony Banda,Arizona Diamondbacks,2017,yes,no
+5266,Craig Breslow,Cleveland Indians,2017,yes,yes
+5268,Nick Goody,Cleveland Indians,2017,yes,no
+5269,Zach McAllister,Cleveland Indians,2017,yes,yes
+5270,Ryan Merritt,Cleveland Indians,2017,yes,yes
+5272,Adam Plutko,Cleveland Indians,2017,yes,no
+5273,Brandon Workman,Boston Red Sox,2017,yes,yes
+5274,Robby Scott,Boston Red Sox,2017,yes,no
+5277,Kyle Crockett,Cleveland Indians,2017,yes,no
+5278,Shawn Armstrong,Cleveland Indians,2017,yes,no
+5279,Shawn Morimando,Cleveland Indians,2017,yes,no
+5280,Fernando Abad,Boston Red Sox,2017,yes,yes
+5281,Heath Hembree,Boston Red Sox,2017,yes,yes
+5282,Henry Owens,Boston Red Sox,2017,yes,no
+5283,Hector Velazquez,Boston Red Sox,2017,yes,no
+5286,A.J. Cole,Washington Nationals,2017,yes,yes
+5287,Matt Grace,Washington Nationals,2017,yes,no
+5289,Edwin Jackson,Washington Nationals,2017,yes,yes
+5290,Hector Rondon,Chicago Cubs,2017,yes,yes
+5293,Eddie Butler,Chicago Cubs,2017,yes,yes
+5294,Jen-Ho Tseng,Chicago Cubs,2017,yes,no
+5296,Giovanny Gallegos,New York Yankees,2017,yes,no
+5298,Ronald Herrera,New York Yankees,2017,yes,no
+5299,Domingo German,New York Yankees,2017,yes,yes
+5300,Bryan Mitchell,New York Yankees,2017,yes,yes
+5301,Jonathan Holder,New York Yankees,2017,yes,no
+5302,Ben Heller,New York Yankees,2017,yes,no
+5303,Chasen Shreve,New York Yankees,2017,yes,yes
+5307,Julio Urias,Los Angeles Dodgers,2017,yes,no
+5308,Wilmer Font,Los Angeles Dodgers,2017,yes,no
+5318,Tyler Clippard,Houston Astros,2017,yes,yes
+5320,Mike Fiers,Houston Astros,2017,yes,yes
+5321,Francis Martes,Houston Astros,2017,yes,no
+5322,James Hoyt,Houston Astros,2017,yes,no
+5352,Matt Strahm,San Diego Padres,2017,yes,yes
+5362,Brad Boxberger,Arizona Diamondbacks,2017,yes,yes
+5363,Dean Deetz,Houston Astros,2018,yes,no
+5365,Nik Turley,Pittsburgh Pirates,2018,yes,yes
+5366,Jose Torres,San Diego Padres,2018,yes,no
+5367,Grant Dayton,Atlanta Braves,2018,yes,yes
+5368,Zach Britton,Baltimore Orioles,2018,yes,yes
+5369,Drew Smyly,Chicago Cubs,2018,yes,yes
+5370,Michael Pineda,Minnesota Twins,2018,yes,yes
+5371,Shelby Miller,Arizona Diamondbacks,2018,yes,yes
+5372,Nick Burdi,Pittsburgh Pirates,2018,yes,no
+5373,Joe Ross,Washington Nationals,2018,yes,yes
+5374,Alex Meyer,Los Angeles Angels,2018,yes,yes
+5375,Joe Palumbo,Texas Rangers,2018,yes,no
+5376,Julio Urias,Los Angeles Dodgers,2018,yes,yes
+5377,Cody Anderson,Cleveland Indians,2018,yes,yes
+5378,Rookie Davis,Cincinnati Reds,2018,yes,yes
+5379,Jesse Hahn,Kansas City Royals,2018,yes,yes
+5380,Rayan Gonzalez,Colorado Rockies,2018,yes,yes
+5381,Jharel Cotton,Oakland Athletics,2018,yes,yes
+5382,Clayton Blackburn,Texas Rangers,2018,yes,no
+5383,Ronald Herrera,Texas Rangers,2018,yes,yes
+5384,Drew Pomeranz,Boston Red Sox,2018,yes,yes
+5385,Rafael Montero,New York Mets,2018,yes,yes
+5386,Steven Wright,Boston Red Sox,2018,yes,yes
+5387,Eduardo Rodriguez,Boston Red Sox,2018,yes,yes
+5388,Randall Delgado,Arizona Diamondbacks,2018,yes,yes
+5389,Erasmo Ramirez,Seattle Mariners,2018,yes,yes
+5390,Joaquin Benoit,Washington Nationals,2018,yes,yes
+5391,Alex Reyes,St. Louis Cardinals,2018,yes,yes
+5392,Luke Gregerson,St. Louis Cardinals,2018,yes,yes
+5393,Adam Wainwright,St. Louis Cardinals,2018,yes,yes
+5394,Paul Blackburn,Oakland Athletics,2018,yes,yes
+5395,Ryan Dull,Oakland Athletics,2018,yes,yes
+5397,Koda Glover,Washington Nationals,2018,yes,yes
+5398,Jose De Leon,Tampa Bay Rays,2018,yes,yes
+5399,Nathan Eovaldi,Tampa Bay Rays,2018,yes,yes
+5400,Colin Rea,San Diego Padres,2018,yes,yes
+5401,Johnny Barbato,Detroit Tigers,2018,yes,no
+5402,Mike Fiers,Detroit Tigers,2018,yes,yes
+5403,David Phelps,Seattle Mariners,2018,yes,yes
+5404,Dinelson Lamet,San Diego Padres,2018,yes,no
+5405,Matt Strahm,San Diego Padres,2018,yes,yes
+5406,Jimmy Nelson,Milwaukee Brewers,2018,yes,yes
+5407,Carlos Rodon,Chicago White Sox,2018,yes,yes
+5408,Boone Logan,Milwaukee Brewers,2018,yes,yes
+5409,Dan Straily,Miami Marlins,2018,yes,yes
+5410,Tyler Thornburg,Boston Red Sox,2018,yes,yes
+5411,Brandon Finnegan,Cincinnati Reds,2018,yes,yes
+5412,Michael Lorenzen,Cincinnati Reds,2018,yes,yes
+5413,Raisel Iglesias,Cincinnati Reds,2018,yes,yes
+5414,Gabriel Ynoa,Baltimore Orioles,2018,yes,yes
+5415,Andrew Heaney,Los Angeles Angels,2018,yes,yes
+5416,Ryan Merritt,Cleveland Indians,2018,yes,yes
+5417,Madison Bumgarner,San Francisco Giants,2018,yes,yes
+5418,Mark Melancon,San Francisco Giants,2018,yes,yes
+5419,Will Smith,San Francisco Giants,2018,yes,yes
+5420,Jandel Gustave,Houston Astros,2018,yes,yes
+5421,Brady Rodgers,Houston Astros,2018,yes,yes
+5422,Jerad Eickhoff,Philadelphia Phillies,2018,yes,yes
+5423,Tommy Hunter,Philadelphia Phillies,2018,yes,yes
+5424,Mark Leiter Jr.,Philadelphia Phillies,2018,yes,no
+5425,Anthony DeSclafani,Cincinnati Reds,2018,yes,yes
+5426,David Hernandez,Cincinnati Reds,2018,yes,yes
+5427,Kevin Shackelford,Cincinnati Reds,2018,yes,no
+5428,Jason Vargas,New York Mets,2018,yes,yes
+5429,Nate Karns,Kansas City Royals,2018,yes,yes
+5430,Danny Salazar,Cleveland Indians,2018,yes,yes
+5431,Ervin Santana,Minnesota Twins,2018,yes,yes
+5432,Phil Hughes,Minnesota Twins,2018,yes,yes
+5433,Austin Maddox,Boston Red Sox,2018,yes,no
+5434,Luiz Gohara,Atlanta Braves,2018,yes,no
+5435,Martin Perez,Texas Rangers,2018,yes,yes
+5436,Tony Barnette,Texas Rangers,2018,yes,yes
+5437,Zac Rosscup,Colorado Rockies,2018,yes,yes
+5438,Jacob Lindgren,Atlanta Braves,2018,yes,yes
+5439,A.J. Schugel,Pittsburgh Pirates,2018,yes,yes
+5440,Yimi Garcia,Los Angeles Dodgers,2018,yes,yes
+5441,Tom Koehler,Los Angeles Dodgers,2018,yes,yes
+5442,Tim Lincecum,Texas Rangers,2018,yes,yes
+5443,Ricardo Rodriguez,Texas Rangers,2018,yes,no
+5444,Carlos Estevez,Colorado Rockies,2018,yes,no
+5445,Jeff Hoffman,Colorado Rockies,2018,yes,yes
+5446,Chase Whitley,Atlanta Braves,2018,yes,yes
+5448,Julian Fernandez,San Francisco Giants,2018,yes,no
+5449,Jeff Samardzija,San Francisco Giants,2018,yes,yes
+5450,James Hoyt,Houston Astros,2018,yes,yes
+5451,Brett Graves,Miami Marlins,2018,yes,no
+5452,Elieser Hernandez,Miami Marlins,2018,yes,no
+5453,Wei-Yin Chen,Miami Marlins,2018,yes,yes
+5454,Pat Neshek,Philadelphia Phillies,2018,yes,yes
+5455,Brett Cecil,St. Louis Cardinals,2018,yes,yes
+5456,Joe Musgrove,Pittsburgh Pirates,2018,yes,yes
+5457,Anthony Swarzak,New York Mets,2018,yes,yes
+5458,Josh Ravin,Atlanta Braves,2018,yes,yes
+5459,Ben Heller,New York Yankees,2018,yes,yes
+5460,Josh Fields,Los Angeles Dodgers,2018,yes,yes
+5461,Matt Shoemaker,Los Angeles Angels,2018,yes,yes
+5463,Corey Knebel,Milwaukee Brewers,2018,yes,yes
+5464,CC Sabathia,New York Yankees,2018,yes,yes
+5467,Ryan Sherriff,St. Louis Cardinals,2018,yes,no
+5468,Jake Arrieta,Philadelphia Phillies,2018,yes,yes
+5470,JC Ramirez,Los Angeles Angels,2018,yes,yes
+5471,Kirby Yates,San Diego Padres,2018,yes,yes
+5472,Johnny Cueto,San Francisco Giants,2018,yes,yes
+5474,Doug Fister,Texas Rangers,2018,yes,yes
+5476,Tony Sipp,Houston Astros,2018,yes,yes
+5477,Sam Tuivailala,St. Louis Cardinals,2018,yes,no
+5478,Bobby Poyner,Boston Red Sox,2018,yes,no
+5480,Liam Hendriks,Oakland Athletics,2018,yes,yes
+5482,Taijuan Walker,Arizona Diamondbacks,2018,yes,yes
+5485,Tommy Kahnle,New York Yankees,2018,yes,yes
+5487,Rich Hill,Los Angeles Dodgers,2018,yes,yes
+5489,Jose Ramirez,Atlanta Braves,2018,yes,yes
+5490,Anibal Sanchez,Atlanta Braves,2018,yes,yes
+5491,Chris O'Grady,Miami Marlins,2018,yes,yes
+5493,Luis Cessa,New York Yankees,2018,yes,yes
+5497,Eddie Butler,Chicago Cubs,2018,yes,yes
+5498,Odrisamer Despaigne,Miami Marlins,2018,yes,yes
+5500,Danny Farquhar,Chicago White Sox,2018,yes,no
+5501,Adam Warren,New York Yankees,2018,yes,yes
+5502,Matt Grace,Washington Nationals,2018,yes,yes
+5503,Yusmeiro Petit,Oakland Athletics,2018,yes,yes
+5508,Miguel Gonzalez,Chicago White Sox,2018,yes,yes
+5509,Blake Wood,Los Angeles Angels,2018,yes,yes
+5510,Chris Rusin,Colorado Rockies,2018,yes,yes
+5511,John Axford,Toronto Blue Jays,2018,yes,yes
+5512,Shawn Kelley,Washington Nationals,2018,yes,yes
+5514,Justin Grimm,Kansas City Royals,2018,yes,yes
+5515,Chris Stratton,San Francisco Giants,2018,yes,yes
+5517,Andrew Miller,Cleveland Indians,2018,yes,yes
+5518,Wilmer Font,Oakland Athletics,2018,yes,yes
+5521,David Hale,Minnesota Twins,2018,yes,yes
+5524,Ryan Buchter,Oakland Athletics,2018,yes,yes
+5528,Enny Romero,Pittsburgh Pirates,2018,yes,yes
+5529,Victor Arano,Philadelphia Phillies,2018,yes,no
+5530,Daniel Norris,Detroit Tigers,2018,yes,yes
+5531,Tyler Cloyd,Miami Marlins,2018,yes,yes
+5533,Robbie Ray,Arizona Diamondbacks,2018,yes,yes
+5535,Keynan Middleton,Los Angeles Angels,2018,yes,no
+5536,Dan Altavilla,Seattle Mariners,2018,yes,no
+5539,Yonny Chirinos,Tampa Bay Rays,2018,yes,no
+5540,Chris Martin,Texas Rangers,2018,yes,yes
+5541,Joe Kelly,Boston Red Sox,2018,yes,yes
+5542,Nick Tropeano,Los Angeles Angels,2018,yes,yes
+5543,Jordan Montgomery,New York Yankees,2018,yes,yes
+5545,Nick Goody,Cleveland Indians,2018,yes,yes
+5546,Zach Davies,Milwaukee Brewers,2018,yes,no
+5547,Amir Garrett,Cincinnati Reds,2018,yes,yes
+5548,Hyun-Jin Ryu,Los Angeles Dodgers,2018,yes,yes
+5552,Dominic Leone,St. Louis Cardinals,2018,yes,yes
+5554,Clayton Kershaw,Los Angeles Dodgers,2018,yes,yes
+5555,Jacob deGrom,New York Mets,2018,yes,yes
+5556,Yu Darvish,Chicago Cubs,2018,yes,yes
+5559,Adam Morgan,Philadelphia Phillies,2018,yes,no
+5560,Braden Shipley,Arizona Diamondbacks,2018,yes,no
+5561,Oliver Drake,Cleveland Indians,2018,yes,yes
+5563,Jordan Zimmermann,Detroit Tigers,2018,yes,yes
+5564,Alex Wilson,Detroit Tigers,2018,yes,yes
+5565,Roberto Osuna,Toronto Blue Jays,2018,yes,yes
+5566,Tony Cingrani,Los Angeles Dodgers,2018,yes,yes
+5567,Trevor Cahill,Oakland Athletics,2018,yes,yes
+5568,Wade Miley,Milwaukee Brewers,2018,yes,yes
+5569,Darren O'Day,Baltimore Orioles,2018,yes,yes
+5572,Matt Harvey,Cincinnati Reds,2018,yes,yes
+5573,Carlos Martinez,St. Louis Cardinals,2018,yes,yes
+5575,Derek Law,San Francisco Giants,2018,yes,yes
+5576,Tyler Lyons,St. Louis Cardinals,2018,yes,yes
+5578,Hansel Robles,New York Mets,2018,yes,no
+5579,Marcus Stroman,Toronto Blue Jays,2018,yes,yes
+5580,Chris Tillman,Baltimore Orioles,2018,yes,yes
+5581,Tyler Olson,Cleveland Indians,2018,yes,no
+5585,Chase Anderson,Milwaukee Brewers,2018,yes,yes
+5587,Phil Maton,San Diego Padres,2018,yes,no
+5590,Hector Velazquez,Boston Red Sox,2018,yes,yes
+5593,Carson Smith,Boston Red Sox,2018,yes,yes
+5594,Joey Lucchesi,San Diego Padres,2018,yes,no
+5595,Jerry Blevins,New York Mets,2018,yes,yes
+5600,Mike Soroka,Atlanta Braves,2018,yes,no
+5601,Jaime Garcia,Toronto Blue Jays,2018,yes,yes
+5603,Andrew Triggs,Oakland Athletics,2018,yes,yes
+5604,Matt Bowman,St. Louis Cardinals,2018,yes,no
+5605,Erik Goeddel,Los Angeles Dodgers,2018,yes,yes
+5606,Brett Anderson,Oakland Athletics,2018,yes,yes
+5607,Matt Moore,Texas Rangers,2018,yes,yes
+5611,Ryan Madson,Washington Nationals,2018,yes,yes
+5614,Jose Valdez,San Francisco Giants,2018,yes,no
+5615,Jake Faria,Tampa Bay Rays,2018,yes,yes
+5618,Austin Brice,Cincinnati Reds,2018,yes,yes
+5623,Wilmer Font,Tampa Bay Rays,2018,yes,yes
+5627,Greg Holland,St. Louis Cardinals,2018,yes,yes
+5628,Eric Skoglund,Kansas City Royals,2018,yes,no
+5629,Santiago Casilla,Oakland Athletics,2018,yes,yes
+5631,Nick Vincent,Seattle Mariners,2018,yes,yes
+5632,Alex Colome,Seattle Mariners,2018,yes,yes
+5633,Ivan Nova,Pittsburgh Pirates,2018,yes,yes
+5634,Adam Ottavino,Colorado Rockies,2018,yes,yes
+5635,AJ Ramos,New York Mets,2018,yes,yes
+5636,Phil Hughes,San Diego Padres,2018,yes,yes
+5637,Noah Syndergaard,New York Mets,2018,yes,yes
+5640,Daniel Stumpf,Detroit Tigers,2018,yes,yes
+5641,Carl Edwards Jr.,Chicago Cubs,2018,yes,yes
+5642,Francisco Liriano,Detroit Tigers,2018,yes,yes
+5643,Blaine Boyer,Kansas City Royals,2018,yes,yes
+5648,Kenta Maeda,Los Angeles Dodgers,2018,yes,yes
+5653,Oliver Drake,Los Angeles Angels,2018,yes,yes
+5657,Homer Bailey,Cincinnati Reds,2018,yes,yes
+5658,Nick Wittgren,Miami Marlins,2018,yes,yes
+5659,Jorge De La Rosa,Arizona Diamondbacks,2018,yes,yes
+5660,Tim Collins,Washington Nationals,2018,yes,yes
+5662,Jeremy Hellickson,Washington Nationals,2018,yes,yes
+5663,Chris Archer,Tampa Bay Rays,2013,yes,no
+5665,Julio Teheran,Atlanta Braves,2018,yes,yes
+5666,Daniel Gossett,Oakland Athletics,2018,yes,no
+5678,Juan Nicasio,Seattle Mariners,2018,yes,yes
+5679,Jeurys Familia,New York Mets,2018,yes,yes
+5681,Shohei Ohtani,Los Angeles Angels,2018,yes,no
+5682,Mike Dunn,Colorado Rockies,2018,yes,yes
+5683,Dennis Santana,Los Angeles Dodgers,2018,yes,no
+5685,Richard Rodriguez,Pittsburgh Pirates,2018,yes,no
+5687,Masahiro Tanaka,New York Yankees,2018,yes,yes
+5688,Harrison Musgrave,Colorado Rockies,2018,yes,no
+5691,Brandon Kintzler,Washington Nationals,2018,yes,yes
+5692,Stephen Strasburg,Washington Nationals,2018,yes,yes
+5693,Scott Oberg,Colorado Rockies,2018,yes,yes
+5696,Joe Smith,Houston Astros,2018,yes,yes
+5697,Pedro Araujo,Baltimore Orioles,2018,yes,no
+5698,Preston Guilmet,Toronto Blue Jays,2018,yes,no
+5699,Walker Buehler,Los Angeles Dodgers,2018,yes,no
+5701,Matt Albers,Milwaukee Brewers,2018,yes,yes
+5702,Andrew Cashner,Baltimore Orioles,2018,yes,yes
+5708,Chris Beck,New York Mets,2018,yes,no
+5712,Richard Bleier,Baltimore Orioles,2018,yes,no
+5713,Pedro Baez,Los Angeles Dodgers,2018,yes,yes
+5714,Jim Johnson,Los Angeles Angels,2018,yes,yes
+5716,Matt Bush,Texas Rangers,2018,yes,yes
+5717,Caleb Smith,Miami Marlins,2018,yes,yes
+5720,Garrett Richards,Los Angeles Angels,2018,yes,yes
+5723,Mike Foltynewicz,Atlanta Braves,2018,yes,yes
+5725,Luis Garcia,Philadelphia Phillies,2018,yes,yes
+5728,Carlos Carrasco,Cleveland Indians,2018,yes,yes
+5730,Brian Duensing,Chicago Cubs,2018,yes,yes
+5733,Sam Gaviglio,Toronto Blue Jays,2018,yes,no
+5734,Evan Marshall,Cleveland Indians,2018,yes,yes
+5735,Hunter Strickland,San Francisco Giants,2018,yes,yes
+5740,Kelvin Herrera,Washington Nationals,2018,yes,yes
+5741,Drew VerHagen,Detroit Tigers,2018,yes,yes
+5742,Brandon Morrow,Chicago Cubs,2018,yes,yes
+5743,Bryan Mitchell,San Diego Padres,2018,yes,yes
+5745,Michael Wacha,St. Louis Cardinals,2018,yes,yes
+5746,A.J. Cole,New York Yankees,2018,yes,yes
+5750,Jose Urena,Miami Marlins,2018,yes,yes
+5753,Danny Barnes,Toronto Blue Jays,2018,yes,yes
+5755,Aaron Sanchez,Toronto Blue Jays,2018,yes,yes
+5761,Michael Feliz,Pittsburgh Pirates,2018,yes,yes
+5762,Jordan Lyles,San Diego Padres,2018,yes,yes
+5764,Arodys Vizcaino,Atlanta Braves,2018,yes,yes
+5765,Bryan Shaw,Colorado Rockies,2018,yes,no
+5766,Edubray Ramos,Philadelphia Phillies,2018,yes,no
+5770,Tyler Chatwood,Chicago Cubs,2018,yes,yes
+5773,Jonny Venters,Tampa Bay Rays,2018,yes,yes
+5774,Clay Buchholz,Arizona Diamondbacks,2018,yes,yes
+5775,Justin Hancock,Chicago Cubs,2018,yes,no
+5777,Dylan Bundy,Baltimore Orioles,2018,yes,yes
+5778,Daniel Mengden,Oakland Athletics,2018,yes,yes
+5783,John Lamb,Los Angeles Angels,2018,yes,yes
+5790,Brandon McCarthy,Atlanta Braves,2018,yes,yes
+5791,Jake Jewell,Los Angeles Angels,2018,yes,no
+5794,Chad Kuhl,Pittsburgh Pirates,2018,yes,no
+5797,Ryan Tepera,Toronto Blue Jays,2018,yes,no
+5802,Vince Velasquez,Philadelphia Phillies,2018,yes,yes
+5803,Shane Greene,Detroit Tigers,2018,yes,yes
+5805,Peter Moylan,Atlanta Braves,2018,yes,yes
+5807,Chad Bettis,Colorado Rockies,2018,yes,yes
+5815,Tyler Skaggs,Los Angeles Angels,2018,yes,yes
+5816,Ian Kennedy,Kansas City Royals,2018,yes,yes
+5817,Vidal Nuno,Tampa Bay Rays,2018,yes,yes
+5822,Tayron Guerrero,Miami Marlins,2018,yes,no
+5824,Erick Fedde,Washington Nationals,2018,yes,yes
+5828,Oscar De La Cruz,Chicago Cubs,2018,yes,no
+5830,Max Fried,Atlanta Braves,2018,yes,no
+5831,Brent Suter,Milwaukee Brewers,2018,yes,yes
+5832,Enny Romero,Kansas City Royals,2018,yes,yes
+5841,Jose Castillo,San Diego Padres,2018,yes,no
+5844,Chaz Roe,Tampa Bay Rays,2018,yes,yes
+5845,Anthony Bass,Chicago Cubs,2018,yes,yes
+5846,Brian Johnson,Boston Red Sox,2018,yes,yes
+5847,Rhiner Cruz,Toronto Blue Jays,2018,yes,yes
+5850,Jakob Junis,Kansas City Royals,2018,yes,no
+5851,Cory Gearrin,Texas Rangers,2018,yes,yes
+5852,Drew Rucinski,Miami Marlins,2018,yes,no
+5854,Chris Archer,Tampa Bay Rays,2018,yes,yes
+5856,Josh Tomlin,Cleveland Indians,2018,yes,yes
+5858,Sean Doolittle,Washington Nationals,2018,yes,yes
+5860,Felix Hernandez,Seattle Mariners,2018,yes,yes
+5862,Gerrit Cole,Houston Astros,2018,yes,yes
+5868,Addison Reed,Minnesota Twins,2018,yes,yes
+5874,T.J. McFarland,Arizona Diamondbacks,2018,yes,yes
+5879,Marco Estrada,Toronto Blue Jays,2018,yes,yes
+5884,James Paxton,Seattle Mariners,2018,yes,yes
+5885,Antonio Senzatela,Colorado Rockies,2018,yes,no
+5889,Zac Rosscup,Los Angeles Dodgers,2018,yes,yes
+5891,Alex Claudio,Texas Rangers,2018,yes,yes
+5893,Junior Guerra,Milwaukee Brewers,2018,yes,yes
+5895,Aaron Slegers,Minnesota Twins,2018,yes,no
+5900,Zach Eflin,Philadelphia Phillies,2018,yes,yes
+5905,Miles Mikolas,St. Louis Cardinals,2018,yes,no
+5906,Jose Alvarado,Tampa Bay Rays,2018,yes,yes
+5909,Michael Fulmer,Detroit Tigers,2018,yes,yes
+5910,Adam Cimber,Cleveland Indians,2018,yes,no
+5911,Brad Hand,Cleveland Indians,2018,yes,yes
+5919,Jesse Chavez,Chicago Cubs,2018,yes,yes
+5923,Jeurys Familia,Oakland Athletics,2018,yes,yes
+5926,German Marquez,Colorado Rockies,2018,yes,yes
+5930,Blake Snell,Tampa Bay Rays,2018,yes,no
+5931,Colten Brewer,San Diego Padres,2018,yes,no
+5934,Jackson Stephens,Cincinnati Reds,2018,yes,no
+5945,Jalen Beeks,Tampa Bay Rays,2018,yes,no
+5946,Zach Britton,New York Yankees,2018,yes,yes
+5947,Jonny Venters,Atlanta Braves,2018,yes,yes
+5952,Seunghwan Oh,Colorado Rockies,2018,yes,no
+5954,J.A. Happ,New York Yankees,2018,yes,yes
+5956,Luis Perdomo,San Diego Padres,2018,yes,yes
+5958,Cole Hamels,Chicago Cubs,2018,yes,yes
+5959,Sam Tuivailala,Seattle Mariners,2018,yes,yes
+5961,Ross Stripling,Los Angeles Dodgers,2018,yes,no
+5963,Sam Freeman,Atlanta Braves,2018,yes,yes
+5964,Brad Brach,Atlanta Braves,2018,yes,no
+5967,Chasen Shreve,St. Louis Cardinals,2018,yes,yes
+5971,Chris Sale,Boston Red Sox,2018,yes,yes
+5974,Eric Lauer,San Diego Padres,2018,yes,no
+5977,Roenis Elias,Seattle Mariners,2018,yes,yes
+5978,Zach Duke,Seattle Mariners,2018,yes,yes
+5979,Andrew Chafin,Arizona Diamondbacks,2018,yes,yes
+5980,Tyler Glasnow,Tampa Bay Rays,2018,yes,yes
+5981,Chris Archer,Pittsburgh Pirates,2018,yes,yes
+5983,Lance Lynn,New York Yankees,2018,yes,yes
+5984,Brandon Kintzler,Chicago Cubs,2018,yes,yes
+5985,Adam Warren,Seattle Mariners,2018,yes,yes
+5987,Kevin Gausman,Atlanta Braves,2018,yes,yes
+5989,Aaron Loup,Philadelphia Phillies,2018,yes,yes
+5990,Ken Giles,Toronto Blue Jays,2018,yes,yes
+5991,Brad Ziegler,Arizona Diamondbacks,2018,yes,yes
+5993,Jhan Marinez,Baltimore Orioles,2018,yes,yes
+5996,Keone Kela,Pittsburgh Pirates,2018,yes,yes
+5997,Chris Devenski,Houston Astros,2018,yes,no
+5998,John Axford,Los Angeles Dodgers,2018,yes,yes
+6001,Steven Matz,New York Mets,2018,yes,yes
+6003,Oliver Drake,Minnesota Twins,2018,yes,yes
+6004,Taylor Williams,Milwaukee Brewers,2018,yes,no
+6006,Alex Wood,Los Angeles Dodgers,2018,yes,yes
+6008,Matt Magill,Minnesota Twins,2018,yes,yes
+6011,Roberto Osuna,Houston Astros,2018,yes,yes
+6012,Lance McCullers Jr.,Houston Astros,2018,yes,yes
+6014,John Brebbia,St. Louis Cardinals,2018,yes,no
+6015,Shawn Kelley,Oakland Athletics,2018,yes,yes
+6017,Jordan Lyles,Milwaukee Brewers,2018,yes,yes
+6018,Daniel Hudson,Los Angeles Dodgers,2018,yes,yes
+6020,Mike Fiers,Oakland Athletics,2018,yes,yes
+6022,Tyson Ross,St. Louis Cardinals,2018,yes,yes
+6024,Matt Belisle,Minnesota Twins,2018,yes,yes
+6025,Shane Carle,Atlanta Braves,2018,yes,yes
+6033,Fernando Rodney,Oakland Athletics,2018,yes,yes
+6034,Kyle Barraclough,Miami Marlins,2018,yes,yes
+6036,Adalberto Mejia,Minnesota Twins,2018,yes,yes
+6037,Joakim Soria,Milwaukee Brewers,2018,yes,yes
+6043,Danny Duffy,Kansas City Royals,2018,yes,yes
+6047,Trevor Bauer,Cleveland Indians,2018,yes,no
+6056,Artie Lewicki,Detroit Tigers,2018,yes,no
+6058,Austin Davis,Philadelphia Phillies,2018,yes,no
+6059,Hansel Robles,Los Angeles Angels,2018,yes,yes
+6061,Dereck Rodriguez,San Francisco Giants,2018,yes,no
+6064,Bobby Wahl,New York Mets,2018,yes,yes
+6065,Mike Montgomery,Chicago Cubs,2018,yes,yes
+6067,Blaine Hardy,Detroit Tigers,2018,yes,yes
+6080,JT Chargois,Los Angeles Dodgers,2018,yes,yes
+6081,Tommy Milone,Washington Nationals,2018,yes,yes
+6084,Aroldis Chapman,New York Yankees,2018,yes,yes
+6086,Luis Avilan,Philadelphia Phillies,2018,yes,yes
+6088,Neil Ramirez,Cleveland Indians,2018,yes,yes
+6094,Bartolo Colon,Texas Rangers,2018,yes,yes
+6099,Jarlin Garcia,Miami Marlins,2018,yes,yes
+6101,Nick Gardewine,Texas Rangers,2018,yes,no
+6102,Mike Mayers,St. Louis Cardinals,2018,yes,no
+6105,Sean Manaea,Oakland Athletics,2018,yes,yes
+6106,Marco Gonzales,Seattle Mariners,2018,yes,no
+6111,Clayton Richard,San Diego Padres,2018,yes,yes
+6114,Charlie Morton,Houston Astros,2018,yes,yes
+6120,Robert Stephenson,Cincinnati Reds,2018,yes,yes
+6123,Pablo Lopez,Miami Marlins,2018,yes,no
+6129,Kendall Graveman,Oakland Athletics,2018,yes,yes
+6130,Cory Gearrin,Oakland Athletics,2018,yes,yes
+6136,Gio Gonzalez,Milwaukee Brewers,2018,yes,yes
+6137,Xavier Cedeno,Milwaukee Brewers,2018,yes,yes
+6141,Jose Mujica,Tampa Bay Rays,2018,yes,no
+6142,Brock Stewart,Los Angeles Dodgers,2018,yes,yes
+6148,Mark Leiter Jr.,Toronto Blue Jays,2018,yes,yes
+6152,Zack Godley,Arizona Diamondbacks,2018,yes,no
+6153,Keury Mella,Cincinnati Reds,2018,yes,no
+6154,Joe Biagini,Toronto Blue Jays,2018,yes,no
+6165,Michael Kopech,Chicago White Sox,2018,yes,no
+6189,Eric Hanhold,New York Mets,2018,yes,no

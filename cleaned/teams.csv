@@ -1,0 +1,36 @@
+,teamID,franchID,name,lgID,divID
+2385,ANA,ANA,Anaheim Angels,AL,W
+2386,ARI,ARI,Arizona Diamondbacks,NL,W
+2387,ATL,ATL,Atlanta Braves,NL,E
+2388,BAL,BAL,Baltimore Orioles,AL,E
+2389,BOS,BOS,Boston Red Sox,AL,E
+2390,CHA,CHW,Chicago White Sox,AL,C
+2391,CHN,CHC,Chicago Cubs,NL,C
+2392,CIN,CIN,Cincinnati Reds,NL,C
+2393,CLE,CLE,Cleveland Indians,AL,C
+2394,COL,COL,Colorado Rockies,NL,W
+2395,DET,DET,Detroit Tigers,AL,C
+2396,FLO,FLA,Florida Marlins,NL,E
+2397,HOU,HOU,Houston Astros,NL,C
+2398,KCA,KCR,Kansas City Royals,AL,C
+2399,LAN,LAD,Los Angeles Dodgers,NL,W
+2400,MIL,MIL,Milwaukee Brewers,NL,C
+2401,MIN,MIN,Minnesota Twins,AL,C
+2402,MON,WSN,Montreal Expos,NL,E
+2403,NYA,NYY,New York Yankees,AL,E
+2404,NYN,NYM,New York Mets,NL,E
+2405,OAK,OAK,Oakland Athletics,AL,W
+2406,PHI,PHI,Philadelphia Phillies,NL,E
+2407,PIT,PIT,Pittsburgh Pirates,NL,C
+2408,SDN,SDP,San Diego Padres,NL,W
+2409,SEA,SEA,Seattle Mariners,AL,W
+2410,SFN,SFG,San Francisco Giants,NL,W
+2411,SLN,STL,St. Louis Cardinals,NL,C
+2412,TBA,TBD,Tampa Bay Devil Rays,AL,E
+2413,TEX,TEX,Texas Rangers,AL,W
+2414,TOR,TOR,Toronto Blue Jays,AL,E
+2488,LAA,ANA,Los Angeles Angels of Anaheim,AL,W
+2504,WAS,WSN,Washington Nationals,NL,E
+2591,TBA,TBD,Tampa Bay Rays,AL,E
+2699,MIA,FLA,Miami Marlins,NL,E
+2725,HOU,HOU,Houston Astros,AL,W
