@@ -46,7 +46,7 @@ Heatmaps were used to identify which features are highly correlated, and thus re
 ## SHALLOW LEARNING
 In order to effectively run the models, the data was normalized so that every feature would be scaled between 0 and 1. The data was then split so that 70% was used for training and 30% was used for testing. Additionaly, the 'injured' column was removed and used as the target to identify how well the predictions correctly classified the 'injured' labels.
 
-<h6>See Chart Below for Model Accuracy</h6>
+<h6>Model Accuracy</h6>
 
   Type  | Gaussian|DT  |RF    |	LR  |SVC |
 ------- |--------:|---:|-----:|----:|---:|
@@ -61,7 +61,7 @@ AUC	|  N/A    |N/A |N/A   |68%  |65% |
 ##  APPLYING SMOTE ('SYNTHETIC MINORITY OVER SAMPLING TECHNIQUE') 
 The aforementioned models leaned heavily towards predicting 'non-injured' as the majority of pitchers did not suffer injuries. Using the SMOTE approach, dummy data points of 'injured' pitchers were incorporated into the training set to better train the model (i.e., to avoid a heavy skew towards a 'non-injured' prediction which would hopefully lead to more accurate findings). Ultimately, the SMOTE approach validated our earlier findings as the data predicted a similar accuracy both in terms of training and testing results.
 
-<h6>See Chart Below for SMOTE Model Accuracy</h6>
+<h6>SMOTE Model Accuracy</h6>
 
 Type    | Gaussian|DT  |RF  |LR  |SVC |
 --------|--------:|---:|---:|---:|---:|
@@ -69,9 +69,9 @@ Training| N/A	  |79% |69% |64% |63% |
 Testing	|  63%    |61% |63% |64% |64% |
 AUC	| N/A	  |N/A |N/A |68% |68% |
 
-<h6>See Random Forest Confusion Matrices Below for Overall Model Accuracy</h6>
+<h6>Random Forest Confusion Matrices Reflecting Model Accuracy</h6>
 
-*Both matrices correctly predicted 'non-injured' results - the first matrix without SMOTE and the second with SMOTE applied.*  
+Both matrices correctly predicted 'non-injured' results - the first matrix without SMOTE and the second with SMOTE applied.  
 
 ![header](final_project_files/img8.png)
 
