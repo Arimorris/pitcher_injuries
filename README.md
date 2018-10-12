@@ -3,12 +3,12 @@
 The goal of the following report is to predict whether any pitcher in Major League Baseball ('MLB') will be injured in the upcoming season. 
 
 
-## Data Sources
+## DATA SOURCES
 Injury data was gathered from MLB.com, pitching data from FanGraphs.com, and season stats from Lahman's Baseball Database and Chadwick Baseball Bureau. The time frame used was between 2009 and present day. 
 
 
 
-## Introductory Problem
+## INTRODUCTORY PROBLEM
 Noting an increase in pitching injuries since 2009, many baseball teams have incorporated a limited pitch count per game to keep pitchers from suffering injuries. Nevertheless, the amount of injuries continues to increase (as shown below).
 
 <h6>Increasing Number of Pitching Injuries</h6>
@@ -16,7 +16,7 @@ Noting an increase in pitching injuries since 2009, many baseball teams have inc
 ![alt text](final_project_files/img1.png)
 
 
-<h6><center>Decreasing Average Count of Pitches Thrown per Year</center></h6>
+<h6>Decreasing Average Count of Pitches Thrown per Year</h6>
 
 
 ![header](final_project_files/img2.png)
@@ -31,7 +31,7 @@ Despite the limited pitch count, pitchers are still suffering injuries at an inc
 
 
 ## MODEL PREPARATION
-Heatmaps were used to identify which features are highly correlated, and thus redundant and able to be removed. Decision Trees were then utilized to further find feature importance - narrowing the pool down to fifteen features (and dropping the 'previous injuries' feature since its elevated count skewed the data). 
+Heatmaps were used to identify which features are highly correlated, and thus redundant and removable. Decision Trees were then utilized to further find feature importance - narrowing the pool down to fifteen features (and dropping the 'previous injuries' feature since its elevated count skewed the data). 
 
 
 ![header](final_project_files/img4.png)
@@ -46,7 +46,7 @@ Heatmaps were used to identify which features are highly correlated, and thus re
 ## SHALLOW LEARNING
 In order to effectively run the models, the data was normalized so that every feature would be scaled between 0 and 1. The data was then split so that 70% was used for training and 30% was used for testing. Additionaly, the 'injured' column was removed and used as the target to identify how well the predictions correctly classified the 'injured' labels.
 
-See chart below for model accuracy:
+<h6>See Chart Below for Model Accuracy</h6>
 
   Type  | Gaussian|DT  |RF    |	LR  |SVC |
 ------- |--------:|---:|-----:|----:|---:|
@@ -54,13 +54,14 @@ Training|   N/A   |80% |70%   |64%  |64% |
 Testing | 63%	  |63% |66%   |64%  |64% |	
 AUC	|  N/A    |N/A |N/A   |68%  |65% |
 
-New Feature Importances with Final Categories 
+<h6>New Feature Importances with Final Categories</h6>
+
 ![header](final_project_files/img7.png)
 
 ##  APPLYING SMOTE ('SYNTHETIC MINORITY OVER SAMPLING TECHNIQUE') 
 The aforementioned models leaned heavily towards predicting 'non-injured' as the majority of pitchers did not suffer injuries. Using the SMOTE approach, dummy data points of 'injured' pitchers were incorporated into the training set to better train the model (i.e., to avoid a heavy skew towards a 'non-injured' prediction which would hopefully lead to more accurate findings). Ultimately, the SMOTE approach validated our earlier findings as the data predicted a similar accuracy both in terms of training and testing results.
 
-See Chart Below for SMOTE Model Accuracy
+<h6>See Chart Below for SMOTE Model Accuracy</h6>
 
 Type    | Gaussian|DT  |RF  |LR  |SVC |
 --------|--------:|---:|---:|---:|---:|
@@ -68,8 +69,9 @@ Training| N/A	  |79% |69% |64% |63% |
 Testing	|  63%    |61% |63% |64% |64% |
 AUC	| N/A	  |N/A |N/A |68% |68% |
 
-See Random Forest Confusion Matrices Below for Overall Model Accuracy
-(Both matrices correctly predicted 'non-injured' results - the first matrix without SMOTE and the second with SMOTE applied).  
+<h6>See Random Forest Confusion Matrices Below for Overall Model Accuracy</h6>
+
+*Both matrices correctly predicted 'non-injured' results - the first matrix without SMOTE and the second with SMOTE applied.*  
 
 ![header](final_project_files/img8.png)
 
